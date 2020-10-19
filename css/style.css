@@ -233,7 +233,7 @@ p {
 }
 
 .padding_top_half {
-    padding-top: 3.75rem;
+    padding-top: 8rem;
 }
 
 .heading_space {
@@ -795,7 +795,7 @@ section,
     position: absolute;
     top: 0;
     left: 0;
-    background-color: rgb(36, 204, 213);
+    background-color: #dda73d;
     transform: scale(0);
     -o-transform: scale(0);
     -ms-transform: scale(0);
@@ -6551,7 +6551,7 @@ ul.latest_news li a:focus+span.defaultcolor {
         margin-bottom: 2rem;
     }
     .padding_top_half {
-        padding-top: 2rem;
+        padding-top: 8rem;
     }
     .heading_space {
         margin-bottom: 2rem;
@@ -6693,11 +6693,11 @@ ul.latest_news li a:focus+span.defaultcolor {
 
 ::-webkit-scrollbar {
     width: 7px;
-    background-color: #3EABDC;
+    background-color: #dda73d;
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #3EABDC;
+    background: #dda73d;
 }
 
 ::-webkit-scrollbar-thumb:hover {
