@@ -130,22 +130,22 @@ jQuery($=> {
 
 
     /* ----- Back to Top ----- */
-    $(body).append('<a href="#" class="back-top"><i class="fa fa-angle-up"></i></a>');
-    let amountScrolled = 700;
-    let backBtn = $("a.back-top");
-    $window.on("scroll", function () {
-        if ($window.scrollTop() > amountScrolled) {
-            backBtn.addClass("back-top-visible");
-        } else {
-            backBtn.removeClass("back-top-visible");
-        }
-    });
-    backBtn.on("click", function () {
-        $root.animate({
-            scrollTop: 0
-        }, 700);
-        return false;
-    });
+    // $(body).append('<a href="#" class="back-top"><i class="fa fa-angle-up"></i></a>');
+    // let amountScrolled = 700;
+    // let backBtn = $("a.back-top");
+    // $window.on("scroll", function () {
+    //     if ($window.scrollTop() > amountScrolled) {
+    //         backBtn.addClass("back-top-visible");
+    //     } else {
+    //         backBtn.removeClass("back-top-visible");
+    //     }
+    // });
+    // backBtn.on("click", function () {
+    //     $root.animate({
+    //         scrollTop: 0
+    //     }, 700);
+    //     return false;
+    // });
 
     /* ------- Smooth scroll ------- */
     $("a.pagescroll").on("click", function (event) {
