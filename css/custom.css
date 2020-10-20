@@ -231,3 +231,11 @@
     top: 129px;
     right: 208px;
 }
+
+.short-text { display: none !important; }
+
+
+@media screen and (max-width: 320px) {
+    .short-text { display: inline-block !important; }
+    .full-text { display: none !important; }
+}  
