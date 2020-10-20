@@ -19,6 +19,24 @@ $(window).on("load", function () {
     $('.side-menu').removeClass('opacity-0');
 });
 
+ /* ===================================
+       Features Section Number Scroller
+       ====================================== */
+
+$(".stats").each(function () {
+    $('.numscroller').appear(function () {
+        $(this).prop('Counter',0).animate({
+            Counter: $(this).text()
+        }, {
+            duration: 3000,
+            easing: 'swing',
+            step: function (now) {
+                $(this).text(Math.ceil(now));
+            }
+        });
+    });
+});
+
 
 jQuery($=> {
     "use strict";
@@ -670,7 +688,7 @@ jQuery($=> {
     /* ------ OWL Slider ------ */
     /*Partners / LOgo*/
     $("#partners-slider").owlCarousel({
-        items: 5,
+        items: 3,
         autoplay: 1500,
         smartSpeed: 1500,
         autoplayHoverPause: true,
@@ -680,12 +698,12 @@ jQuery($=> {
         dots: false,
         nav: false,
         responsive: {
-            1200: {
-                items: 5,
-            },
-            991: {
-                items: 4,
-            },
+            // 1200: {
+            //     items: 5,
+            // },
+            // 991: {
+            //     items: 4,
+            // },
             767: {
                 items: 3,
             },

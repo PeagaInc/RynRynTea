@@ -63,7 +63,6 @@
     transition: ease-in-out 0.3s;
 }
 .main-title h5{
-    font-family: "Roboto", sans-serif;
     font-weight: 400;
     margin-bottom: 1.5rem;
     text-transform: capitalize;
@@ -96,14 +95,12 @@
     text-align: center;
 }
 .main-title h5 {
-    font-family: "Roboto", sans-serif;
     font-weight: 400;
     margin-bottom: 1.5rem;
     text-transform: capitalize;
-    color: #24c1dd;
+    color: #dda73d;
 }
 .main-title h2 {
-    text-transform: capitalize;
     font-weight: 300;
     color: #18191d;
     line-height: 1.2;
@@ -179,6 +176,58 @@
 .padding-counter{
     padding: 12rem 0;
 }
+.padding-phone{
+    padding: 4.5rem 0;
+}
+.padding-s{
+    padding: 2.5rem 0;
+}
 .text-jus{
     text-align: justify;
+}
+.text-cen{
+    text-align: center;
+}
+.text-jus-cen{
+    text-align: justify;
+    text-align-last: center;
+}
+
+.text-custom-h5{
+    color: #dda73d;
+    padding: 10px 0px 10px 0px;
+}
+
+/* phone */
+
+.absolute-img-wrap .right-img {
+    right: 0;
+}
+.absolute-img-wrap .absolute-img {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+/* laptop carousel */
+
+.laptop {
+    margin-top: 5rem;
+}
+
+.laptop-img {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+
+#laptop-slide {
+    width: 483px;
+    height: 302px;
+    overflow: hidden;
+    position: absolute;
+    display: inline-block;
+    top: 129px;
+    right: 208px;
 }

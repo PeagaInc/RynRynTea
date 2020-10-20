@@ -440,7 +440,7 @@ p {
 }
 
 .whitecolor {
-    color: #ffffff;
+    color: #ffffff !important;
 }
 
 .darkcolor {
@@ -1558,7 +1558,6 @@ ul.social-icons.white li a:focus {
 }
 
 .btnthirdary {
-    background: #fdf9ee;
     color: #dda73d;
     border-radius: 0px;
     border: 2px solid;
@@ -1568,6 +1567,19 @@ ul.social-icons.white li a:focus {
     color: #fff;
     border-radius: 0px
 }
+
+.btnfourth {
+    color: #ffffff;
+    background: #dda73d;
+    border-radius: 0px;
+}
+.btnfourth:hover {
+    background: #ffffff;
+    color: #dda73d;
+    border-radius: 0px;
+    border: 2px solid;
+}
+
 
 .gradient-btn {
     -webkit-background-size: 200% auto;
@@ -4581,8 +4593,8 @@ h4.darkcolor {
 }
 
 #partners-slider .logo-item {
-    width: 160px;
-    height: 40px;
+    width: 120px;
+    height: 120px;
     overflow: hidden;
 }
 
@@ -4657,8 +4669,8 @@ section#stayconnect {
     -webkit-box-shadow: none;
     box-shadow: none;
     height: 41px;
-    color: #b6b8ba;
-    font-size: 0.875rem;
+    color: #495057;
+    font-size: 1rem;
 }
 
 
@@ -6117,12 +6129,12 @@ ul.count_down.white li p:nth-child(2) {
 }
 
 .pricing-item.active {
-    background: #26313c;
+    background: #dda73d;
 }
 
 .pricing-item.active .button {
     border-color: #fff;
-    background: #26313c;
+    background: #dda73d;
     transition: 0.2s all;
 }
 
