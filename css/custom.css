@@ -1,3 +1,88 @@
 .side-menu:not(.gradient-bg){
     background-color: #dda73d;
 }
+
+/* ===================================
+   Stats
+====================================== */
+
+.stats-box {
+    max-width: 220px;
+    margin: 0 auto;
+}
+.serial-box {
+    max-width: 193px;
+    border-radius: 5px;
+    height: 170px;
+    background: #fff;
+    text-align: center;
+    cursor: pointer;
+    -webkit-box-shadow: 0 0 5px rgba(127, 123, 123, 0.1);
+    box-shadow: 0 0 5px rgba(127, 123, 123, 0.1);
+    transition: ease-in-out 0.3s;
+}
+.serial-box:hover {
+    background: #24c1dd;
+    -webkit-box-shadow: 0 0 10px -2px rgba(127, 123, 123, 0.9);
+    box-shadow: 0 0 10px -2px rgba(127, 123, 123, 0.9);
+}
+.serial-box i {
+    color: #24c1dd;
+    font-size: 40px;
+    transform: translateY(0);
+    transition: ease-in-out 0.3s;
+}
+
+.serial-box.yellow:hover {
+    background: #f1c30f;
+}
+.serial-box.yellow i {
+    color: #f1c30f;
+}
+
+.serial-box.green:hover {
+    background: #84b813;
+}
+.serial-box.green i {
+    color: #84b813;
+}
+.serial-box:hover i {
+    transform: translateY(-10px);
+}
+.serial-box p {
+    font-size: 30px;
+    color: #666666;
+    transition: ease-in-out 0.3s;
+}
+.serial-box h6 {
+    color: #18191d;
+    transition: ease-in-out 0.3s;
+}
+.serial-box:hover i, .serial-box:hover p, .serial-box:hover h6 {
+    color: #fff;
+    transition: ease-in-out 0.3s;
+}
+.main-title h5{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    margin-bottom: 1.5rem;
+    text-transform: capitalize;
+    color: #dda73d;
+    font-size: large;
+}
+
+@media screen and (max-width: 767px) {
+    .stats-box {
+        margin: 0 auto;
+    }
+    .mb-xs-2rem {
+        margin-bottom: 2rem !important;
+    }
+    .main-title h2{
+        margin-bottom: 1.2rem;
+    }
+    .main-title h5{
+        line-height: 1;
+        margin-bottom: 1rem;
+    }
+}
