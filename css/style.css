@@ -1800,7 +1800,7 @@ ul.links li a::before,
     margin: 0 !important;
     padding: 0;
     z-index: 1002;
-    background: #fff !important;
+    background: #dda73d !important;
     -webkit-box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.35);
     box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.35);
     -webkit-animation-name: animationFade;
@@ -1812,6 +1812,10 @@ ul.links li a::before,
     -webkit-animation-fill-mode: both;
     -o-animation-fill-mode: both;
     animation-fill-mode: both;
+}
+
+.fixedmenu div ul li a{
+    color: white !important;
 }
 
 .fixedmenu.no-animation {
@@ -2264,7 +2268,7 @@ a.dropdown-toggle::after {
 }
 
 .fixedmenu .sidemenu_btn>span:not(.gradient-bg) {
-    background: #26313c !important;
+    background: #fff !important;
 }
 
 .sidemenu_btn>span:nth-child(2) {
