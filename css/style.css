@@ -1817,6 +1817,9 @@ ul.links li a::before,
 .fixedmenu div ul li a{
     color: white !important;
 }
+.fixedmenu .navbar-nav .nav-link:hover, .navbar .dropdown:hover .dropdown-toggle, .dropdown-menu .dropdown-item:hover, .dropdown-menu.megamenu .dropdown-item:hover{
+    color: white !important;
+}
 
 .fixedmenu.no-animation {
     animation: none;
@@ -2187,6 +2190,9 @@ a.dropdown-toggle::after {
 @media screen and (min-width: 992px) {
     .navbar-nav .dropdown {
         position: static;
+    }
+    .navbar-collapse{
+        padding-right: 80px;
     }
     .navbar .dropdown-menu {
         display: block;
