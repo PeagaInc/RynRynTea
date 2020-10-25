@@ -33,7 +33,7 @@
 </div>
 <!--PreLoader Ends-->
 <!-- header -->
-<?php include 'container/nav-bar-c.php';?>
+<?php include 'container/nav-bar-transparent-white.php';?>
 <!-- header -->
 <!--slider-->
 <section id="home" class="p-0 single-slide light-slider">

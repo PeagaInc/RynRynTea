@@ -29,51 +29,7 @@
 </div>
 <!--PreLoader Ends-->
 <!-- header -->
-<header class="site-header one-page" id="header">
-    <nav class="navbar navbar-expand-lg transparent-bg dark-gradient static-nav p-0">
-        <div class="container z-index-17">
-            <a class="navbar-brand" href="index">
-                <img src="images/logo/rynryn-v.png" alt="logo" class="logo-default">
-                <img src="images/logo/rynryn-v.png" alt="logo" class="logo-scrolled">
-            </a>
-            <div class="collapse navbar-collapse">
-                <ul class="navbar-nav mx-auto" id="">
-                    <li class="nav-item">
-                        <a class="nav-link" href="index">TRANG CHỦ</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">GIỚI THỆU</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="nhuong-quyen">NHƯỢNG QUYỀN</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="about.html">HỆ THỐNG</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="about.html">CỬA HÀNG</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="about.html">LIÊN HỆ</a>
-                    </li>
-                </ul>
-            </div>
-            <ul class="social-icons mt-0 social-icons-simple d-lg-inline-block d-none animated fadeInUp white" data-wow-delay="300ms">
-                <li><a href="#."><i class="fab fa-facebook-f"></i> </a> </li>
-                <li><a href="#."><i class="fab fa-twitter"></i> </a> </li>
-                <li><a href="#."><i class="fab fa-linkedin-in"></i> </a> </li>
-            </ul>
-            <!-- <div class="d-flex d-lg-none animated fadeIn">
-                <div class="para-btn para-up mr-3 disabled">
-                    <i class="far fa-caret-square-up"></i>
-                </div>
-                <div class="para-btn para-down">
-                    <i class="far fa-caret-square-down"></i>
-                </div>
-            </div> -->
-        </div>
-    </nav>
-</header>
+<?php include 'container/nav-bar-dark-white.php';?>
 <!-- header -->
 <div id="pagepiling">
     <!--Main Slider-->

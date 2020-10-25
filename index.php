@@ -33,7 +33,7 @@
 </div>
 <!--PreLoader Ends-->
 <!-- header -->
-<?php include 'container/nav-bar-s.php';?>
+<?php include 'container/nav-bar-white-dark.php';?>
 <!-- header -->
 <!--Main Slider-->
 <section id="main-banner-area" class="position-relative">
