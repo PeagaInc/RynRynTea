@@ -32,26 +32,26 @@
 <header class="site-header one-page" id="header">
     <nav class="navbar navbar-expand-lg transparent-bg dark-gradient static-nav p-0">
         <div class="container z-index-17">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="index">
                 <img src="images/logo/rynryn-v.png" alt="logo" class="logo-default">
                 <img src="images/logo/rynryn-v.png" alt="logo" class="logo-scrolled">
             </a>
             <div class="collapse navbar-collapse">
                 <ul class="navbar-nav mx-auto" id="">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html">TRANG CHỦ</a>
+                        <a class="nav-link" href="index">TRANG CHỦ</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">GIỚI THỆU</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="nhuong-quyen.html">NHƯỢNG QUYỀN</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="about.html">CỬA HÀNG</a>
+                        <a class="nav-link" href="nhuong-quyen">NHƯỢNG QUYỀN</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="about.html">HỆ THỐNG</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="about.html">CỬA HÀNG</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="about.html">LIÊN HỆ</a>

@@ -33,80 +33,7 @@
 </div>
 <!--PreLoader Ends-->
 <!-- header -->
-<header class="site-header" id="header">
-    <nav class="navbar navbar-expand-lg transparent-bg static-nav">
-        <div class="container">
-            <a class="navbar-brand" href="index.html">
-                <img src="images/logo/rynryn-v.png" alt="logo" class="logo-default">
-                <img src="images/logo/rynryn-v.png" alt="logo" class="logo-scrolled">
-            </a>
-            <div class="collapse navbar-collapse">
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item nav-item-fra">
-                        <a class="nav-link" href="index.html">TRANG CHỦ</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="gioi-thieu.html">GIỚI THIỆU</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#header">NHƯỢNG QUYỀN</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="about.html">CỬA HÀNG</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="about.html">HỆ THỐNG</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="about.html">LIÊN HỆ</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-        <!--side menu open button-->
-        <a href="javascript:void(0)" class="d-inline-block sidemenu_btn" id="sidemenu_toggle">
-            <span class="bg-dark"></span> <span class="bg-dark"></span> <span class="bg-dark"></span>
-        </a>
-    </nav>
-    <!-- side menu -->
-    <div class="side-menu side-bg opacity-0">
-        <div class="overlay"></div>
-        <div class="inner-wrapper">
-            <span class="btn-close btn-close-no-padding" id="btn_sideNavClose"><i></i><i></i></span>
-            <nav class="side-nav w-100">
-                <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link" href="index.html">TRANG CHỦ</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="gioi-thieu.html">GIỚI THIỆU</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#header">NHƯỢNG QUYỀN</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="about.html">CỬA HÀNG</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="about.html">HỆ THỐNG</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="about.html">LIÊN HỆ</a>
-                    </li>
-                </ul>
-            </nav>
-            <div class="side-footer w-100">
-                <ul class="social-icons-simple white top40">
-                    <li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i> </a> </li>
-                    <li><a href="javascript:void(0)"><i class="fab fa-instagram"></i> </a> </li>
-                </ul>
-                <p class="whitecolor">&copy; <span id="year"></span> RynRyn Tea</p>
-            </div>
-        </div>
-    </div>
-    <div id="close_side_menu" class="tooltip"></div>
-    <!-- End side menu -->
-</header>
+<?php include 'container/nav-bar-c.php';?>
 <!-- header -->
 <!--slider-->
 <section id="home" class="p-0 single-slide light-slider">
@@ -144,7 +71,7 @@
                          data-transform_in="x:-50px;opacity:0;s:2000;e:Power3.easeOut;"
                          data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"
                          data-start="1000" data-splitin="none" data-splitout="none">
-                        <h3 class="font-xlight whitecolor">KHỞI ĐẦU THÀNH CÔNG CÙNG DỰ ÁN <span class="defaultcolor">RYN RYN</span></h3>
+                        <p class="font-xlight whitecolor">KHỞI ĐẦU THÀNH CÔNG CÙNG DỰ ÁN NHƯỢNG QUYỀN</p>
                     </div>
                     <div class="tp-caption tp-resizeme "
                          data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -156,8 +83,8 @@
                          data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
                          data-transform_out="s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
                          data-start="900" data-splitin="none" data-splitout="none">
-                        <h2 class="full-text">NHƯỢNG QUYỀN</h2>
-                        <h2 class="short-text">NHƯỢNG QUYỀN</h2>
+                        <h2 class="full-text defaultcolor">RYNRYN</h2>
+                        <h2 class="short-text defaultcolor">RYNRYN</h2>
                     </div>
                     <div class="tp-caption tp-resizeme"
                          data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -178,7 +105,7 @@
                          data-y="['middle','middle','middle','middle']" data-voffset="['140','160','160','160']"
                          data-width="['500','500','500','500']" data-textalign="['center','center','center','center']" data-type="text"
                          data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power4.easeInOut;" data-transform_out="s:900;e:Power2.easeInOut;s:900;e:Power2.easeInOut;" data-start="1800" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                        <a class="button btnfourth transition-3 button-padding" href="#our-process">Bắt đầu ngay</a>
+                        <a class="pagescroll button btnfourth transition-3 button-padding" href="#our-process">Bắt đầu ngay</a>
                     </div>
                 </li>
             </ul>
@@ -187,60 +114,6 @@
     </div>
 </section>
 <!--slider end-->
-
-<!-- Stats start -->
-<section class="stats bg-light-gray single-feature padding_bottom padding_top_half mt-n4">
-    <h2 class="d-none">heading</h2>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12 text-center wow fadeIn" data-wow-delay="300ms">
-                <div class="heading-title wow fadeIn" data-wow-delay="300ms">
-                    <h3 class="defaultcolor">Nhìn vào thành tựu của chúng tôi</h3>
-                    <h2 class="padding-s font-normal">Về thương hiệu</h2>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-4 col-sm-12 stats-box mb-xs-2rem">
-                <div class="serial-box center-block wow zoomIn" data-wow-delay="400ms">
-                    <i class="ti ti-face-smile" aria-hidden="true"></i>
-                    <p class="numscroller">1391</p>
-                    <h6 class="mb-0">Customers</h6>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-12 stats-box mb-xs-2rem">
-                <div class="serial-box yellow center-block wow zoomIn" data-wow-delay="500ms">
-                    <i class="ti ti-layers-alt" aria-hidden="true"></i>
-                    <p class="numscroller">445</p>
-                    <h6 class="mb-0">Total Web Pages</h6>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-12 stats-box green mb-xs-2rem">
-                <div class="serial-box green center-block wow zoomIn" data-wow-delay="600ms">
-                    <i class="ti ti-shield" aria-hidden="true"></i>
-                    <p class="numscroller">133</p>
-                    <h6 class="mb-0">Accolades Collect</h6>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-12 stats-box sm-mt-2rem mb-xs-2rem">
-                <div class="serial-box center-block wow zoomIn" data-wow-delay="700ms">
-                    <i class="ti ti-notepad" aria-hidden="true"></i>
-                    <p class="numscroller">775</p>
-                    <h6 class="mb-0">Line of Code</h6>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-12 stats-box mt-md-2rem">
-                <div class="serial-box yellow center-block wow zoomIn" data-wow-delay="800ms">
-                    <i class="ti ti-cup" aria-hidden="true"></i>
-                    <p class="numscroller">555</p>
-                    <h6 class="mb-0">Cups Of Coffee</h6>
-                </div>
-            </div>
-        </div>
-
-    </div>
-</section>
-<!-- Stats ends -->
 <!-- Work Process-->
 <section id="our-process" class="padding bg-light-dark">
     <div class="container">
@@ -284,10 +157,8 @@
     </div>
 </section>
 <!--WOrk Process ends-->
-
-
 <!--Pricing Start-->
-<section id="pricing" class="padding-s bglight">
+<section id="pricing" class="padding-s bg-white">
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 text-center padding-s">
@@ -366,7 +237,118 @@
     </div>
 </section>
 <!--Pricing ends-->
+<!-- Main sign-up section starts -->
+<section id="ourfaq" class="bglight position-relative padding-phone">
+    <div class="container">
+        <div class="row">
+           <div class="col-lg-6 col-md-12 col-sm-12 pr-4 pr-md-0 whitebox">
+              <div class="widget logincontainer">
+                 <h3 class="darkcolor bottom35">Bạn đã sẵn sàng? </h3>
+                 <form class="getin_form border-form" id="register">
+                    <div class="row">
+                       <div class="col-md-12 col-sm-12">
+                          <div class="form-group bottom35">
+                              <label for="registerName" class="d-none"></label>
+                             <input class="form-control" type="text" placeholder="Họ Tên *" required id="registerName">
+                          </div>
+                       </div>
+                       <div class="col-md-12 col-sm-12">
+                          <div class="form-group bottom35">
+                              <label for="registerPhone" class="d-none"></label>
+                             <input class="form-control" type="number" placeholder="Số điện thoại *" required id="registerPhone">
+                          </div>
+                       </div>
+                       <div class="col-md-12 col-sm-12">
+                          <div class="form-group bottom35">
+                              <label for="registerEmail" class="d-none"></label>
+                             <input class="form-control" type="password" placeholder="Email *" required id="registerEmail">
+                          </div>
+                       </div>
+                       <div class="col-md-12 col-sm-12">
+                          <div class="form-group bottom35">
+                              <label for="registerAddress" class="d-none"></label>
+                             <input class="form-control custom-select" type="text" placeholder="Địa chỉ, khu vực bạn định mở cửa hàng?" required id="registerAddress">
+                          </div>
+                       </div>
+                       <div class="col-md-12 col-sm-12">
+                        <div class="input-group  bottom35">
+                            <select class="custom-select " required id="registerPrice">
+                              <option selected>Khoảng vốn tối đa có thể đầu tư?</option>
+                              <option value="1">500 - 600 triệu</option>
+                              <option value="2">700 - 800 triệu</option>
+                              <option value="3">Trên 800 triệu</option>
+                            </select>
+                          </div>
+                    </div>
+                       <div class="col-sm-12">
+                          <button type="submit" class="button btnfourth w-100">Đăng ký</button>
+                       </div>
+                    </div>
+                 </form>
+              </div>
+           </div>
+            <div class="col-lg-6 d-none d-lg-block pl-0">
+                <div class=" image login-image h-100">
+                    <img src="images/register-section.jpg" alt="" class="h-100">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Main sign-up section ends -->
+<!-- Stats start -->
+<section class="stats bg-light-gray single-feature padding_bottom padding_top_half mt-n4">
+    <h2 class="d-none">heading</h2>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 text-center wow fadeIn" data-wow-delay="300ms">
+                <div class="heading-title wow fadeIn" data-wow-delay="300ms">
+                    <h3 class="defaultcolor">Nhìn vào thành tựu của chúng tôi</h3>
+                    <h2 class="padding-s font-normal">Về thương hiệu</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 col-sm-12 stats-box mb-xs-2rem">
+                <div class="serial-box center-block wow zoomIn" data-wow-delay="400ms">
+                    <i class="ti ti-face-smile" aria-hidden="true"></i>
+                    <p class="numscroller">1391</p>
+                    <h6 class="mb-0">Customers</h6>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-12 stats-box mb-xs-2rem">
+                <div class="serial-box yellow center-block wow zoomIn" data-wow-delay="500ms">
+                    <i class="ti ti-layers-alt" aria-hidden="true"></i>
+                    <p class="numscroller">445</p>
+                    <h6 class="mb-0">Total Web Pages</h6>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-12 stats-box green mb-xs-2rem">
+                <div class="serial-box green center-block wow zoomIn" data-wow-delay="600ms">
+                    <i class="ti ti-shield" aria-hidden="true"></i>
+                    <p class="numscroller">133</p>
+                    <h6 class="mb-0">Accolades Collect</h6>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-12 stats-box sm-mt-2rem mb-xs-2rem">
+                <div class="serial-box center-block wow zoomIn" data-wow-delay="700ms">
+                    <i class="ti ti-notepad" aria-hidden="true"></i>
+                    <p class="numscroller">775</p>
+                    <h6 class="mb-0">Line of Code</h6>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-12 stats-box mt-md-2rem">
+                <div class="serial-box yellow center-block wow zoomIn" data-wow-delay="800ms">
+                    <i class="ti ti-cup" aria-hidden="true"></i>
+                    <p class="numscroller">555</p>
+                    <h6 class="mb-0">Cups Of Coffee</h6>
+                </div>
+            </div>
+        </div>
 
+    </div>
+</section>
+<!-- Stats ends -->
 <!--Some Feature -->
 <section id="about-us" class="single-feature padding_bottom padding_top_half bgmilktea" >
     <div class="container">
@@ -376,7 +358,7 @@
                     <h2 class="darkcolor font-normal bottom30">Câu chuyện về <br/><span class="defaultcolor">Ryn Ryn</span></h2>
                 </div>
                 <p class="bottom35 text-jus">Chúng tôi đã bắt đầu từ việc bán cà phê đường phố, hỗ trợ nông dân thu mua cà phê chất lượng, tạo dựng những điểm bán cà phê hoàn vốn nhanh rồi nhượng quyền. Học hỏi từ những kinh nghiệm thực chiến, chúng tôi hoàn thiện mình để thực hiện sứ mệnh mang đến cà phê chất lượng cao giá phải chăng cho người Việt. </p>
-                <a href="gioi-thieu.html" class="button btnthirdary mb-sm-0 mb-4 ">Tìm hiểu thêm<meta></a>
+                <a href="gioi-thieu.php" class="button btnthirdary mb-sm-0 mb-4 ">Tìm hiểu thêm<meta></a>
             </div>
             <div class="col-lg-5 offset-lg-1 col-md-5 col-sm-5 wow fadeInRight" data-wow-delay="300ms">
                 <div class="image"><img alt="SEO" src="images/awesome-feature.jpg"></div>
@@ -416,65 +398,6 @@
     </div>
 </section>
 <!--video part section end-->
-<!-- Main sign-up section starts -->
-<section id="ourfaq" class="bglight position-relative padding-phone">
-    <div class="container">
-        <div class="row">
-           <div class="col-lg-6 col-md-12 col-sm-12 pr-4 pr-md-0 whitebox">
-              <div class="widget logincontainer">
-                 <h3 class="darkcolor bottom35">Bạn đã sẵn sàng? </h3>
-                 <form class="getin_form border-form" id="register">
-                    <div class="row">
-                       <div class="col-md-12 col-sm-12">
-                          <div class="form-group bottom35">
-                              <label for="registerName" class="d-none"></label>
-                             <input class="form-control" type="text" placeholder="Họ Tên *" required id="registerName">
-                          </div>
-                       </div>
-                       <div class="col-md-12 col-sm-12">
-                          <div class="form-group bottom35">
-                              <label for="registerPhone" class="d-none"></label>
-                             <input class="form-control" type="number" placeholder="Số điện thoại *" required id="registerPhone">
-                          </div>
-                       </div>
-                       <div class="col-md-12 col-sm-12">
-                          <div class="form-group bottom35">
-                              <label for="registerEmail" class="d-none"></label>
-                             <input class="form-control" type="password" placeholder="Email *" required id="registerEmail">
-                          </div>
-                       </div>
-                       <div class="col-md-12 col-sm-12">
-                          <div class="form-group bottom35">
-                              <label for="registerAddress" class="d-none"></label>
-                             <input class="form-control custom-select" type="text" placeholder="Địa chỉ, khu vực bạn định mở cửa hàng?" required id="registerAddress">
-                          </div>
-                       </div>
-                       <div class="col-md-12 col-sm-12">
-                        <div class="input-group  bottom35">
-                            <select class="custom-select " required id="registerPrice">
-                              <option selected>Khoảng vốn tối đa có thể đầu tư?</option>
-                              <option value="1">Option One</option>
-                              <option value="2">Option Two</option>
-                              <option value="3">Option Three</option>
-                            </select>
-                          </div>
-                    </div>
-                       <div class="col-sm-12">
-                          <button type="submit" class="button btnfourth w-100">Đăng ký</button>
-                       </div>
-                    </div>
-                 </form>
-              </div>
-           </div>
-            <div class="col-lg-6 d-none d-lg-block pl-0">
-                <div class=" image login-image h-100">
-                    <img src="images/register-section.jpg" alt="" class="h-100">
-                </div>
-            </div>
-        </div>
-     </div>
-  </section>
-  <!-- Main sign-up section ends -->
 <!-- Testimonials -->
 <section id="our-testimonial" class="bglight padding_bottom">
     <div class="parallax page-header testimonial-bg">
@@ -615,106 +538,7 @@
 </section>
 <!-- Contact US ends -->
 <!--Site Footer Here-->
-<footer id="site-footer" class="bg-light-dark bgdefault padding_top">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-3 col-md-6 col-sm-6">
-                <div class="footer_panel padding_bottom_half bottom20">
-                    <a href="index.html" class="footer_logo bottom25"><img src="images/logo/rynryn-yw-m.jpg" alt="MegaOne"></a>
-                    <p class="whitecolor bottom25">Keep away from people who try to belittle your ambitions Small people always do that but the really great Friendly.</p>
-                    <div class="d-table w-100 address-item whitecolor bottom25">
-                        <span class="d-table-cell align-middle"><i class="fas fa-mobile-alt"></i></span>
-                        <p class="d-table-cell align-middle bottom0">
-                            <a href="tel:0933886846">0933.886.846</a> <a class="d-block" href="mailto:rynryn@gmail.com">rynryn@gmail.com</a>
-                        </p>
-                    </div>
-                    <ul class="social-icons white wow fadeInUp" data-wow-delay="300ms">
-                        <li><a href="javascript:void(0)" class="facebook"><i class="fab fa-facebook-f"></i> </a> </li>
-                        <li><a href="javascript:void(0)" class="twitter"><i class="fab fa-twitter"></i> </a> </li>
-                        <li><a href="javascript:void(0)" class="linkedin"><i class="fab fa-linkedin-in"></i> </a> </li>
-                        <li><a href="javascript:void(0)" class="insta"><i class="fab fa-instagram"></i> </a> </li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6">
-                <div class="footer_panel padding_bottom_half bottom20">
-                    <h3 class="whitecolor bottom25">Chính sách</h3>
-                    <ul class="latest_news whitecolor">
-                        <li> <a href="#.">Aenean tristique justo et... </a> <span class="date">15 March 2019</span> </li>
-                        <li> <a href="#.">Phasellus dapibus dictum augue... </a> <span class="date ">15 March 2019</span> </li>
-                        <li> <a href="#.">Mauris blandit vitae. Praesent non... </a> <span class="date ">15 March 2019</span> </li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6">
-                <div class="footer_panel padding_bottom_half bottom20 pl-0 pl-lg-5">
-                    <h3 class="whitecolor bottom25">Phân mục</h3>
-                    <ul class="links ">
-                        <li><a href="#header">Trang chủ</a></li>
-                        <li><a href="gioi-thieu.html">Giới thiệu</a></li>
-                        <li><a href="nhuong-quyen.html">Nhượng quyền</a></li>
-                        <li><a href="pricing.html">Cửa hàng</a></li>
-                        <li><a href="contact.html">Hệ thống</a></li>
-                        <li><a href="faq.html">Liên hệ</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6">
-                <div class="footer_panel padding_bottom_half bottom20">
-                    <h3 class="whitecolor bottom25">Thời gian làm việc</h3>
-                    <p class="whitecolor bottom25">Our support available to help you 24 hours a day, seven days week</p>
-                    <ul class="hours_links whitecolor">
-                        <li><span>Monday-Saturday:</span> <span>8.00-18.00</span></li>
-                        <li><span>Friday:</span> <span>09:00-21:00</span></li>
-                        <li><span>Sunday:</span> <span>09:00-20:00</span></li>
-                        <li><span>Calendar Events:</span> <span>24-Hour Shift</span></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="hotline-phone-ring-wrap">
-        <div class="hotline-phone-ring">
-            <div class="hotline-phone-ring-circle"></div>
-            <div class="hotline-phone-ring-circle-fill"></div>
-            <div class="hotline-phone-ring-img-circle">
-            <a href="tel:0933886846" class="pps-btn-img">
-                <img src="images/call-now.png" alt="Gọi điện thoại" width="50">
-            </a>
-            </div>
-        </div>
-        <div class="hotline-bar">
-            <a href="tel:0933886846">
-                <span class="text-hotline">0933.886.846</span>
-            </a>
-        </div>
-    </div>
-</footer>
-<!-- Load Facebook SDK for JavaScript -->
-<div id="fb-root"></div>
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      xfbml            : true,
-      version          : 'v8.0'
-    });
-  };
-
-  (function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<!-- Your Chat Plugin code -->
-<div class="fb-customerchat"
-    attribution=setup_tool
-    page_id="586711838403573"
-    theme_color="#0A7CFF">
-</div>
-
+<?php include 'container/footer-s.php';?>
 <!--Footer ends-->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="js/jquery-3.4.1.min.js"></script>

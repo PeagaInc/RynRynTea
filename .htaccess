@@ -1,3 +1,9 @@
+  ErrorDocument 404 http://example.com/404/
+  ErrorDocument 500 http://example.com/500/
+  RewriteEngine On
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteRule ^([^\.]+)$ $1.php [NC,L]
+  
 <IfModule mod_deflate.c>
   AddOutputFilterByType DEFLATE text/html
   AddOutputFilterByType DEFLATE text/css
