@@ -11,13 +11,13 @@
                         <a class="nav-link" href="index">TRANG CHỦ</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">GIỚI THỆU</a>
+                        <a class="nav-link" href="gioi-thieu">GIỚI THỆU</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="nhuong-quyen">NHƯỢNG QUYỀN</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about.html">HỆ THỐNG</a>
+                        <a class="nav-link" href="he-thong">HỆ THỐNG</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="about.html">CỬA HÀNG</a>
@@ -27,12 +27,11 @@
                     </li>
                 </ul>
             </div>
-            <ul class="social-icons mt-0 social-icons-simple d-lg-inline-block d-none animated fadeInUp white" data-wow-delay="300ms">
+            <!-- <ul class="social-icons mt-0 social-icons-simple d-lg-inline-block d-none animated fadeInUp white" data-wow-delay="300ms">
                 <li><a href="#."><i class="fab fa-facebook-f"></i> </a> </li>
                 <li><a href="#."><i class="fab fa-twitter"></i> </a> </li>
                 <li><a href="#."><i class="fab fa-linkedin-in"></i> </a> </li>
-            </ul>
-
+            </ul> -->
             <a href="javascript:void(0)" class="d-inline-block sidemenu_btn" id="sidemenu_toggle">
                 <span class="bgdefault"></span> <span class="bgdefault"></span> <span class="bgdefault"></span>
             </a>

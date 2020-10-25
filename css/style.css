@@ -2701,7 +2701,7 @@ a.dropdown-toggle::after {
         top: -300px !important;
     }
     .full-map {
-        height: 540px !important;
+        height: 520px !important;
     }
 }
 
@@ -3200,7 +3200,6 @@ a.dropdown-toggle::after {
     transform: translateY(50%);
     line-height: 1;
     z-index: 2;
-    margin-bottom: -24px;
 }
 
 .breadcrumb {
@@ -5609,14 +5608,14 @@ body:not(.rtl-layout) .readmore {
 /*map */
 
 .full-map {
-    height: 400px;
+    height: 800px;
     width: 100%;
     overflow: hidden;
     margin-bottom: 40px;
 }
 
 .short-map {
-    max-height: 330px;
+    max-height: 540px;
 }
 
 

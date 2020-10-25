@@ -262,7 +262,7 @@
         </div>
     </div>
 </section>
-
+<!--Some Feature -->
 <!-- Counters -->
 <!-- <section id="bg-counters" class="padding-s bg-counters parallax">
     <div class="container">
