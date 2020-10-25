@@ -51,7 +51,7 @@
                         <a class="nav-link" href="nhuong-quyen">NHƯỢNG QUYỀN</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about.html">HỆ THỐNG</a>
+                        <a class="nav-link" href="he-thong">HỆ THỐNG</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="about.html">CỬA HÀNG</a>

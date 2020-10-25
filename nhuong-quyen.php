@@ -71,7 +71,7 @@
                          data-transform_in="x:-50px;opacity:0;s:2000;e:Power3.easeOut;"
                          data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"
                          data-start="1000" data-splitin="none" data-splitout="none">
-                        <p class="font-xlight whitecolor">KHỞI ĐẦU THÀNH CÔNG CÙNG DỰ ÁN NHƯỢNG QUYỀN</p>
+                        <p class="font-xlight whitecolor">KHỞI ĐẦU THÀNH CÔNG CÙNG</p>
                     </div>
                     <div class="tp-caption tp-resizeme "
                          data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
