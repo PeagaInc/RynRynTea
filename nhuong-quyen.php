@@ -23,6 +23,13 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/custom.css">
     
+    <script>
+        if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) )     
+        {
+            var url = "http://m.mysite.com/";    
+            $(location).attr('href',url);
+        }
+    </script>
 </head>
 <body>
 <!--PreLoader-->

@@ -4,7 +4,9 @@ var long = 0 ;
 
 function getLocation() {
     if (navigator.geolocation) {
-      navigator.geolocation.getCurrentPosition(initMap);
+        navigator.permissions.query({ name: 'geolocation' })
+        .then(console.log);
+        navigator.geolocation.getCurrentPosition(initMap);
     }
     else{
         alert("Vui long cho phep su dung vi tri")
@@ -12,12 +14,11 @@ function getLocation() {
 }
 
 function initMap(position) {
-    var lat = position.coords.latitude;
-    var long = position.coords.longitude ;
-    if(position.coords = 'undefined'){
-        lat = 10.803747 ;
-        long = 106.732018 ;
-    }
+    var lat = 10.803747;
+    lat = position.coords.latitude;
+    var long= 106.732018;
+    long = position.coords.longitude ;
+    console.log(lat);
     var map = new google.maps.Map(document.getElementById('map'), {
         center: new google.maps.LatLng(lat, long),
         zoom: 12
