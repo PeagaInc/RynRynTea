@@ -1289,7 +1289,7 @@ jQuery($=> {
         jsFileLocation: "js/revolution/",
         sliderLayout: "fullscreen",
         dottedOverlay: "none",
-        delay: 9000,
+        delay: 5000,
         navigation: {
             keyboardNavigation: "off",
             keyboard_direction: "horizontal",
@@ -1368,7 +1368,7 @@ jQuery($=> {
         sliderLayout: "fullscreen",
         autoHeight: 'off',
         dottedOverlay: "none",
-        delay: 9000,
+        delay: 5000,
         navigation: {
             keyboardNavigation: "off",
             keyboard_direction: "horizontal",
@@ -1450,7 +1450,7 @@ jQuery($=> {
         jsFileLocation: "js/revolution/",
         sliderLayout: "fullscreen",
         dottedOverlay: "none",
-        delay: 9000,
+        delay: 5000,
         navigation: {
             keyboardNavigation: "off",
             keyboard_direction: "horizontal",
@@ -1537,7 +1537,7 @@ jQuery($=> {
         sliderLayout: "fullscreen",
         scrollbarDrag: "true",
         dottedOverlay: "none",
-        delay: 9000,
+        delay: 5000,
         navigation: {},
         responsiveLevels: [1240, 1024, 778, 480],
         visibilityLevels: [1240, 1024, 778, 480],

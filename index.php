@@ -33,7 +33,7 @@
 </div>
 <!--PreLoader Ends-->
 <!-- header -->
-<?php include 'container/nav-bar-white-dark.php';?>
+<?php include 'container/nav-bar.php';?>
 <!-- header -->
 <!--Main Slider-->
 <section id="main-banner-area" class="position-relative">
@@ -44,8 +44,7 @@
                 <!-- SLIDE 1 -->
                 <li data-index="rs-01" data-transition="fade" data-slotamount="default" data-easein="Power100.easeInOut" data-easeout="Power100.easeInOut" data-masterspeed="2000" data-fsmasterspeed="1500" data-param1="01">
                     <!-- MAIN IMAGE -->
-                    <!-- images/banner-light1-1.jpg -->
-                    <img src="images/soundofthestreet.png"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                    <img src="images/banner-light1-1.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                     <!-- LAYER NR. 1 -->
                     <div class="tp-caption tp-resizeme"
                          data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -184,7 +183,7 @@
         </div>
     </div>
     <!--scroll down-->
-    <a href="#about-us" class="scroll-down pagescroll hover-default">Scroll Down <i class="fas fa-long-arrow-alt-down"></i></a>
+    <a href="#about-us" class="scroll-down pagescroll hover-default whitecolor">Scroll Down <i class="fas fa-long-arrow-alt-down"></i></a>
     <ul class="social-icons-simple revicon">
         <li class="d-table"><a href="#" class="hover-light"><i class="fab fa-facebook-f"></i></a> </li>
         <li class="d-table"><a href="#" class="hover-light"><i class="fab fa-instagram"></i> </a> </li>

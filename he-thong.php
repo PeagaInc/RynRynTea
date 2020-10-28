@@ -33,7 +33,7 @@
 </div>
 <!--PreLoader Ends-->
 <!-- header -->
-<?php include 'container/nav-bar-transparent-white.php';?>
+<?php include 'container/nav-bar.php';?>
 <!-- header -->
 <!--Page Header-->
 <section id="main-banner-page" class="position-relative page-header service-header section-nav-smooth parallax">

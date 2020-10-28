@@ -1,5 +1,5 @@
 .side-menu:not(.gradient-bg) {
-  background-color: #dda73d;
+  background-color: #EEA92E;
 }
 
 /* ===================================
@@ -68,7 +68,7 @@
   font-weight: 400;
   margin-bottom: 1.5rem;
   text-transform: capitalize;
-  color: #dda73d;
+  color: #EEA92E;
   font-size: large;
 }
 
@@ -100,7 +100,7 @@
   font-weight: 400;
   margin-bottom: 1.5rem;
   text-transform: capitalize;
-  color: #dda73d;
+  color: #EEA92E;
 }
 .main-title h2 {
   font-weight: 300;
@@ -201,7 +201,7 @@
 }
 
 .text-custom-h5 {
-  color: #dda73d;
+  color: #EEA92E;
   padding: 10px 0px 10px 0px;
 }
 
@@ -281,7 +281,7 @@
   position: absolute;
   background-color: transparent;
   border-radius: 100%;
-  border: 2px solid #dda73d;
+  border: 2px solid #EEA92E;
   -webkit-animation: phonering-alo-circle-anim 1.2s infinite ease-in-out;
   animation: phonering-alo-circle-anim 1.2s infinite ease-in-out;
   transition: all 0.5s;
@@ -296,7 +296,7 @@
   top: 25px;
   left: 25px;
   position: absolute;
-  background-color: #dda73d;
+  background-color: #EEA92E;
   border-radius: 100%;
   border: 2px solid transparent;
   -webkit-animation: phonering-alo-circle-fill-anim 2.3s infinite ease-in-out;
@@ -307,7 +307,7 @@
   transform-origin: 50% 50%;
 }
 .hotline-phone-ring-img-circle {
-  background-color: #dda73d;
+  background-color: #EEA92E;
   width: 33px;
   height: 33px;
   top: 36px;

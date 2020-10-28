@@ -40,7 +40,7 @@
 </div>
 <!--PreLoader Ends-->
 <!-- header -->
-<?php include 'container/nav-bar-transparent-white.php';?>
+<?php include 'container/nav-bar-2.php';?>
 <!-- header -->
 <!--slider-->
 <section id="home" class="p-0 single-slide light-slider">

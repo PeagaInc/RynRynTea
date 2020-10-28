@@ -432,7 +432,7 @@ p {
 }
 
 .bgdefault {
-    background: #dda73d !important; 
+    background: #EEA92E !important; 
 }
 
 .bgdark {
@@ -448,7 +448,7 @@ p {
 }
 
 .defaultcolor {
-    color: #dda73d;
+    color: #EEA92E;
 }
 
 .bgmilktea{
@@ -461,7 +461,7 @@ p {
 
 .hover-default:hover,
 .hover-default:focus {
-    color: #dda73d;
+    color: #EEA92E;
 }
 
 .tparrows:hover {
@@ -798,7 +798,7 @@ section,
     position: absolute;
     top: 0;
     left: 0;
-    background-color: #dda73d;
+    background-color: #EEA92E;
     transform: scale(0);
     -o-transform: scale(0);
     -ms-transform: scale(0);
@@ -923,7 +923,7 @@ section,
     left: 0;
     width: 100%;
     height: 100%;
-    background: #dda73d;
+    background: #EEA92E;
     transform: translateY(100%);
 }
 
@@ -945,7 +945,7 @@ section,
 }
 
 .tp-bullet.selected {
-    background: #dda73d;
+    background: #fff;
     cursor: default;
 }
 
@@ -965,7 +965,7 @@ section,
 #rev_creative .tp-bullet {
     border-radius: 50%;
     background: transparent !important;
-    border: 1px solid #dda73d;
+    border: 1px solid #EEA92E;
     overflow: hidden;
 }
 
@@ -985,7 +985,7 @@ section,
 #rev_creative .tp-bullet.selected:before {
     height: 60%;
     width: 60%;
-    background: #dda73d;
+    background: #fff;
 }
 
 
@@ -1224,7 +1224,7 @@ section,
 
 .hephaistos .tp-bullet:hover,
 .hephaistos .tp-bullet.selected {
-    border-color: #dda73d !important;
+    border-color: #fff !important;
 }
 
 .hephaistos .tp-bullet.selected {
@@ -1265,7 +1265,7 @@ section,
 .video-play-button {
     height: 70px;
     width: 70px;
-    background: #dda73d;
+    background: #EEA92E;
     display: inline-block;
     top: 50%;
     right: 0;
@@ -1298,7 +1298,7 @@ section,
     -o-animation: pulse_effect 1s infinite;
     animation: pulse_effect 1s infinite;
     background: #ffffff;
-    color: #dda73d;
+    color: #EEA92E;
 }
 
 .video-play-button i {
@@ -1316,7 +1316,7 @@ section,
     border-radius: 50px;
     line-height: 57px;
     text-align: center;
-    color: #dda73d;
+    color: #EEA92E;
     -webkit-box-shadow: 0 0 0 0 rgb(255, 255, 255);
     box-shadow: 0 0 0 0 rgb(255, 255, 255);
     z-index: 1;
@@ -1328,7 +1328,7 @@ section,
     -o-animation: pulse_effect 1s infinite;
     animation: pulse_effect 1s infinite;
     background: #ffffff;
-    color: #dda73d;
+    color: #EEA92E;
 }
 
 .video-play-button-small i {
@@ -1467,7 +1467,7 @@ ul.social-icons-simple li a::before {
     top: -1px;
     opacity: 0;
     visibility: hidden;
-    background: #dda73d;
+    background: #EEA92E;
     border-radius: inherit;
     z-index: -1;
     -webkit-transform: scale(.5);
@@ -1547,35 +1547,35 @@ ul.social-icons.white li a:focus {
 
 .btnprimary {
     background: #fff;
-    color: #dda73d;
+    color: #EEA92E;
     border-radius: 0px;
     border: 2px solid;
 }
 .btnprimary:hover {
-    background: #dda73d;
+    background: #EEA92E;
     color: #fff;
     border-radius: 0px
 }
 
 .btnthirdary {
-    color: #dda73d;
+    color: #EEA92E;
     border-radius: 0px;
     border: 2px solid;
 }
 .btnthirdary:hover {
-    background: #dda73d;
+    background: #EEA92E;
     color: #fff;
     border-radius: 0px
 }
 
 .btnfourth {
     color: #ffffff;
-    background: #dda73d;
+    background: #EEA92E;
     border-radius: 0px;
 }
 .btnfourth:hover {
     background: #ffffff;
-    color: #dda73d;
+    color: #EEA92E;
     border-radius: 0px;
     border: 2px solid;
 }
@@ -1638,15 +1638,15 @@ ul.social-icons.white li a:focus {
 
 .btn-primary,
 .btn-primary:active {
-    background: #dda73d !important;
+    background: #EEA92E !important;
     outline: none;
 }
 
 .btn-primary:hover,
 .btn-primary:focus {
-    border-color: #dda73d !important;
+    border-color: #EEA92E !important;
     background: transparent !important;
-    color: #dda73d !important;
+    color: #EEA92E !important;
 }
 
 .btn-secondary,
@@ -1800,7 +1800,7 @@ ul.links li a::before,
     margin: 0 !important;
     padding: 0;
     z-index: 1002;
-    background: #dda73d !important;
+    background: #EEA92E !important;
     -webkit-box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.35);
     box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.35);
     -webkit-animation-name: animationFade;
@@ -1925,7 +1925,7 @@ ul.links li a::before,
 }
 
 .navbar-brand>img {
-    width: 140%;
+    width: 180%;
 }
 
 .navbar.fixedmenu .logo-default,
@@ -1997,7 +1997,7 @@ ul.links li a::before,
     bottom: 3px;
     width: 0;
     height: 2px;
-    background: #dda73d !important;
+    background: #EEA92E !important;
     margin: auto;
     -webkit-transition: 0.4s all;
     -moz-transition: 0.4s all;
@@ -2152,14 +2152,14 @@ a.dropdown-toggle::after {
 }
 
 .dropdown-item.active {
-    color: #dda73d;
+    color: #EEA92E;
 }
 
 .navbar-nav .nav-link:hover,
 .navbar .dropdown:hover .dropdown-toggle,
 .dropdown-menu .dropdown-item:hover,
 .dropdown-menu.megamenu .dropdown-item:hover {
-    color: #dda73d !important;
+    color: #ffffff !important;
 }
 
 .dropdown-menu .dropdown-title {
@@ -2363,7 +2363,7 @@ a.dropdown-toggle::after {
 }
 
 .side-menu:not(.gradient-bg) {
-    background: #dda73d;
+    background: #EEA92E;
 }
 
 .side-menu.side-menu-active {
@@ -2815,7 +2815,7 @@ a.dropdown-toggle::after {
     width: 40px;
     transform: scaleX(0);
     display: block;
-    background: #dda73d;
+    background: #EEA92E;
     top: 100%;
     visibility: hidden;
     opacity: 0;
@@ -2831,7 +2831,7 @@ a.dropdown-toggle::after {
 }
 
 .numbered .tp-bullet.selected .tp-count {
-    color: #dda73d;
+    color: #fff;
 }
 
 .white .numbered .tp-bullet .tp-count,
@@ -3032,7 +3032,7 @@ a.dropdown-toggle::after {
 }
 
 .fixed-para-btn .para-btn svg:hover {
-    fill: #dda73d;
+    fill: #EEA92E;
 }
 
 .dark-gradient {
@@ -3536,7 +3536,7 @@ iframe {
 }
 
 .feature-item.innovative-border {
-    border: 1px solid #dda73d;
+    border: 1px solid #EEA92E;
     padding: 15px 10px 0 10px;
     position: relative;
 }
@@ -3546,8 +3546,8 @@ iframe {
     position: absolute;
     width: 14px;
     height: 14px;
-    border-right: 1px solid #dda73d;
-    border-bottom: 1px solid #dda73d;
+    border-right: 1px solid #EEA92E;
+    border-bottom: 1px solid #EEA92E;
     background: #fff;
     top: calc(50% - 7px);
     right: -8px;
@@ -3559,8 +3559,8 @@ iframe {
     position: absolute;
     width: 14px;
     height: 14px;
-    border-left: 1px solid #dda73d;
-    border-top: 1px solid #dda73d;
+    border-left: 1px solid #EEA92E;
+    border-top: 1px solid #EEA92E;
     background: #fff;
     top: calc(50% - 7px);
     left: -8px;
@@ -4114,7 +4114,7 @@ iframe {
 .testi-box.no-rounded .testimonial-round>img {
     -webkit-border-radius: 0 !important;
     border-radius: 0 !important;
-    border: 1px solid #dda73d;
+    border: 1px solid #EEA92E;
 }
 
 .testi-box .testimonial-round:hover>img {
@@ -4345,7 +4345,7 @@ h4.darkcolor {
     left: 0;
     width: 100%;
     height: 100%;
-    background: #dda73d;
+    background: #EEA92E;
     transform: translateY(100%);
 }
 
@@ -4403,7 +4403,7 @@ h4.darkcolor {
 .cbp-l-filters .cbp-filter-item:focus span,
 .cbp-l-filters.whitecolor .cbp-filter-item:focus span,
 .cbp-l-filters.whitecolor .cbp-filter-item-active span {
-    color: #dda73d;
+    color: #EEA92E;
 }
 
 .gallery-hvr {
@@ -4479,7 +4479,7 @@ h4.darkcolor {
     top: -1px;
     opacity: .3;
     visibility: hidden;
-    background: #dda73d;
+    background: #EEA92E;
     border-radius: inherit;
     z-index: -1;
     -webkit-transform: scale(0);
@@ -4583,7 +4583,7 @@ h4.darkcolor {
 }
 
 .fancybox-thumbs__list a:before {
-    border-color: #dda73d;
+    border-color: #EEA92E;
 }
 
 
@@ -4753,8 +4753,8 @@ span.icon-contact {
 }
 
 .form-check input[type="checkbox"]:checked+label::before {
-    background: #dda73d;
-    border-color: #dda73d;
+    background: #EEA92E;
+    border-color: #EEA92E;
     color: #fff;
 }
 
@@ -4931,13 +4931,13 @@ ul.rounded li::before{
 }
 
 .news_item:hover h3{
-    color: #dda73d;
+    color: #EEA92E;
 }
 .meta-tags li a:hover,
 .meta-tags li a:focus,
 .commment li a:hover,
 .commment li a:focus {
-    color: #dda73d;
+    color: #EEA92E;
 }
 .news_item .blog-img{
     position: relative;
@@ -4978,8 +4978,8 @@ ul.rounded li::before{
 }
 
 .owl-blog-item .owl-nav .owl-next:hover, .owl-blog-item .owl-nav .owl-prev:hover {
-    background: #dda73d;
-    border: 2px solid #dda73d;
+    background: #EEA92E;
+    border: 2px solid #EEA92E;
 }
 .play-hvr {
     position: absolute;
@@ -5004,7 +5004,7 @@ ul.rounded li::before{
     -moz-border-radius: 50px;
     border-radius: 50px;
     border: 2px solid transparent;
-    background: #dda73d;
+    background: #EEA92E;
     padding-left: 4px;
     font-size: 20px;
     color: #fff;
@@ -5013,9 +5013,9 @@ ul.rounded li::before{
 }
 
 .play-hvr:hover .play-icon {
-    color: #dda73d;
+    color: #EEA92E;
     background: #fff;
-    border-color: #dda73d;
+    border-color: #EEA92E;
 }
 
 
@@ -5125,7 +5125,7 @@ ul.rounded li::before{
 
 .cart_table .d-table:hover .product-name,
 .cart_table .d-table:focus .product-name {
-    color: #dda73d;
+    color: #EEA92E;
 }
 
 .apply_coupon {
@@ -5249,7 +5249,7 @@ ul.rounded li::before{
 
 .shopping-box:hover h4>a,
 .shopping-box:focus h4>a {
-    color: #dda73d;
+    color: #EEA92E;
 }
 
 .quote .quote {
@@ -5370,7 +5370,7 @@ ul.rounded li::before{
 }
 
 .tabset-list .active>a {
-    background: #dda73d;
+    background: #EEA92E;
     cursor: default;
 }
 
@@ -5460,7 +5460,7 @@ ul.rounded li::before{
 
 .carousel-shop-detail-inner .synced .item {
     opacity: 1;
-    border: 2px solid #dda73d;
+    border: 2px solid #EEA92E;
 }
 
 .carousel-shop-detail .owl-stage-outer {
@@ -5636,7 +5636,7 @@ body:not(.rtl-layout) .readmore {
 .pagination li>a:hover,
 .pagination li>a:focus,
 .pagination li.active>a {
-    background: #dda73d !important;
+    background: #EEA92E !important;
     color: #fff;
     border: 0;
 }
@@ -5679,7 +5679,7 @@ ul.rounded>li+li {
 ul.rounded li::before {
     height: 10px;
     width: 10px;
-    background: #dda73d;
+    background: #EEA92E;
     margin-right: 10px;
     margin-left: -20px;
 }
@@ -5743,7 +5743,7 @@ ul.rounded li::before {
 }
 
 .widget_search .input-group-addon {
-    background-color: #dda73d;
+    background-color: #EEA92E;
     color: #fff;
     top: 0;
     left: 0;
@@ -5803,7 +5803,7 @@ form.findus textarea {
 
 .form-control:focus,
 textarea:focus {
-    border-color: #dda73d;
+    border-color: #EEA92E;
     -webkit-box-shadow: 0 0;
     box-shadow: 0 0;
 }
@@ -5881,8 +5881,8 @@ form.findus .select:after {
 .webtags li a:hover,
 .webtags li a:focus {
     color: #fff;
-    background: #dda73d;
-    border: 1px solid #dda73d;
+    background: #EEA92E;
+    border: 1px solid #EEA92E;
 }
 
 
@@ -5897,7 +5897,7 @@ form.findus .select:after {
 .news_box:focus h4>a,
 .blog-item:hover h3>a,
 .blog-item:focus h3>a {
-    color: #dda73d;
+    color: #EEA92E;
 }
 
 .blog-item:hover img {
@@ -5938,7 +5938,7 @@ form.findus .select:after {
 
 .single_post:hover a,
 .single_post:focus a {
-    color: #dda73d;
+    color: #EEA92E;
 }
 
 
@@ -5951,7 +5951,7 @@ form.findus .select:after {
 .webcats li a::before {
     height: 8px;
     width: 8px;
-    background: #dda73d;
+    background: #EEA92E;
     margin-right: 10px;
     vertical-align: baseline;
     margin-bottom: 1px;
@@ -5965,7 +5965,7 @@ form.findus .select:after {
 
 .webcats li a:hover,
 .webcats li a:focus {
-    color: #dda73d;
+    color: #EEA92E;
 }
 
 .whitebox .widget {
@@ -6138,18 +6138,18 @@ ul.count_down.white li p:nth-child(2) {
 }
 
 .pricing-item.active {
-    background: #dda73d;
+    background: #EEA92E;
 }
 
 .pricing-item.active .button {
     border-color: #fff;
-    background: #dda73d;
+    background: #EEA92E;
     transition: 0.2s all;
 }
 
 .pricing-item .button {
     border-color: #fff;
-    background: #dda73d;
+    background: #EEA92E;
     color: #fff;
     display: table;
     margin: 0 auto;
@@ -6452,7 +6452,7 @@ ul.hours_links li>span {
 }
 
 .bg-light-dark ul.hours_links li>span {
-    background: #dda73d;
+    background: #EEA92E;
 }
 
 ul.hours_links li span:last-child {
@@ -6610,7 +6610,7 @@ ul.latest_news li a:focus+span.defaultcolor {
     .navbar-nav .nav-link:focus,
     .dropdown-menu .dropdown-item:focus,
     .dropdown-menu.megamenu .dropdown-item:focus {
-        color: #dda73d;
+        color: #EEA92E;
     }
     .transparent-form textarea {
         height: 40px;
@@ -6741,11 +6741,11 @@ ul.latest_news li a:focus+span.defaultcolor {
 
 ::-webkit-scrollbar {
     width: 7px;
-    background-color: #dda73d;
+    background-color: #EEA92E;
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #dda73d;
+    background: #EEA92E;
 }
 
 ::-webkit-scrollbar-thumb:hover {

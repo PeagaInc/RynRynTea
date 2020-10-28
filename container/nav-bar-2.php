@@ -1,10 +1,10 @@
 <!-- header -->
 <header class="site-header" id="header">
-    <nav class="navbar navbar-expand-lg transparent-bg static-nav">
+    <nav class="navbar navbar-expand-lg transparent-bg static-nav bgdefault">
         <div class="container">
             <a class="navbar-brand" href="index">
-                <img src="images/logo/rynryn-v.png" alt="logo" class="logo-default">
-                <img src="images/logo/rynryn-v-wy.png" alt="logo" class="logo-scrolled">
+                <img src="images/logo/nav-text-white.png" alt="logo" class="logo-default">
+                <img src="images/logo/nav-text-white.png" alt="logo" class="logo-scrolled">
             </a>
             <div class="collapse navbar-collapse">
                 <ul class="navbar-nav ml-auto">
@@ -21,7 +21,7 @@
                         <a class="nav-link" href="he-thong">HỆ THỐNG</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about.html">CỬA HÀNG</a>
+                        <a class="nav-link" href="san-pham">SẢN PHẨM</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="about.html">LIÊN HỆ</a>
@@ -31,7 +31,7 @@
         </div>
         <!--side menu open button-->
         <a href="javascript:void(0)" class="d-inline-block sidemenu_btn" id="sidemenu_toggle">
-            <span class="bgdefault"></span> <span class="bgdefault"></span> <span class="bgdefault"></span>
+            <span class="bgwhite"></span> <span class="bgwhite"></span> <span class="bgwhite"></span>
         </a>
     </nav>
     <!-- side menu -->
@@ -54,7 +54,7 @@
                         <a class="nav-link" href="he-thong">HỆ THỐNG</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="about.html">CỬA HÀNG</a>
+                        <a class="nav-link" href="san-pham">SẢN PHẨM</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="about.html">LIÊN HỆ</a>
