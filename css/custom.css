@@ -442,7 +442,7 @@
   width: 100px !important;
   height: auto !important;
 }
-@media (max-width: 768px) {
+@media (max-width: 735px) {
   .main-bg {
     width: 300px !important;
     height: auto !important;
