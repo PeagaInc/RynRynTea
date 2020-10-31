@@ -1,5 +1,5 @@
 .side-menu:not(.gradient-bg) {
-  background-color: #EEA92E;
+  background-color: #eea92e;
 }
 
 /* ===================================
@@ -68,7 +68,7 @@
   font-weight: 400;
   margin-bottom: 1.5rem;
   text-transform: capitalize;
-  color: #EEA92E;
+  color: #eea92e;
   font-size: large;
 }
 
@@ -100,7 +100,7 @@
   font-weight: 400;
   margin-bottom: 1.5rem;
   text-transform: capitalize;
-  color: #EEA92E;
+  color: #eea92e;
 }
 .main-title h2 {
   font-weight: 300;
@@ -201,7 +201,7 @@
 }
 
 .text-custom-h5 {
-  color: #EEA92E;
+  color: #eea92e;
   padding: 10px 0px 10px 0px;
 }
 
@@ -281,7 +281,7 @@
   position: absolute;
   background-color: transparent;
   border-radius: 100%;
-  border: 2px solid #EEA92E;
+  border: 2px solid #eea92e;
   -webkit-animation: phonering-alo-circle-anim 1.2s infinite ease-in-out;
   animation: phonering-alo-circle-anim 1.2s infinite ease-in-out;
   transition: all 0.5s;
@@ -296,7 +296,7 @@
   top: 25px;
   left: 25px;
   position: absolute;
-  background-color: #EEA92E;
+  background-color: #eea92e;
   border-radius: 100%;
   border: 2px solid transparent;
   -webkit-animation: phonering-alo-circle-fill-anim 2.3s infinite ease-in-out;
@@ -307,7 +307,7 @@
   transform-origin: 50% 50%;
 }
 .hotline-phone-ring-img-circle {
-  background-color: #EEA92E;
+  background-color: #eea92e;
   width: 33px;
   height: 33px;
   top: 36px;
@@ -429,3 +429,31 @@
   }
 }
 
+.main-bg {
+  width: 500px !important;
+  height: auto !important;
+}
+.main-text-bg-l {
+  width: 250px !important;
+  height: auto !important;
+}
+
+.main-text-bg-s {
+  width: 100px !important;
+  height: auto !important;
+}
+@media (max-width: 768px) {
+  .main-bg {
+    width: 300px !important;
+    height: auto !important;
+  }
+  .main-text-bg-l {
+    width: 250px !important;
+    height: auto !important;
+  }
+
+  .main-text-bg-s {
+    width: 100px !important;
+    height: auto !important;
+  }
+}

@@ -33,7 +33,7 @@
 </div>
 <!--PreLoader Ends-->
 <!-- header -->
-<?php include 'container/nav-bar.php';?>
+<?php include 'container/nav-bar-2.php';?>
 <!-- header -->
 <!--Main Slider-->
 <section id="main-banner-area" class="position-relative">
@@ -42,19 +42,9 @@
         <div id="rev_main" class="rev_slider fullwidthabanner" data-version="5.4.1">
             <ul>
                 <!-- SLIDE 1 -->
-                <li data-index="rs-01" data-transition="fade" data-slotamount="default" data-easein="Power100.easeInOut" data-easeout="Power100.easeInOut" data-masterspeed="2000" data-fsmasterspeed="1500" data-param1="01">
+                <li data-index="rs-01" data-transition="fade" data-slotamount="default" data-easein="Power100.easeInOut" data-easeout="Power100.easeInOut" data-masterspeed="2000" data-fsmasterspeed="2000" data-param1="01">
                     <!-- MAIN IMAGE -->
                     <img src="images/banner-light1-1.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
-                    <!-- LAYER NR. 1 -->
-                    <div class="tp-caption tp-resizeme"
-                         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                         data-y="['middle','middle','middle','middle']" data-voffset="['-130','-130','-110','-80']"
-                         data-width="none" data-height="none" data-type="text"
-                         data-textAlign="['center','center','center','center']"
-                         data-responsive_offset="on" data-start="1000"
-                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h1 class="text-dark font-xlight text-center">CHÀO MỪNG ĐẾN VỚI</h1>
-                    </div>
                     <!-- LAYER NR. 2 -->
                     <div class="tp-caption tp-resizeme"
                          data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -62,33 +52,12 @@
                          data-width="none" data-height="none" data-type="text"
                          data-textAlign="['center','center','center','center']"
                          data-responsive_offset="on" data-start="1000"
-                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h1 class=" text-capitalize font-bold text-center defaultcolor">Ryn Ryn</h1>
-                    </div>
-                    <!-- LAYER NR. 3 -->
-                    <div class="tp-caption tp-resizeme"
-                         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                         data-y="['middle','middle','middle','middle']" data-voffset="['-10','-10','10','40']"
-                         data-width="none" data-height="none" data-type="text"
-                         data-textAlign="['center','center','center','center']"
-                         data-responsive_offset="on" data-start="1500"
-                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h1 class="text-dark  font-xlight text-center">trà & cà phê</h1>
-                    </div>
-                    <!-- LAYER NR. 4 -->
-                    <div class="tp-caption tp-resizeme"
-                         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                         data-y="['middle','middle','middle','middle']" data-voffset="['40','40','60','90']"
-                         data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
-                         data-textAlign="['center','center','center','center']"
-                         data-responsive_offset="on" data-start="2000"
-                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h4 class="text-dark font-light text-center">Thương hiệu trà sữa tiên phong sử dụng nguồn nông sản Việt Nam
-                        </h4>
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <img class="main-bg" src = "images/logo/Nav-Text-White.png"></img>
                     </div>
                 </li>
                 <!-- SLIDE 2 -->
-                <li data-index="rs-02" data-transition="fade" data-slotamount="default" data-easein="Power100.easeInOut" data-easeout="Power100.easeInOut" data-masterspeed="2000" data-fsmasterspeed="1500" data-param1="02">
+                <li data-index="rs-02" data-transition="fade" data-slotamount="default" data-easein="Power100.easeInOut" data-easeout="Power100.easeInOut" data-masterspeed="2000" data-fsmasterspeed="2000" data-param1="02">
                     <!-- MAIN IMAGE -->
                     <img src="images/banner-light1-1.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                     <!-- LAYER NR. 1 -->
@@ -98,8 +67,8 @@
                          data-width="none" data-height="none" data-type="text"
                          data-textAlign="['center','center','center','center']"
                          data-responsive_offset="on" data-start="1000"
-                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h1 class="text-dark font-xlight text-center">CHÀO MỪNG ĐẾN VỚI</h1>
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <img class="main-text-bg-l" src = "images/logo/sound-white.png"></img>
                     </div>
                     <!-- LAYER NR. 2 -->
                     <div class="tp-caption tp-resizeme"
@@ -108,8 +77,8 @@
                          data-width="none" data-height="none" data-type="text"
                          data-textAlign="['center','center','center','center']"
                          data-responsive_offset="on" data-start="1000"
-                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h1 class=" text-capitalize font-bold text-center defaultcolor">Ryn Ryn</h1>
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <img class="main-text-bg-s" src = "images/logo/of-the-white.png"></img>
                     </div>
                     <!-- LAYER NR. 3 -->
                     <div class="tp-caption tp-resizeme"
@@ -117,68 +86,58 @@
                          data-y="['middle','middle','middle','middle']" data-voffset="['-10','-10','10','40']"
                          data-width="none" data-height="none" data-type="text"
                          data-textAlign="['center','center','center','center']"
-                         data-responsive_offset="on" data-start="1500"
-                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h1 class="text-dark  font-xlight text-center">trà & cà phê</h1>
+                         data-responsive_offset="on" data-start="2000"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <img class="main-text-bg-l" src = "images/logo/street-white.png"></img>
                     </div>
                     <!-- LAYER NR. 4 -->
-                    <div class="tp-caption tp-resizeme"
-                         data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                         data-y="['middle','middle','middle','middle']" data-voffset="['40','40','60','90']"
-                         data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
-                         data-textAlign="['center','center','center','center']"
-                         data-responsive_offset="on" data-start="2000"
-                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h4 class="text-dark font-light text-center">Thương hiệu trà sữa tiên phong sử dụng nguồn nông sản Việt Nam
-                        </h4>
-                    </div>
-                </li>
+                <!-- </li> -->
                 <!-- SLIDE 3 -->
-                <li data-index="rs-03" data-transition="fade" data-slotamount="default" data-easein="Power100.easeInOut" data-easeout="Power100.easeInOut" data-masterspeed="2000" data-fsmasterspeed="1500" data-param1="03">
+                <!-- <li data-index="rs-03" data-transition="fade" data-slotamount="default" data-easein="Power100.easeInOut" data-easeout="Power100.easeInOut" data-masterspeed="2000" data-fsmasterspeed="2000" data-param1="03"> -->
                     <!-- MAIN IMAGE -->
-                    <img src="images/banner-light1-1.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                    <!-- <img src="images/banner-light1-1.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina> -->
                     <!-- LAYER NR. 1 -->
-                    <div class="tp-caption tp-resizeme"
+                    <!-- <div class="tp-caption tp-resizeme"
                          data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                          data-y="['middle','middle','middle','middle']" data-voffset="['-130','-130','-110','-80']"
                          data-width="none" data-height="none" data-type="text"
                          data-textAlign="['center','center','center','center']"
                          data-responsive_offset="on" data-start="1000"
-                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h1 class="text-dark font-xlight text-center">CHÀO MỪNG ĐẾN VỚI</h1>
-                    </div>
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h1 class="whitecolor font-xlight text-center">CHÀO MỪNG ĐẾN VỚI</h1>
+                    </div> -->
                     <!-- LAYER NR. 2 -->
-                    <div class="tp-caption tp-resizeme"
+                    <!-- <div class="tp-caption tp-resizeme"
                          data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                          data-y="['middle','middle','middle','middle']" data-voffset="['-70','-70','-50','-20']"
                          data-width="none" data-height="none" data-type="text"
                          data-textAlign="['center','center','center','center']"
                          data-responsive_offset="on" data-start="1000"
-                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h1 class=" text-capitalize font-bold text-center defaultcolor">Ryn Ryn</h1>
-                    </div>
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <img class="main-text-bg-s" src = "images/logo/index-main.png"></img>
+                    </div> -->
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption tp-resizeme"
+                    <!-- <div class="tp-caption tp-resizeme"
                          data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                          data-y="['middle','middle','middle','middle']" data-voffset="['-10','-10','10','40']"
                          data-width="none" data-height="none" data-type="text"
                          data-textAlign="['center','center','center','center']"
-                         data-responsive_offset="on" data-start="1500"
-                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h1 class="text-dark  font-xlight text-center">trà & cà phê</h1>
-                    </div>
+                         data-responsive_offset="on" data-start="2000"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h1 class="whitecolor  font-xlight text-center">trà & cà phê</h1>
+                    </div> -->
                     <!-- LAYER NR. 4 -->
-                    <div class="tp-caption tp-resizeme"
+                    <!-- <div class="tp-caption tp-resizeme"
                          data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                          data-y="['middle','middle','middle','middle']" data-voffset="['40','40','60','90']"
                          data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
                          data-textAlign="['center','center','center','center']"
                          data-responsive_offset="on" data-start="2000"
-                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
                         <h4 class="text-dark font-light text-center">Thương hiệu trà sữa tiên phong sử dụng nguồn nông sản Việt Nam
                         </h4>
-                    </div>
-                </li>
+                    </div> -->
+                <!-- </li> -->
             </ul>
         </div>
     </div>
@@ -202,7 +161,7 @@
                             <div class="heading-title mb-4">
                                 <h2 class="darkcolor font-normal bottom30">Thương hiệu</h2>
                             </div>
-                            <p class="darkcolor text-jus">Luôn tâm huyết với việc khai thác nguồn nông sản Việt Nam để tạo ra những ly thức uống tươi ngon, an toàn và giàu giá trị dinh dưỡng, Ryn Ryn mở cửa hàng đầu tiên vào năm 2020, mang trong mình lòng đam mê và khát vọng xây dựng một thương hiệu trà sữa thuần Việt, mang đậm hương vị quê hương.Ryn Ryn tin rằng thưởng thức một ly trà sữa được pha chế từ trà Mộc Châu, trân châu từ sắn dây Nghệ An hay mứt dâu tằm từ Đà Lạt sẽ là những trải nghiệm hoàn toàn khác biệt và tuyệt vời nhất cho những khách hàng của mình.
+                            <p class="darkcolor text-jus">Lấy cảm hứng từ âm thanh báo hiệu của ẩm thực đường phố - nền văn hoá ẩm thực đặc trưng của Việt Nam. Ryn Ryn mong muốn mang những sản phẩm độc đáo đi kèm với trải nghiệm tiện lợi và gần gũi của hàng quán đường phố, đến với khách hàng. Bằng việc cung cấp những thức uống chất lượng cao với giá cả phù hợp thu nhập, Ryn Ryn hy vọng đối tác và khách hàng sẽ cảm thấy hài lòng với mô hình kinh doanh mang tính nhân văn của chúng tôi.
                             </p>
                             </div>
                     </div>
@@ -232,13 +191,13 @@
             </div>
             <div class="col-lg-6 col-md-12 text-lg-right text-md-center md-mb-5 text-cen">
                 <div class="heading-title mb-4 mb-2rem text-lg-right wow fadeIn" data-wow-delay="300ms">
-                    <h5 class="text-custom-h5"> Bắt đầu kinh doanh? </h5>
+                    <h5 class="text-custom-h5"> Kinh doanh cùng trà Ryn Ryn </h5>
                     <div class="heading-title mb-4">
                         <h2 class="darkcolor font-normal bottom30">Nhượng quyền</h2>
                     </div>
-                    <p class="text-jus">Gia nhập đế chế 300 TRIỆU USD. Nếu bạn bắt đầu kinh doanh khởi nghiệp ẩm thực, hoặc muốn đầu tư vào lĩnh vực này, thương hiệu Ryn Ryn chắc chắn sẽ là một lựa chọn đáng cân nhắc cho bạn.</p>
+                    <p class="text-jus">Nếu bạn không biết bắt đầu cho một quán trà và trà sữa như thế nào, hãy liên hệ ngay cho Ryn Ryn nhé!</p>
                     </div>
-                <a href="nhuong-quyen" class="button btnthirdary mb-sm-0 mb-4 ">Đăng ký<meta></a>
+                <a href="nhuong-quyen" class="button btnthirdary mb-sm-0 mb-4 ">Gói Hợp Tác<meta></a>
             </div>
            
         </div>
@@ -253,7 +212,7 @@
                 <div class="heading-title mb-4">
                     <h2 class="darkcolor font-normal bottom30">Câu chuyện về <br/><span class="defaultcolor">Ryn Ryn</span></h2>
                 </div>
-                <p class="bottom35 text-jus">Chúng tôi đã bắt đầu từ việc bán cà phê đường phố, hỗ trợ nông dân thu mua cà phê chất lượng, tạo dựng những điểm bán cà phê hoàn vốn nhanh rồi nhượng quyền. Học hỏi từ những kinh nghiệm thực chiến, chúng tôi hoàn thiện mình để thực hiện sứ mệnh mang đến cà phê chất lượng cao giá phải chăng cho người Việt. </p>
+                <p class="bottom35 text-jus">Sau 5 năm phát triển, đội ngũ Ryn Ryn đã hoàn thiện quy trình vận hành, sản phẩm được yêu mến và ủng hộ mạnh mẽ từ khách hàng. Điều đáng tự hào nhất là Ryn Ryn đã xây dựng được đội ngũ nhân sự nòng cốt đầy tài năng và trách nhiệm, sẵn sàng hỗ trợ quý đối tác trong suốt quá trình hợp tác. </p>
                 <a href="gioi-thieu" class="button btnthirdary mb-sm-0 mb-4 ">Tìm hiểu thêm<meta></a>
             </div>
             <div class="col-lg-5 offset-lg-1 col-md-5 col-sm-5 wow fadeInRight" data-wow-delay="300ms">

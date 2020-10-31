@@ -9,7 +9,7 @@
                     <div class="d-table w-100 address-item whitecolor bottom25">
                         <span class="d-table-cell align-middle"><i class="fas fa-mobile-alt"></i></span>
                         <p class="d-table-cell align-middle bottom0">
-                            <a href="tel:0933886846">0933.886.846</a> <a class="d-block" href="mailto:rynryn@gmail.com">rynryn@gmail.com</a>
+                            <a href="tel:0933886846">0933.886.846</a> <a class="d-block" href="mailto:franchise@rynryn.com">franchise@rynryn.com</a>
                         </p>
                     </div>
                     <ul class="social-icons white wow fadeInUp" data-wow-delay="300ms">

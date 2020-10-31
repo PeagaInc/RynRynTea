@@ -3,8 +3,8 @@
     <nav class="navbar navbar-expand-lg transparent-bg static-nav">
         <div class="container">
             <a class="navbar-brand" href="index">
-                <img src="images/logo/nav-text-white.png" alt="logo" class="logo-default">
-                <img src="images/logo/nav-text-white.png" alt="logo" class="logo-scrolled">
+                <img src="images/logo/Nav-Text-White.png" alt="logo" class="logo-default">
+                <img src="images/logo/Nav-Text-White.png" alt="logo" class="logo-scrolled">
             </a>
             <div class="collapse navbar-collapse">
                 <ul class="navbar-nav ml-auto">
