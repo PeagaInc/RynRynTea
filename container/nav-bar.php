@@ -9,22 +9,19 @@
             <div class="collapse navbar-collapse">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item nav-item-fra">
-                        <a class="nav-link" href="index">TRANG CHỦ</a>
+                        <a class="nav-link" href="index.php">TRANG CHỦ</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="gioi-thieu">GIỚI THIỆU</a>
+                        <a class="nav-link" href="san-pham.php">SẢN PHẨM</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="nhuong-quyen">NHƯỢNG QUYỀN</a>
+                        <a class="nav-link" href="nhuong-quyen.php">NHƯỢNG QUYỀN</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="he-thong">HỆ THỐNG</a>
+                        <a class="nav-link" href="ve-chung-toi.php">VỀ CHÚNG TÔI</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="san-pham">SẢN PHẨM</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="about.html">LIÊN HỆ</a>
+                        <a class="nav-link" href="#">TUYỂN DỤNG</a>
                     </li>
                 </ul>
             </div>
@@ -41,23 +38,20 @@
             <span class="btn-close btn-close-no-padding" id="btn_sideNavClose"><i></i><i></i></span>
             <nav class="side-nav w-100">
                 <ul class="navbar-nav">
-                    <li class="nav-item">
-                        <a class="nav-link" href="index">TRANG CHỦ</a>
+                    <li class="nav-item nav-item-fra">
+                        <a class="nav-link" href="index.php">TRANG CHỦ</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="gioi-thieu">GIỚI THIỆU</a>
+                        <a class="nav-link" href="san-pham.php">SẢN PHẨM</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="nhuong-quyen">NHƯỢNG QUYỀN</a>
+                        <a class="nav-link" href="nhuong-quyen.php">NHƯỢNG QUYỀN</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="he-thong">HỆ THỐNG</a>
+                        <a class="nav-link" href="ve-chung-toi.php">VỀ CHÚNG TÔI</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="san-pham">SẢN PHẨM</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="about.html">LIÊN HỆ</a>
+                        <a class="nav-link" href="#">TUYỂN DỤNG</a>
                     </li>
                 </ul>
             </nav>

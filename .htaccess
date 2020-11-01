@@ -1,5 +1,5 @@
-  ErrorDocument 404 https://rynryn.herokuapp.com/404.php
-  ErrorDocument 500 https://rynryn.herokuapp.com/500.php
+  ErrorDocument 404 https://rynryn.com/404.php
+  ErrorDocument 500 https://rynryn.com/500.php
   RewriteEngine On
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteRule ^([^\.]+)$ $1.php [NC,L]

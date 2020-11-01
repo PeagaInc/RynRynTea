@@ -22,14 +22,7 @@
     <link rel="stylesheet" href="css/revolution/settings.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/custom.css">
-    
-    <script>
-        if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) )     
-        {
-            var url = "http://m.mysite.com/";    
-            $(location).attr('href',url);
-        }
-    </script>
+
 </head>
 <body>
 <!--PreLoader-->
@@ -78,7 +71,7 @@
                          data-transform_in="x:-50px;opacity:0;s:2000;e:Power3.easeOut;"
                          data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"
                          data-start="1000" data-splitin="none" data-splitout="none">
-                        <p class="font-xlight whitecolor">KHỞI ĐẦU THÀNH CÔNG CÙNG</p>
+                        <p class="font-xlight whitecolor"></p>
                     </div>
                     <div class="tp-caption tp-resizeme "
                          data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
@@ -90,10 +83,10 @@
                          data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;"
                          data-transform_out="s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
                          data-start="900" data-splitin="none" data-splitout="none">
-                        <h2 class="full-text defaultcolor">RYNRYN</h2>
-                        <h2 class="short-text defaultcolor">RYNRYN</h2>
+                        <h3 class="full-text whitecolor">Mô hình phù hợp là con đường nhanh nhất để thành công</h3>
+                        <h3 class="short-text whitecolor">Mô hình phù hợp là<br/>con đường nhanh nhất để thành công</h3>
                     </div>
-                    <div class="tp-caption tp-resizeme"
+                    <!-- <div class="tp-caption tp-resizeme"
                          data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                          data-y="['middle','middle','middle','middle']" data-voffset="['50','75','75','75']"
                          data-whitespace="nowrap" data-responsive_offset="on"
@@ -104,15 +97,14 @@
                          data-transform_out="s:1000;e:Power3.easeInOut;s:1000;e:Power3.easeInOut;"
                          data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
                          data-start="1600" data-splitin="none" data-splitout="none">
-                        <p class="font-light full-text ">Khởi nghiệp chưa bao giờ là dễ dàng nhưng nếu có</p>
-                        <p class="font-light full-text ">chiến lược đúng đắn bạn có thể đi thật xa!</p>
-                    </div>
+                        <p class="font-light full-text "></p>
+                    </div> -->
                     <div class="tp-caption tp-resizeme"
                          data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                          data-y="['middle','middle','middle','middle']" data-voffset="['140','160','160','160']"
                          data-width="['500','500','500','500']" data-textalign="['center','center','center','center']" data-type="text"
                          data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:1500;e:Power4.easeInOut;" data-transform_out="s:900;e:Power2.easeInOut;s:900;e:Power2.easeInOut;" data-start="1800" data-splitin="none" data-splitout="none" data-responsive_offset="on">
-                        <a class="pagescroll button btnfourth transition-3 button-padding" href="#our-process">Bắt đầu ngay</a>
+                        <a class="pagescroll button btnfourth transition-3 button-padding" href="#pricing">Xem chi tiết</a>
                     </div>
                 </li>
             </ul>
@@ -121,13 +113,77 @@
     </div>
 </section>
 <!--slider end-->
-<!-- Work Process-->
-<section id="our-process" class="padding bg-light-dark">
+<!--Pricing Start-->
+<section id="pricing" class="padding-s bg-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12 text-center padding-s">
+                <div class="heading-title darkcolor wow fadeInUp" data-wow-delay="300ms">
+                    <h2 class="font-normal bottom40">CÁC GÓI ĐẦU TƯ</h2>
+                    <span class="darkcolor text-jus-cen">Xuyên suốt quá trình kinh doanh của các nhà đầu tư, Ryn Ryn sẽ luôn hỗ trợ và đáp ứng kịp thời về chế độ, không chỉ giúp cửa hàng phát triển mà còn góp phần phủ rộng thương hiệu ra thị trường.</span>
+                </div>
+            </div>
+        </div>
+        <div class="owl-carousel " id="price-slider">
+            <div class="item">
+                <div class="col-md-12">
+                    <div class="pricing-item wow fadeInUp animated" data-wow-delay="300ms">
+                        <h2 class="font-light darkcolor">Cabin</h2>
+                        <p class="bottom30">The standard version</p>
+                        <div class="pricing-price darkcolor"><span class="pricing-currency">$9.95</span> /<span class="pricing-duration">month</span></div>
+                        <ul class="pricing-list">
+                            <li>Support forum</li>
+                            <li>Free hosting</li>
+                            <li class="price-not">40MB of storage space</li>
+                            <li class="price-not">Social media integration</li>
+                            <li class="price-not">10GB of storage space</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="col-md-12">
+                    <div class="pricing-item wow fadeInUp animated" data-wow-delay="380ms" >
+                        <h2 class="font-light darkcolor">Kiosk</h2>
+                        <p class="bottom30">The standard version</p>
+                        <div class="pricing-price darkcolor"><span class="pricing-currency">$19.95</span> /<span class="pricing-duration">month</span></div>
+                        <ul class="pricing-list">
+                            <li>Support forum</li>
+                            <li>Free hosting</li>
+                            <li>40MB of storage space</li>
+                            <li class="price-not">Social media integration</li>
+                            <li class="price-not">10GB of storage space</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="col-md-12">
+                    <div class="pricing-item wow fadeInUp animated" data-wow-delay="460ms" >
+                        <h2 class="font-light darkcolor">Store</h2>
+                        <p class="bottom30">The standard version</p>
+                        <div class="pricing-price darkcolor"><span class="pricing-currency">$29.95</span> /<span class="pricing-duration">month</span></div>
+                        <ul class="pricing-list">
+                            <li>Support forum</li>
+                            <li>Free hosting</li>
+                            <li>40MB of storage space</li>
+                            <li>Social media integration</li>
+                            <li class="price-not">10GB of storage space</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Pricing ends-->
+
+<!-- Work Process -->
+<section id="bg-counters" class="padding bg-counters parallax">
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 text-center">
                 <div class="heading-title whitecolor wow fadeInUp" data-wow-delay="300ms">
-                    <h3 class="whitecolor padding-s">Công thức thành công cùng <span class="defaultcolor">Ryn Ryn</span> </h3>
                     <h2 class="font-normal">QUY TRÌNH HỢP TÁC </h2>
                 </div>
             </div>
@@ -149,141 +205,47 @@
                     <p class="fontbold bottom25">Design</p>
                     <p class="mt-n2 mt-sm-0">Quisque tellus risus, adipisci viverra bibendum urna.</p>
                 </li>
-                <li class="whitecolor wow fadeIn" data-wow-delay="600ms">
-                    <span class="pro-step bottom20">04</span>
-                    <p class="fontbold bottom25">Development</p>
-                    <p class="mt-n2 mt-sm-0">Quisque tellus risus, adipisci viverra bibendum urna.</p>
-                </li>
-                <li class="whitecolor wow fadeIn" data-wow-delay="700ms">
-                    <span class="pro-step bottom20">05</span>
-                    <p class="fontbold bottom25">Quality Check</p>
-                    <p class="mt-n2 mt-sm-0">Quisque tellus risus, adipisci viverra bibendum urna.</p>
-                </li>
             </ul>
         </div>
     </div>
 </section>
-<!--WOrk Process ends-->
-<!--Pricing Start-->
-<section id="pricing" class="padding-s bg-white">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 col-sm-12 text-center padding-s">
-                <div class="heading-title darkcolor wow fadeInUp" data-wow-delay="300ms">
-                    <h2 class="font-normal bottom40">CÁC GÓI ĐẦU TƯ</h2>
-                    <span class="darkcolor">Xuyên suốt quá trình kinh doanh của các nhà đầu tư, Ryn Ryn sẽ luôn hỗ trợ và đáp ứng kịp thời về chế độ, không chỉ giúp cửa hàng phát triển mà còn góp phần phủ rộng thương hiệu ra thị trường.</span>
-                </div>
-            </div>
-        </div>
-        <div class="owl-carousel owl-theme no-dots" id="price-slider">
-            <div class="item">
-                <div class="col-md-12">
-                    <div class="pricing-item wow fadeInUp animated" data-wow-delay="300ms">
-                        <h3 class="font-light darkcolor">Basic</h3>
-                        <p class="bottom30">The standard version</p>
-                        <div class="pricing-price darkcolor"><span class="pricing-currency">$9.95</span> /<span class="pricing-duration">month</span></div>
-                        <ul class="pricing-list">
-                            <li>Support forum</li>
-                            <li>Free hosting</li>
-                            <li class="price-not">40MB of storage space</li>
-                            <li class="price-not">Social media integration</li>
-                            <li class="price-not">10GB of storage space</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="col-md-12">
-                    <div class="pricing-item wow fadeInUp animated" data-wow-delay="380ms" >
-                        <h3 class="font-light darkcolor">Popular</h3>
-                        <p class="bottom30">The standard version</p>
-                        <div class="pricing-price darkcolor"><span class="pricing-currency">$19.95</span> /<span class="pricing-duration">month</span></div>
-                        <ul class="pricing-list">
-                            <li>Support forum</li>
-                            <li>Free hosting</li>
-                            <li>40MB of storage space</li>
-                            <li class="price-not">Social media integration</li>
-                            <li class="price-not">10GB of storage space</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="col-md-12">
-                    <div class="pricing-item wow fadeInUp animated" data-wow-delay="460ms" >
-                        <h3 class="font-light darkcolor">Enterprise</h3>
-                        <p class="bottom30">The standard version</p>
-                        <div class="pricing-price darkcolor"><span class="pricing-currency">$29.95</span> /<span class="pricing-duration">month</span></div>
-                        <ul class="pricing-list">
-                            <li>Support forum</li>
-                            <li>Free hosting</li>
-                            <li>40MB of storage space</li>
-                            <li>Social media integration</li>
-                            <li class="price-not">10GB of storage space</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="item">
-                <div class="col-md-12">
-                    <div class="pricing-item wow fadeInUp animated" data-wow-deeay="400ms" >
-                        <h3 class="font-light darkcolor">Ultimate</h3>
-                        <p class="bottom30">The standard version</p>
-                        <div class="pricing-price darkcolor"><span class="pricing-currency">$49.95</span> /<span class="pricing-duration">month</span></div>
-                        <ul class="pricing-list">
-                            <li>Support forum</li>
-                            <li>Free hosting</li>
-                            <li>40MB of storage space</li>
-                            <li>Social media integration</li>
-                            <li>10GB of storage space</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--Pricing ends-->
+<!-- Work Process ends-->
+
+
 <!-- Main sign-up section starts -->
 <section id="ourfaq" class="bglight position-relative padding-phone">
     <div class="container">
         <div class="row">
            <div class="col-lg-6 col-md-12 col-sm-12 pr-4 pr-md-0 whitebox">
               <div class="widget logincontainer">
-                 <h3 class="darkcolor bottom35">Bạn đã sẵn sàng? </h3>
+                 <h3 class="darkcolor bottom35">Nhận thông tin chi tiết </h3>
                  <form class="getin_form border-form" id="register">
                     <div class="row">
                        <div class="col-md-12 col-sm-12">
                           <div class="form-group bottom35">
                               <label for="registerName" class="d-none"></label>
-                             <input class="form-control" type="text" placeholder="Họ Tên *" required id="registerName">
+                             <input class="form-control" type="text" placeholder="Họ Tên" required id="registerName">
                           </div>
                        </div>
                        <div class="col-md-12 col-sm-12">
                           <div class="form-group bottom35">
                               <label for="registerPhone" class="d-none"></label>
-                             <input class="form-control" type="number" placeholder="Số điện thoại *" required id="registerPhone">
+                             <input class="form-control" type="number" placeholder="Số điện thoại" required id="registerPhone">
                           </div>
                        </div>
                        <div class="col-md-12 col-sm-12">
                           <div class="form-group bottom35">
                               <label for="registerEmail" class="d-none"></label>
-                             <input class="form-control" type="password" placeholder="Email *" required id="registerEmail">
-                          </div>
-                       </div>
-                       <div class="col-md-12 col-sm-12">
-                          <div class="form-group bottom35">
-                              <label for="registerAddress" class="d-none"></label>
-                             <input class="form-control custom-select" type="text" placeholder="Địa chỉ, khu vực bạn định mở cửa hàng?" required id="registerAddress">
+                             <input class="form-control" type="email" placeholder="Email" required id="registerEmail">
                           </div>
                        </div>
                        <div class="col-md-12 col-sm-12">
                         <div class="input-group  bottom35">
                             <select class="custom-select " required id="registerPrice">
-                              <option selected>Khoảng vốn tối đa có thể đầu tư?</option>
-                              <option value="1">500 - 600 triệu</option>
-                              <option value="2">700 - 800 triệu</option>
-                              <option value="3">Trên 800 triệu</option>
+                              <option selected>Mô hình quan tâm?</option>
+                              <option value="1">Cabin</option>
+                              <option value="2">Kiosk</option>
+                              <option value="3">Store</option>
                             </select>
                           </div>
                     </div>
@@ -303,247 +265,9 @@
     </div>
 </section>
 <!-- Main sign-up section ends -->
-<!-- Stats start -->
-<section class="stats bg-light-gray single-feature padding_bottom padding_top_half mt-n4">
-    <h2 class="d-none">heading</h2>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12 text-center wow fadeIn" data-wow-delay="300ms">
-                <div class="heading-title wow fadeIn" data-wow-delay="300ms">
-                    <h3 class="defaultcolor">Nhìn vào thành tựu của chúng tôi</h3>
-                    <h2 class="padding-s font-normal">Về thương hiệu</h2>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-4 col-sm-12 stats-box mb-xs-2rem">
-                <div class="serial-box center-block wow zoomIn" data-wow-delay="400ms">
-                    <i class="ti ti-face-smile" aria-hidden="true"></i>
-                    <p class="numscroller">1391</p>
-                    <h6 class="mb-0">Customers</h6>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-12 stats-box mb-xs-2rem">
-                <div class="serial-box yellow center-block wow zoomIn" data-wow-delay="500ms">
-                    <i class="ti ti-layers-alt" aria-hidden="true"></i>
-                    <p class="numscroller">445</p>
-                    <h6 class="mb-0">Total Web Pages</h6>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-12 stats-box green mb-xs-2rem">
-                <div class="serial-box green center-block wow zoomIn" data-wow-delay="600ms">
-                    <i class="ti ti-shield" aria-hidden="true"></i>
-                    <p class="numscroller">133</p>
-                    <h6 class="mb-0">Accolades Collect</h6>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-12 stats-box sm-mt-2rem mb-xs-2rem">
-                <div class="serial-box center-block wow zoomIn" data-wow-delay="700ms">
-                    <i class="ti ti-notepad" aria-hidden="true"></i>
-                    <p class="numscroller">775</p>
-                    <h6 class="mb-0">Line of Code</h6>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-12 stats-box mt-md-2rem">
-                <div class="serial-box yellow center-block wow zoomIn" data-wow-delay="800ms">
-                    <i class="ti ti-cup" aria-hidden="true"></i>
-                    <p class="numscroller">555</p>
-                    <h6 class="mb-0">Cups Of Coffee</h6>
-                </div>
-            </div>
-        </div>
 
-    </div>
-</section>
-<!-- Stats ends -->
-<!--Some Feature -->
-<section id="about-us" class="single-feature padding_bottom padding_top_half bgmilktea" >
-    <div class="container">
-        <div class="row d-flex align-items-center">
-            <div class="col-lg-6 col-md-7 col-sm-7 text-sm-left text-center wow fadeInLeft" data-wow-delay="300ms">
-                <div class="heading-title mb-4">
-                    <h2 class="darkcolor font-normal bottom30">Câu chuyện về <br/><span class="defaultcolor">Ryn Ryn</span></h2>
-                </div>
-                <p class="bottom35 text-jus">Chúng tôi đã bắt đầu từ việc bán cà phê đường phố, hỗ trợ nông dân thu mua cà phê chất lượng, tạo dựng những điểm bán cà phê hoàn vốn nhanh rồi nhượng quyền. Học hỏi từ những kinh nghiệm thực chiến, chúng tôi hoàn thiện mình để thực hiện sứ mệnh mang đến cà phê chất lượng cao giá phải chăng cho người Việt. </p>
-                <a href="gioi-thieu.php" class="button btnthirdary mb-sm-0 mb-4 ">Tìm hiểu thêm<meta></a>
-            </div>
-            <div class="col-lg-5 offset-lg-1 col-md-5 col-sm-5 wow fadeInRight" data-wow-delay="300ms">
-                <div class="image"><img alt="SEO" src="images/awesome-feature.jpg"></div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--Some Feature -->
-<!--video part section-->
-<section class="bglight">
-    <h2 class="d-none">heading</h2>
-    <div class="container-fluid bg-white">
-        <div class="row align-items-center">
-            <div class="col-md-6 col-sm-12 p-0 col-video">
-                <div class="row mx-0">
-                    <div class="col-md-10 offset-md-1 offset-sm-0 col-sm-12">
-                        <div class="video-content-setting center-block text-center text-sm-left">
-                            <div class="heading-title mb-4">
-                                <h2 class="darkcolor font-normal bottom30">Thương hiệu</h2>
-                            </div>
-                            <p class="darkcolor text-jus">Luôn tâm huyết với việc khai thác nguồn nông sản Việt Nam để tạo ra những ly thức uống tươi ngon, an toàn và giàu giá trị dinh dưỡng, Ryn Ryn mở cửa hàng đầu tiên vào năm 2020, mang trong mình lòng đam mê và khát vọng xây dựng một thương hiệu trà sữa thuần Việt, mang đậm hương vị quê hương.Ryn Ryn tin rằng thưởng thức một ly trà sữa được pha chế từ trà Mộc Châu, trân châu từ sắn dây Nghệ An hay mứt dâu tằm từ Đà Lạt sẽ là những trải nghiệm hoàn toàn khác biệt và tuyệt vời nhất cho những khách hàng của mình.
-                            </p>
-                            <p class="darkcolor text-jus">Cũng chính từ sự khác biệt đó, thương hiệu Ryn Ryn đã có những bước phát triển thần tốc và dần chiếm lĩnh thị trường trà sữa với hơn 200 cửa hàng trải dài trên toàn quốc. Cột mốc năm 2021 đánh dấu ước mơ vươn xa biển lớn của thương hiệu khi Ryn Ryn chính thức đặt chân lên nước Mỹ và tiếp nối thành công tại Úc, Nhật Bản, Hàn Quốc, Singapore,…</p>
-                        </div>
-                    </div>
-                </div>
-                <a data-fancybox="video" href="https://youtu.be/DBEIfYc2C3A" class="video-play-button position-absolute">
-                    <i class="fas fa-play"></i>
-                </a>
-            </div>
-            <div class="col-md-6 col-sm-12 p-0 col-video video-bg">
-                <div class="image split-blog-scale transition-3">
-                    <img alt="stats" src="images/bg-video-section-test.jpg" class="video-img-setting ">
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--video part section end-->
-<!-- Testimonials -->
-<section id="our-testimonial" class="bglight padding_bottom">
-    <div class="parallax page-header testimonial-bg">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 offset-lg-6 col-md-12 text-center text-lg-right">
-                    <div class="heading-title wow fadeInUp padding_testi" data-wow-delay="300ms">
-                        <span class="whitecolor">Mọi người nói về</span>
-                        <h2 class="whitecolor font-normal">Ryn Ryn</h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container">
-        <div class="owl-carousel" id="testimonial-slider">
-            <!--item 1-->
-            <div class="item testi-box">
-                <div class="row align-items-center">
-                    <div class="col-lg-4 col-md-12 text-center">
-                        <div class="testimonial-round d-inline-block">
-                            <img src="images/testimonial-1.jpg" alt="">
-                        </div>
-                        <h4 class="defaultcolor font-light top15"><a href="#.">John Smith</a></h4>
-                        <p>UPWORK, New York</p>
-                    </div>
-                    <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
-                        <p class="bottom15 top90">We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we boast a years and years of service.</p>
-                        <span class="d-inline-block test-star">
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                                </span>
-                    </div>
-                </div>
-            </div>
-            <!--item 2-->
-            <div class="item testi-box">
-                <div class="row align-items-center">
-                    <div class="col-lg-4 col-md-12 text-center">
-                        <div class="testimonial-round d-inline-block">
-                            <img src="images/testimonial-2.jpg" alt="">
-                        </div>
-                        <h4 class="defaultcolor font-light top15"><a href="#.">Hayden Wood</a></h4>
-                        <p>FIVERR, Italy</p>
-                    </div>
-                    <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
-                        <p class="bottom15 top90">Trax’s customer testimonial page is another beauty. Its simple design focuses on videos and standout quotes from customers. This approach is clean, straightforward, text that can be overwhelming and easy to skip.</p>
-                        <span class="d-inline-block test-star">
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i> <i class="far fa-star"></i>
-                                </span>
-                    </div>
-                </div>
-            </div>
-            <!--item 3-->
-            <div class="item testi-box">
-                <div class="row align-items-center">
-                    <div class="col-lg-4 col-md-12 text-center">
-                        <div class="testimonial-round d-inline-block">
-                            <img src="images/testimonial-3.jpg" alt="">
-                        </div>
-                        <h4 class="defaultcolor font-light top15"><a href="#.">Kevin Miller</a></h4>
-                        <p>ENVATO, Australia</p>
-                    </div>
-                    <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
-                        <p class="bottom15 top90">Trax is a company that provides tools to help professional event planning and execution, and their customers are very happy folks! The thing I love about their customer testimonial page provides content formats.</p>
-                        <span class="d-inline-block test-star">
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                                </span>
-                    </div>
-                </div>
-            </div>
-            <!--item 4-->
-            <div class="item testi-box">
-                <div class="row align-items-center">
-                    <div class="col-lg-4 col-md-12 text-center">
-                        <div class="testimonial-round d-inline-block">
-                            <img src="images/testimonial-4.jpg" alt="">
-                        </div>
-                        <h4 class="defaultcolor font-light top15"><a href="#.">Alina Johanson</a></h4>
-                        <p>INTEL, Sidney</p>
-                    </div>
-                    <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
-                        <p class="bottom15 top90">Startup Institute is a career accelerator that allows professionals to learn new skills, take their careers in a different direction, and pursue a career they are passionate about that have completed the program.</p>
-                        <span class="d-inline-block test-star">
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i> <i class="far fa-star"></i>
-                                </span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 <!--Testimonials Ends-->
-<!-- Contact US -->
-<section id="stayconnect" class="bglight position-relative">
-    <div class="container">
-        <div class="contactus-wrapp">
-            <div class="row">
-                <div class="col-md-12 col-sm-12">
-                    <div class="heading-title wow fadeInUp text-center text-md-left" data-wow-delay="300ms">
-                        <h3 class="darkcolor bottom20">Tìm hiểu thêm thông tin?</h3>
-                    </div>
-                </div>
-                <div class="col-md-12 col-sm-12">
-                    <form class="getin_form wow fadeInUp" data-wow-delay="400ms" onsubmit="return false;">
-                        <div class="row">
-                            <div class="col-md-12 col-sm-12" id="result"></div>
-                            <div class="col-md-3 col-sm-6">
-                                <div class="form-group">
-                                    <label for="userName" class="d-none"></label>
-                                    <input class="form-control" type="text" placeholder="Họ tên" required id="userName" name="userName">
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6">
-                                <div class="form-group">
-                                    <label for="companyName" class="d-none"></label>
-                                    <input class="form-control" type="tel" placeholder="Số điện thoại"  id="companyName" name="companyName">
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6">
-                                <div class="form-group">
-                                    <label for="email" class="d-none"></label>
-                                    <input class="form-control" type="email" placeholder="Email" required id="email" name="email">
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6">
-                                <button type="submit" class="button btnprimary w-100" id="submit_btn">Đăng ký</button>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Contact US ends -->
+
 <!--Site Footer Here-->
 <?php include 'container/footer-s.php';?>
 <!--Footer ends-->

@@ -15,7 +15,7 @@
 //PAGE LOADER
 $(window).on("load", function () {
     "use strict";
-    $(".loader").fadeOut(800);
+    $(".loader").fadeOut(200);
     $('.side-menu').removeClass('opacity-0');
 });
 

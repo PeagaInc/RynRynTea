@@ -194,6 +194,7 @@
 }
 .text-cen {
   text-align: center;
+  margin: auto;
 }
 .text-jus-cen {
   text-align: justify;
@@ -243,7 +244,7 @@
   display: none !important;
 }
 
-@media screen and (max-width: 320px) {
+@media(max-width: 768px) {
   .short-text {
     display: inline-block !important;
   }
@@ -442,6 +443,7 @@
   width: 100px !important;
   height: auto !important;
 }
+
 @media (max-width: 735px) {
   .main-bg {
     width: 300px !important;
@@ -456,4 +458,36 @@
     width: 100px !important;
     height: auto !important;
   }
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+  
+}
+
+.phone-start-image{
+  width: 50% !important;
 }

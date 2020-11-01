@@ -4,7 +4,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>RynRyn | Coffee & Tea</title>
+    <title>RynRyn | Sound of the Street</title>
     <link href="images/favicon.ico" rel="icon">
 
     <link rel="stylesheet" href="css/themify-icons.css">
@@ -33,7 +33,7 @@
 </div>
 <!--PreLoader Ends-->
 <!-- header -->
-<?php include 'container/nav-bar-2.php';?>
+<?php include 'container/nav-bar.php';?>
 <!-- header -->
 <!--Main Slider-->
 <section id="main-banner-area" class="position-relative">
@@ -159,7 +159,7 @@
                     <div class="col-md-10 offset-md-1 offset-sm-0 col-sm-12">
                         <div class="video-content-setting center-block text-center text-sm-left">
                             <div class="heading-title mb-4">
-                                <h2 class="darkcolor font-normal bottom30">Thương hiệu</h2>
+                                <h2 class="darkcolor font-normal bottom30">Our Story</h2>
                             </div>
                             <p class="darkcolor text-jus">Lấy cảm hứng từ âm thanh báo hiệu của ẩm thực đường phố - nền văn hoá ẩm thực đặc trưng của Việt Nam. Ryn Ryn mong muốn mang những sản phẩm độc đáo đi kèm với trải nghiệm tiện lợi và gần gũi của hàng quán đường phố, đến với khách hàng. Bằng việc cung cấp những thức uống chất lượng cao với giá cả phù hợp thu nhập, Ryn Ryn hy vọng đối tác và khách hàng sẽ cảm thấy hài lòng với mô hình kinh doanh mang tính nhân văn của chúng tôi.
                             </p>
@@ -186,7 +186,7 @@
         <div class="row">
             <div class="col-lg-6 col-md-12 absolute-img right-img">
                 <div class="d-lg-inline-block">
-                    <div class="image"><img alt="SEO" src="images/logo/rynryn-l.png"></div>
+                    <div class="image"><img alt="SEO" src="images/nhuong-quyen.jpg"></div>
                 </div>
             </div>
             <div class="col-lg-6 col-md-12 text-lg-right text-md-center md-mb-5 text-cen">
@@ -204,16 +204,18 @@
     </div>
 </section>
 <!-- Phone ends -->
+
+
 <!--Some Feature -->
-<section id="story" class="single-feature padding-s bgmilktea" >
+<section id="story" class="single-feature padding-counter-s bgmilktea" >
     <div class="container">
         <div class="row d-flex align-items-center">
             <div class="col-lg-6 col-md-7 col-sm-7 text-sm-left text-center wow fadeInLeft" data-wow-delay="300ms">
                 <div class="heading-title mb-4">
-                    <h2 class="darkcolor font-normal bottom30">Câu chuyện về <br/><span class="defaultcolor">Ryn Ryn</span></h2>
+                    <h2 class="darkcolor font-normal bottom30">Sản phẩm</h2>
                 </div>
                 <p class="bottom35 text-jus">Sau 5 năm phát triển, đội ngũ Ryn Ryn đã hoàn thiện quy trình vận hành, sản phẩm được yêu mến và ủng hộ mạnh mẽ từ khách hàng. Điều đáng tự hào nhất là Ryn Ryn đã xây dựng được đội ngũ nhân sự nòng cốt đầy tài năng và trách nhiệm, sẵn sàng hỗ trợ quý đối tác trong suốt quá trình hợp tác. </p>
-                <a href="gioi-thieu" class="button btnthirdary mb-sm-0 mb-4 ">Tìm hiểu thêm<meta></a>
+                <a href="gioi-thieu" class="button btnthirdary mb-sm-0 mb-4 ">Tất cả sản phẩm <meta></a>
             </div>
             <div class="col-lg-5 offset-lg-1 col-md-5 col-sm-5 wow fadeInRight" data-wow-delay="300ms">
                 <div class="image"><img alt="SEO" src="images/awesome-feature.jpg"></div>
@@ -276,7 +278,7 @@
             <div class="row">
                 <div class="col-lg-6 offset-lg-6 col-md-12 text-center text-lg-right">
                     <div class="heading-title wow fadeInUp padding_testi" data-wow-delay="300ms">
-                        <span class="whitecolor">Mọi người nói về</span>
+                        <span class="whitecolor">Đối tác nói về</span>
                         <h2 class="whitecolor font-normal">Ryn Ryn</h2>
                     </div>
                 </div>
