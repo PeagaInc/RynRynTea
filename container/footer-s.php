@@ -5,7 +5,7 @@
 
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="footer_panel padding_bottom_half bottom20">
-                    <a href="index.php" class="footer_logo bottom25"><img src="images/logo/Logo-Circle-White-Yellow.png" alt="MegaOne"></a>
+                    <a href="index" class="footer_logo bottom25"><img src="images/logo/Logo-Circle-White-Yellow.png" alt="MegaOne"></a>
                     <ul class="social-icons white wow fadeInUp text-cen" data-wow-delay="300ms">
                         <li><a href="javascript:void(0)" class="facebook"><i class="fab fa-facebook-f"></i> </a> </li>
                         <li><a href="javascript:void(0)" class="twitter"><i class="fab fa-twitter"></i> </a> </li>
@@ -36,10 +36,10 @@
                 <div class="footer_panel padding_bottom_half bottom20 pl-0 pl-lg-5">
                     <h3 class="whitecolor bottom25">Phân mục</h3>
                     <ul class="links ">
-                        <li><a  href="index.php">TRANG CHỦ</a></li>
-                        <li><a  href="san-pham.php">SẢN PHẨM</a></li>
-                        <li><a  href="nhuong-quyen.php">NHƯỢNG QUYỀN</a></li>
-                        <li><a  href="ve-chung-toi.php">VỀ CHÚNG TÔI</a></li>
+                        <li><a  href="index">TRANG CHỦ</a></li>
+                        <li><a  href="san-pham">SẢN PHẨM</a></li>
+                        <li><a  href="nhuong-quyen">NHƯỢNG QUYỀN</a></li>
+                        <li><a  href="ve-chung-toi">VỀ CHÚNG TÔI</a></li>
                         <li><a  href="#">TUYỂN DỤNG</a></li>
                     </ul>
                 </div>
