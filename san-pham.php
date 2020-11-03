@@ -4,8 +4,12 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>RynRyn |Sản Phẩm</title>
+    <title>RynRyn | Sản phẩm</title>
     <link href="images/favicon.ico" rel="icon">
+
+    <link rel="stylesheet" href="css/themify-icons.css">
+    <link rel="stylesheet" href="css/swiper.min.css">
+    <link rel="stylesheet" href="css/before-after-img.css">
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/all.min.css">
@@ -16,228 +20,470 @@
     <link rel="stylesheet" href="css/cubeportfolio.min.css">
     <link rel="stylesheet" href="css/revolution/navigation.css">
     <link rel="stylesheet" href="css/revolution/settings.css">
-    <link rel="stylesheet" href="css/jquery.pagepiling.min.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/custom.css">
+    
 </head>
 <body>
 <!--PreLoader-->
-<div class="loader">
+<div class="loader slow-load">
     <div class="loader-inner">
         <div class="cssload-loader"></div>
     </div>
 </div>
 <!--PreLoader Ends-->
 <!-- header -->
-<?php include 'container/nav-bar.php';?>
+<?php include 'container/nav-bar-2.php';?>
 <!-- header -->
-<div id="pagepiling">
-    <!--Main Slider-->
-    <section id="home" class="p-0 section page-header parallax-header">
-        <div class="overlay overlay-dark opacity-6 z-index-0"></div>
-        <h2 class="d-none">hidden</h2>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12 col-sm-12">
-                    <div class="item-titles center-block whitecolor text-center min-vh-100">
-                        <h2 class="font-xlight wow fadeInUp" data-wow-delay="300ms">
-                            Digital Solutions
-                        </h2>
-                        <p class="top15 bottom25 wow fadeInUp" data-wow-delay="350ms">Graphics, Branding, Development, Nature, Creative, Fashion</p>
-                        <a class="button btn-primary wow fadeInUp" href="javascript:void(0)" data-wow-delay="400ms">View More</a>
+<section id="main-banner-area" class="position-relative">
+    <div id="revo_main_wrapper" class="rev_slider_wrapper fullwidthbanner-container m-0 p-0 bg-dark" data-alias="classic4export" data-source="gallery">
+        <!-- START REVOLUTION SLIDER 5.4.1 fullwidth mode -->
+        <div id="rev_interactive" class="rev_slider fullwidthabanner white" data-version="5.4.1">
+            <ul>
+                <!-- SLIDE 1 -->
+                <li data-index="rs-01" data-transition="fade" data-slotamount="default" data-easein="Power100.easeIn" data-easeout="Power100.easeOut" data-masterspeed="2000" data-fsmasterspeed="1500" data-param1="01">
+                    <!-- MAIN IMAGE -->
+                    <div class="overlay overlay-dark opacity-7"></div>
+                    <img src="images/bg-portfolio-1.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                    <!-- LAYER NR. 1 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['right','right','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['-90','-90','-90','-90']"
+                         data-width="none" data-height="none" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="1000"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h1 class="text-capitalize font-xlight whitecolor text-center">We're Design Studio</h1>
                     </div>
-                </div>
+                    <!-- LAYER NR. 2 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['right','right','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['-30','-30','-30','-30']"
+                         data-width="none" data-height="none" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="1000"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h1 class="text-capitalize font-bold whitecolor text-center">Believes In</h1>
+                    </div>
+                    <!-- LAYER NR. 3 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['right','right','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['30','30','30','30']"
+                         data-width="none" data-height="none" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="1500"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h1 class="text-capitalize font-xlight whitecolor text-center">An Innovation</h1>
+                    </div>
+                    <!-- LAYER NR. 4 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['right','right','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['80','80','80','80']"
+                         data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="2000"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h4 class="whitecolor font-xlight text-center">The Best Multipurpose Parallax Template in Market</h4>
+                    </div>
+                </li>
+                <!-- SLIDE 2 -->
+                <li data-index="rs-02" data-transition="fade" data-slotamount="default" data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="2000" data-fsmasterspeed="1500" data-param1="02">
+                    <!-- MAIN IMAGE -->
+                    <div class="overlay overlay-dark opacity-6"></div>
+                    <img src="images/bg-portfolio-2.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                    <!-- LAYER NR. 1 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['left','left','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['-90','-90','-90','-90']"
+                         data-width="none" data-height="none" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="1000"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h1 class="text-capitalize font-xlight whitecolor text-center">The Creativity</h1>
+                    </div>
+                    <!-- LAYER NR. 2 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['left','left','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['-30','-30','-30','-30']"
+                         data-width="none" data-height="none" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="1000"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h1 class="text-capitalize font-bold whitecolor text-center">Finds In Our Works</h1>
+                    </div>
+                    <!-- LAYER NR. 3 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['left','left','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['30','30','30','30']"
+                         data-width="none" data-height="none" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="1500"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h1 class="text-capitalize font-xlight whitecolor text-center">Let's Buy</h1>
+                    </div>
+                    <!-- LAYER NR. 4 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['left','left','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['80','80','80','80']"
+                         data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="2000"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h4 class="whitecolor font-xlight text-center">The Best Multipurpose Multi Page Parallax Template</h4>
+                    </div>
+                </li>
+                <!-- SLIDE 3 -->
+                <li data-index="rs-03" data-transition="fade" data-slotamount="default" data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="2000" data-fsmasterspeed="1500" data-param1="03">
+                    <!-- MAIN IMAGE -->
+                    <div class="overlay overlay-dark opacity-6"></div>
+                    <img src="images/bg-portfolio-3.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                    <!-- LAYER NR. 1 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['right','right','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['-90','-90','-90','-90']"
+                         data-width="none" data-height="none" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="1000"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h1 class="text-capitalize font-xlight whitecolor text-center">The Ultimate</h1>
+                    </div>
+                    <!-- LAYER NR. 2 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['right','right','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['-30','-30','-30','-30']"
+                         data-width="none" data-height="none" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="1000"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h1 class="text-capitalize font-bold whitecolor text-center">Creative Business</h1>
+                    </div>
+                    <!-- LAYER NR. 3 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['right','right','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['30','30','30','30']"
+                         data-width="none" data-height="none" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="1500"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h1 class="text-capitalize font-xlight whitecolor text-center">In Market</h1>
+                    </div>
+                    <!-- LAYER NR. 4 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['right','right','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['80','80','80','80']"
+                         data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="2000"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h4 class="whitecolor font-xlight text-center">The Best Multipurpose Parallax Template in Market</h4>
+                    </div>
+                </li>
+                <!-- SLIDE 4 -->
+                <li data-index="rs-04" data-transition="fade" data-slotamount="default" data-easein="Power100.easeIn" data-easeout="Power100.easeOut" data-masterspeed="2000" data-fsmasterspeed="1500" data-param1="04">
+                    <!-- MAIN IMAGE -->
+                    <div class="overlay overlay-dark opacity-6"></div>
+                    <img src="images/bg-portfolio-4.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                    <!-- LAYER NR. 1 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['right','right','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['-90','-90','-90','-90']"
+                         data-width="none" data-height="none" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="1000"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h1 class="text-capitalize font-xlight whitecolor text-center">The Latest</h1>
+                    </div>
+                    <!-- LAYER NR. 2 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['right','right','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['-30','-30','-30','-30']"
+                         data-width="none" data-height="none" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="1000"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h1 class="text-capitalize font-bold whitecolor text-center">Creative Template</h1>
+                    </div>
+                    <!-- LAYER NR. 3 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['right','right','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['30','30','30','30']"
+                         data-width="none" data-height="none" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="1500"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h1 class="text-capitalize font-xlight whitecolor text-center">In Market</h1>
+                    </div>
+                    <!-- LAYER NR. 4 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['right','right','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['80','80','80','80']"
+                         data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="2000"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h4 class="whitecolor font-xlight text-center">With Your Imaginations, We Build Amazing Works</h4>
+                    </div>
+                </li>
+                <!-- SLIDE 5 -->
+                <li data-index="rs-05" data-transition="fade" data-slotamount="default" data-easein="Power100.easeIn" data-easeout="Power100.easeOut" data-masterspeed="2000" data-fsmasterspeed="1500" data-param1="05">
+                    <!-- MAIN IMAGE -->
+                    <div class="overlay overlay-dark opacity-6"></div>
+                    <img src="images/bg-portfolio-5.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                    <!-- LAYER NR. 1 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['left','left','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['-90','-90','-90','-90']"
+                         data-width="none" data-height="none" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="1000"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h1 class="text-capitalize font-xlight whitecolor text-center">Let's Create</h1>
+                    </div>
+                    <!-- LAYER NR. 2 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['left','left','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['-30','-30','-30','-30']"
+                         data-width="none" data-height="none" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="1000"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h1 class="text-capitalize font-bold whitecolor text-center">Deep Creativity</h1>
+                    </div>
+                    <!-- LAYER NR. 3 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['left','left','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['30','30','30','30']"
+                         data-width="none" data-height="none" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="1500"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h1 class="text-capitalize font-xlight whitecolor text-center">In Works</h1>
+                    </div>
+                    <!-- LAYER NR. 4 -->
+                    <div class="tp-caption tp-resizeme"
+                         data-x="['left','left','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['80','80','80','80']"
+                         data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="2000"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h4 class="whitecolor font-xlight text-center">The Best Multipurpose Template in Market</h4>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<!--Shopping-->
+<section id="our-shop" class="padding">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-12 text-center wow fadeIn" data-wow-delay="300ms">
+            <h2 class="heading bottom30 darkcolor font-light2">Our <span class="font-normal">Shop</span>
+               <span class="divider-center"></span>
+            </h2>
+            <div class="col-md-8 offset-md-2 heading_space">
+               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A dolores explicabo laudantium, omnis provident quam reiciendis voluptatum?</p>
             </div>
-        </div>
-    </section>
-    <!--slider end-->
-    <!-- creative -->
-    <section class="single-items section bg-parallax-1" id="creative">
-        <div class="overlay overlay-dark para-opacity z-index-0"></div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-5 offset-md-7 col-sm-8 offset-sm-4">
-                    <div class="item-titles darkcolor text-center text-sm-right">
-                        <h2 class="font-xlight wow fadeInUp" data-wow-delay="300ms">
-                            <a data-fancybox="group-1" href="images/bg-single-1.jpg">Be <span>Creative</span></a>
-                        </h2>
-                        <p class="top25 bottom25 wow fadeInUp" data-wow-delay="350ms">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today just like.</p>
-                        <p>nature, shore, stars</p>
-                        <a class="d-none" data-fancybox="group-1" href="images/bg-single-11.jpg">View More</a>
-                    </div>
-                </div>
+         </div>
+         <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
+            <div class="shopping-box bottom30">
+               <div class="image">
+                  <img src="images/shop1.jpg" alt="shop">
+                  <div class="overlay danger center-block">
+                     <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
+                  </div>
+               </div>
+               <div class="shop-content text-center">
+                  <h4 class="darkcolor"><a href="shop-detail.html">Red Shoe</a></h4>
+                  <p>We offer the most complete in the country</p>
+                  <h4 class="price-product">$230.00</h4>
+               </div>
             </div>
-        </div>
-    </section>
-    <!-- social -->
-    <section class="single-items section bg-parallax-2" id="social">
-        <div class="overlay overlay-dark para-opacity z-index-0"></div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-5 col-sm-8">
-                    <div class="item-titles whitecolor text-center text-sm-left">
-                        <h2 class="font-xlight wow fadeInUp" data-wow-delay="300ms">
-                            <a data-fancybox="group-2" href="images/bg-single-2.jpg">Social <span> Media</span></a>
-                        </h2>
-                        <p class="top15 bottom25 wow fadeInUp" data-wow-delay="350ms">creative, branding, graphics</p>
-                        <a class="button btn-primary wow fadeInUp" data-wow-delay="400ms" data-fancybox="group-2" href="images/bg-single-22.jpg">View More</a>
-                        <a class="d-none" data-fancybox="group-2" href="images/bg-single-222.jpg">More</a>
-                    </div>
-                </div>
+         </div>
+         <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
+            <div class="shopping-box bottom30">
+               <div class="image">
+                  <img src="images/shop1.jpg" alt="shop">
+                  <div class="overlay danger center-block">
+                     <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
+                  </div>
+               </div>
+               <div class="shop-content text-center">
+                  <h4 class="darkcolor"><a href="shop-detail.html">Red Shoe</a></h4>
+                  <p>We offer the most complete in the country</p>
+                  <h4 class="price-product">$230.00</h4>
+               </div>
             </div>
-        </div>
-    </section>
-    <!-- coorporate -->
-    <section class="single-items section bg-parallax-3" id="corporate">
-        <div class="overlay overlay-dark para-opacity z-index-0"></div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-5 offset-md-7 col-sm-8 offset-sm-4">
-                    <div class="item-titles text-center text-sm-right darkcolor">
-                        <h2 class="font-xlight wow fadeInUp" data-wow-delay="300ms">
-                            <a data-fancybox="group-3" href="images/bg-single-3.jpg">Trax <span>Corporate</span></a>
-                        </h2>
-                        <p class="top15 bottom25 wow fadeInUp" data-wow-delay="350ms">media, culture, colors</p>
-                        <a class="button btn-secondary wow fadeInUp" data-wow-delay="400ms" data-fancybox="group-3" href="images/bg-single-33.jpg">View More</a>
-                        <a class="d-none" data-fancybox="group-3" href="images/bg-single-333.jpg">More</a>
-                    </div>
-                </div>
+         </div>
+         <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
+            <div class="shopping-box bottom30">
+               <div class="image">
+                  <img src="images/shop1.jpg" alt="shop">
+                  <div class="overlay danger center-block">
+                     <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
+                  </div>
+               </div>
+               <div class="shop-content text-center">
+                  <h4 class="darkcolor"><a href="shop-detail.html">Red Shoe</a></h4>
+                  <p>We offer the most complete in the country</p>
+                  <h4 class="price-product">$230.00</h4>
+               </div>
             </div>
-        </div>
-    </section>
-    <!-- seo -->
-    <section class="single-items section bg-parallax-4" id="seo">
-        <div class="overlay overlay-dark para-opacity z-index-0"></div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-5 col-sm-8">
-                    <div class="item-titles whitecolor text-center text-sm-left">
-                        <h2 class="font-xlight wow fadeInUp" data-wow-delay="300ms">
-                            <a data-fancybox="group-4" href="images/bg-single-4.jpg">Optimized <span>SEO</span></a>
-                        </h2>
-                        <p class="top15 bottom25 wow fadeInUp" data-wow-delay="350ms">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today vs, yesterday. Fonts, just like images.</p>
-                        <p class=" wow fadeInUp" data-wow-delay="400ms">fashion, graphics</p>
-                        <a class="d-none" data-fancybox="group-4" href="images/bg-single-44.jpg">View More</a>
-                    </div>
-                </div>
+         </div>
+         <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
+            <div class="shopping-box bottom30">
+               <div class="image">
+                  <img src="images/shop1.jpg" alt="shop">
+                  <div class="overlay danger center-block">
+                     <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
+                  </div>
+               </div>
+               <div class="shop-content text-center">
+                  <h4 class="darkcolor"><a href="shop-detail.html">Red Shoe</a></h4>
+                  <p>We offer the most complete in the country</p>
+                  <h4 class="price-product">$230.00</h4>
+               </div>
             </div>
-        </div>
-    </section>
-    <!-- marketing -->
-    <section class="single-items section bg-parallax-5" id="marketing">
-        <div class="overlay overlay-dark para-opacity z-index-0"></div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-5 offset-md-7 col-sm-8 offset-sm-4">
-                    <div class="item-titles darkcolor text-center text-sm-right">
-                        <h2 class="font-xlight wow fadeInUp" data-wow-delay="300ms">
-                            <a data-fancybox="group-5" href="images/bg-single-5.jpg">Trax <span>Marketing</span> </a>
-                        </h2>
-                        <p class="top15 bottom25 wow fadeInUp" data-wow-delay="350ms">fashion, brands, colors</p>
-                        <a class="button btn-secondary wow fadeInUp" data-wow-delay="400ms" data-fancybox="group-5" href="images/bg-single-55.jpg">View More</a>
-                        <a class="d-none" data-fancybox="group-5" href="images/bg-single-555.jpg">More</a>
-                    </div>
-                </div>
+         </div>
+         <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
+            <div class="shopping-box bottom30">
+               <div class="image">
+                  <img src="images/shop1.jpg" alt="shop">
+                  <div class="overlay danger center-block">
+                     <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
+                  </div>
+               </div>
+               <div class="shop-content text-center">
+                  <h4 class="darkcolor"><a href="shop-detail.html">Red Shoe</a></h4>
+                  <p>We offer the most complete in the country</p>
+                  <h4 class="price-product">$230.00</h4>
+               </div>
             </div>
-        </div>
-    </section>
-    <!-- agency -->
-    <section class="single-items section bg-parallax-6" id="agency">
-        <div class="overlay overlay-dark para-opacity z-index-0"></div>
-        <div class="overlay overlay-dark opacity-4 z-index-0"></div>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-5 col-sm-8">
-                    <div class="item-titles whitecolor text-center text-sm-left">
-                        <h2 class="font-xlight wow fadeInUp" data-wow-delay="300ms">
-                            <a data-fancybox="group-6" href="images/bg-single-6.jpg">Cultivate &amp; <span>Inspired</span></a>
-                        </h2>
-                        <p class="top25 bottom25 wow fadeInUp" data-wow-delay="350ms">The integration of web fonts has always been one of the largest contributing factors to diversity in the overall look and feel of websites today vs, yesterday. Fonts, just like images.  </p>
-                        <p class="wow fadeInUp" data-wow-delay="300ms">fruits, vegetables</p>
-                        <a class="d-none" data-fancybox="group-6" href="images/bg-single-66.jpg">View More</a>
-                    </div>
-                </div>
+         </div>
+         <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
+            <div class="shopping-box bottom30">
+               <div class="image">
+                  <img src="images/shop1.jpg" alt="shop">
+                  <div class="overlay danger center-block">
+                     <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
+                  </div>
+               </div>
+               <div class="shop-content text-center">
+                  <h4 class="darkcolor"><a href="shop-detail.html">Red Shoe</a></h4>
+                  <p>We offer the most complete in the country</p>
+                  <h4 class="price-product">$230.00</h4>
+               </div>
             </div>
-        </div>
-    </section>
-    <!-- contact -->
-    <section id="contact" class="single-items section bg-parallax-7">
-        <div class="overlay overlay-dark opacity-8 z-index-0"></div>
-        <div class="container full-screen center-block">
-            <div class="contact-body">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="main-title wow fadeIn text-center bottom35 top50" data-wow-delay="300ms">
-                            <h5 class="defaultcolor"> Leave a message </h5>
-                            <h2 class="whitecolor pt-3"> Need Assistance? </h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-12 col-sm-12 wow fadeInUp" data-wow-delay="400ms">
-                        <div class="col-sm-12 p-0" id="result"></div>
-                        <div class="parallax-form">
-                            <form class="transparent-form" onsubmit="return false;">
-                                <div class="row">
-                                    <div class="col-md-6 col-sm-12">
-                                        <div class="pb-4">
-                                            <label for="name" class="d-none"></label>
-                                            <input type="text" placeholder="Name" class="form-control" required="" id="name" name="name">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6 col-sm-12">
-                                        <div class="pb-4">
-                                            <label for="email" class="d-none"></label>
-                                            <input type="email" placeholder="Email" class="form-control" required="" id="email" name="email">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6 col-sm-12">
-                                        <div class="pb-4">
-                                            <label for="phone" class="d-none"></label>
-                                            <input type="tel" placeholder="Contact No" class="form-control" id="phone" name="phone">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6 col-sm-12">
-                                        <div class="pb-4">
-                                            <label for="subject" class="d-none"></label>
-                                            <input type="text" placeholder="Subject" class="form-control" id="subject" name="subject">
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <div class="pb-4">
-                                            <label for="message" class="d-none"></label>
-                                            <textarea placeholder="Message" class="form-control" id="message" name="message"></textarea>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-12 pt-xs-25px text-center">
-                                        <button type="submit" class="button btn-primary" id="submit_btn"><i class="ti ti-reload ti-reload mr-2 d-none" aria-hidden="true"></i><b class="font-weight-normal">SUBMIT REQUEST</b></button>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
-                    </div>
-                </div>
+         </div>
+         <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
+            <div class="shopping-box bottom30">
+               <div class="image">
+                  <img src="images/shop1.jpg" alt="shop">
+                  <div class="overlay danger center-block">
+                     <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
+                  </div>
+               </div>
+               <div class="shop-content text-center">
+                  <h4 class="darkcolor"><a href="shop-detail.html">Red Shoe</a></h4>
+                  <p>We offer the most complete in the country</p>
+                  <h4 class="price-product">$230.00</h4>
+               </div>
             </div>
-        </div>
-    </section>
-    <!-- arrows slider -->
-    <!-- <div class="d-none d-lg-block animated fadeIn fixed-para-btn">
-        <div class="para-btn para-up mb-2 disabled">
-            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 129 129" enable-background="new 0 0 129 129" fill="#fff" class="rotate-180">
-                <g>
-                    <path d="m121.3,34.6c-1.6-1.6-4.2-1.6-5.8,0l-51,51.1-51.1-51.1c-1.6-1.6-4.2-1.6-5.8,0-1.6,1.6-1.6,4.2 0,5.8l53.9,53.9c0.8,0.8 1.8,1.2 2.9,1.2 1,0 2.1-0.4 2.9-1.2l53.9-53.9c1.7-1.6 1.7-4.2 0.1-5.8z"/>
-                </g>
-            </svg>
-        </div>
-        <div class="para-btn para-down">
-            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 129 129" enable-background="new 0 0 129 129" fill="#fff" >
-                <g>
-                    <path d="m121.3,34.6c-1.6-1.6-4.2-1.6-5.8,0l-51,51.1-51.1-51.1c-1.6-1.6-4.2-1.6-5.8,0-1.6,1.6-1.6,4.2 0,5.8l53.9,53.9c0.8,0.8 1.8,1.2 2.9,1.2 1,0 2.1-0.4 2.9-1.2l53.9-53.9c1.7-1.6 1.7-4.2 0.1-5.8z"/>
-                </g>
-            </svg>
-        </div>
-    </div> -->
-</div>
+         </div>
+         <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
+            <div class="shopping-box bottom30">
+               <div class="image">
+                  <img src="images/shop1.jpg" alt="shop">
+                  <div class="overlay danger center-block">
+                     <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
+                  </div>
+               </div>
+               <div class="shop-content text-center">
+                  <h4 class="darkcolor"><a href="shop-detail.html">Red Shoe</a></h4>
+                  <p>We offer the most complete in the country</p>
+                  <h4 class="price-product">$230.00</h4>
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
+            <div class="shopping-box bottom30">
+               <div class="image">
+                  <img src="images/shop1.jpg" alt="shop">
+                  <div class="overlay danger center-block">
+                     <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
+                  </div>
+               </div>
+               <div class="shop-content text-center">
+                  <h4 class="darkcolor"><a href="shop-detail.html">Red Shoe</a></h4>
+                  <p>We offer the most complete in the country</p>
+                  <h4 class="price-product">$230.00</h4>
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
+            <div class="shopping-box bottom30">
+               <div class="image">
+                  <img src="images/shop1.jpg" alt="shop">
+                  <div class="overlay danger center-block">
+                     <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
+                  </div>
+               </div>
+               <div class="shop-content text-center">
+                  <h4 class="darkcolor"><a href="shop-detail.html">Red Shoe</a></h4>
+                  <p>We offer the most complete in the country</p>
+                  <h4 class="price-product">$230.00</h4>
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
+            <div class="shopping-box bottom30">
+               <div class="image">
+                  <img src="images/shop1.jpg" alt="shop">
+                  <div class="overlay danger center-block">
+                     <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
+                  </div>
+               </div>
+               <div class="shop-content text-center">
+                  <h4 class="darkcolor"><a href="shop-detail.html">Red Shoe</a></h4>
+                  <p>We offer the most complete in the country</p>
+                  <h4 class="price-product">$230.00</h4>
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
+            <div class="shopping-box bottom30">
+               <div class="image">
+                  <img src="images/shop1.jpg" alt="shop">
+                  <div class="overlay danger center-block">
+                     <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
+                  </div>
+               </div>
+               <div class="shop-content text-center">
+                  <h4 class="darkcolor"><a href="shop-detail.html">Red Shoe</a></h4>
+                  <p>We offer the most complete in the country</p>
+                  <h4 class="price-product">$230.00</h4>
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-12 col-md-12">
+            <ul class="pagination justify-content-center top20 wow fadeInUp" data-wow-delay="400ms">
+               <li class="page-item"><a class="page-link disabled" href="#."><i class="fa fa-angle-left"></i></a></li>
+               <li class="page-item active"><a class="page-link" href="#.">1</a></li>
+               <li class="page-item"><a class="page-link" href="#.">2</a></li>
+               <li class="page-item"><a class="page-link" href="#.">3</a></li>
+               <li class="page-item"><a class="page-link" href="#."><i class="fa fa-angle-right"></i></a></li>
+            </ul>
+         </div>
+      </div>
+   </div>
+</section>
+<!--Shopping ends-->
+<!-- Contact US ends -->
+<!--Site Footer Here-->
+<?php include 'container/footer-s.php';?>
+<!--Footer ends-->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="js/jquery-3.4.1.min.js"></script>
 <!--Bootstrap Core-->
@@ -259,8 +505,6 @@
 <script src="js/tooltipster.min.js"></script>
 <!--wow js-->
 <script src="js/wow.js"></script>
-<!--Page Pilling JS-->
-<script src="js/jquery.pagepiling.min.js"></script>
 <!--Revolution SLider-->
 <script src="js/revolution/jquery.themepunch.tools.min.js"></script>
 <script src="js/revolution/jquery.themepunch.revolution.min.js"></script>
@@ -276,45 +520,7 @@
 <script src="js/revolution/extensions/revolution.extension.video.min.js"></script>
 <!--custom functions and script-->
 <script src="js/functions.js"></script>
-<div class="hotline-phone-ring-wrap">
-    <div class="hotline-phone-ring">
-        <div class="hotline-phone-ring-circle"></div>
-        <div class="hotline-phone-ring-circle-fill"></div>
-        <div class="hotline-phone-ring-img-circle">
-        <a href="tel:0933886846" class="pps-btn-img">
-            <img src="images/call-now.png" alt="Gọi điện thoại" width="50">
-        </a>
-        </div>
-    </div>
-    <div class="hotline-bar">
-        <a href="tel:0933886846">
-            <span class="text-hotline">0933.886.846</span>
-        </a>
-    </div>
-</div>
-<!-- Load Facebook SDK for JavaScript -->
-<div id="fb-root"></div>
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      xfbml            : true,
-      version          : 'v8.0'
-    });
-  };
 
-  (function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<!-- Your Chat Plugin code -->
-<div class="fb-customerchat"
-    attribution=setup_tool
-    page_id="586711838403573"
-    theme_color="#0A7CFF">
 </div>
 </body>
 </html>

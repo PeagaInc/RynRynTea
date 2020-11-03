@@ -5290,7 +5290,7 @@ ul.rounded li::before{
 .heading .divider-center {
     height: 4px;
     width: 70px;
-    background-image: -webkit-gradient(linear, left top, right top, from(#5192e1), color-stop(51%, #23ced5), to(#5192e1));
+    background-color: #EEA73D;
     display: block;
 }
 
@@ -6128,6 +6128,18 @@ ul.count_down.white li p:nth-child(2) {
     font-size: 1rem;
     position: relative;
 }
+.why-us-list {
+    font-size: 14px;
+    padding: 25px 0;
+    display: inline-block;
+}
+
+.why-us-list li {
+    margin: 14px 0 14px 25px;
+    text-align: left;
+    font-size: 1rem;
+    position: relative;
+}
 
 .price-included {
     position: relative;
@@ -6241,6 +6253,27 @@ ul.count_down.white li p:nth-child(2) {
     color: #fff;
 }
 
+
+
+
+.why-us-list li::before,
+.price-included::before {
+    content: '\f005';
+    font-family: "Font Awesome 5 Free", serif;
+    font-weight: 900;
+    position: absolute;
+    top: 2px;
+    left: -25px;
+    color: #EEA73D;
+}
+
+.pricing-item.active .why-us-list li::before{
+    color: #fff;
+}
+
+
+
+
 .price-toggle-wrapper {
     position: relative;
     background: #fff;
@@ -6311,6 +6344,9 @@ ul.count_down.white li p:nth-child(2) {
         font-size: 2.5rem;
     }
     .pricing-list li {
+        font-size: 0.9375rem;
+    }
+    .why-us-list li{
         font-size: 0.9375rem;
     }
     .price-toggle-wrapper .Pricing-toggle-button {

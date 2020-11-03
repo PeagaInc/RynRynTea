@@ -4,7 +4,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>RynRyn | Nhượng quyền</title>
+    <title>RynRyn | Về chúng tôi</title>
     <link href="images/favicon.ico" rel="icon">
 
     <link rel="stylesheet" href="css/themify-icons.css">
@@ -33,7 +33,7 @@
 </div>
 <!--PreLoader Ends-->
 <!-- header -->
-<?php include 'container/nav-bar.php';?>
+<?php include 'container/nav-bar-2.php';?>
 <!-- header -->
 <!--Page Header-->
 <section id="main-banner-page" class="position-relative page-header service-header section-nav-smooth parallax">
@@ -41,23 +41,23 @@
         <div class="row">
             <div class="col-lg-6 offset-lg-3">
                 <div class="page-titles whitecolor text-center padding">
-                    <h2 class="font-bold"> Hệ thống cửa hàng</h2>
+                    <h2 class="font-bold"> Về chúng tôi</h2>
                     <h3 class="font-light py-3">We'd Love To Here From You.</h3>
                 </div>
             </div>
         </div>
-        <div class="bgdefault title-wrap mt-n5">
+        <!-- <div class="bgdefault title-wrap mt-n5">
             <div class="row">
                 <div class="col-lg-12 col-md-12 whitecolor">
                     <h3 class="center">Với 300 cửa hàng trên toàn quốc</h3>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 </section>
 <!--Page Header ends -->
 <!-- Services us -->
-<section id="our-services" class="padding bglight">
+<!-- <section id="our-services" class="padding bglight">
     <div class="container">
         <div class="row whitebox top15">
             <div class="col-lg-4 col-md-5">
@@ -101,16 +101,142 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- Services us ends -->
 <!-- Testimonials -->
+
+<section id="story" class="single-feature padding-counter-s bgmilktea" >
+    <div class="container">
+        <div class="row d-flex align-items-center">
+            <div class="col-lg-6 col-md-7 col-sm-7 text-sm-left text-center wow fadeInLeft" data-wow-delay="300ms">
+                <div class="heading-title mb-4">
+                    <h2 class="darkcolor font-normal bottom30">Về Ryn Ryn</h2>
+                </div>
+                <p class="bottom35 text-jus">Sau 5 năm phát triển, đội ngũ Ryn Ryn đã hoàn thiện quy trình vận hành, sản phẩm được yêu mến và ủng hộ mạnh mẽ từ khách hàng. Điều đáng tự hào nhất là Ryn Ryn đã xây dựng được đội ngũ nhân sự nòng cốt đầy tài năng và trách nhiệm, sẵn sàng hỗ trợ quý đối tác trong suốt quá trình hợp tác. </p>
+                <!-- <a href="gioi-thieu" class="button btnthirdary mb-sm-0 mb-4 ">Tất cả sản phẩm <meta></a> -->
+            </div>
+            <div class="col-lg-5 offset-lg-1 col-md-5 col-sm-5 wow fadeInRight" data-wow-delay="300ms">
+                <div class="image"><img alt="SEO" src="images/awesome-feature.jpg"></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- Contact US -->
+<section id="stayconnect1" class="bglight position-relative padding noshadow">
+    <div class="container whitebox">
+        <div class="widget py-5">
+            <div class="row">
+                <div class="col-md-12 text-center wow fadeIn mt-n3" data-wow-delay="300ms">
+                    <h2 class="heading bottom30 darkcolor font-light2 pt-1"><span class="font-normal">Liên Hệ</span>
+                        <span class="divider-center"></span>
+                    </h2>
+                    <div class="col-md-8 offset-md-2 bottom35">
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A dolores explicabo laudantium, omnis provident quam reiciendis voluptatum?</p>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6 order-sm-2">
+                    <div class="contact-meta px-2 text-center text-md-left">
+                        <div class="heading-title">
+                            <span class="defaultcolor mb-3">Trax Agency Worldwide</span>
+                            <h2 class="darkcolor font-normal mb-4"><span class="d-none d-md-inline-block">Our</span> Agency Office <span class="d-none d-md-inline-block">In London</span></h2>
+                        </div>
+                        <p class="bottom10">Address: 309, New Cavendish St, EC1Y 3WK</p>
+                        <p class="bottom10">0800 214 5252</p>
+                        <p class="bottom10"><a href="mailto:polpo@traxagency.co.au">polpo@traxagency.co.au</a></p>
+                        <p class="bottom10">Mon-Fri: 9am-5pm</p>
+                        <ul class="social-icons mt-4 mb-4 mb-sm-0 wow fadeInUp" data-wow-delay="300ms">
+                            <li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i> </a> </li>
+                            <li><a href="javascript:void(0)"><i class="fab fa-twitter"></i> </a> </li>
+                            <li><a href="javascript:void(0)"><i class="fab fa-linkedin-in"></i> </a> </li>
+                            <li><a href="javascript:void(0)"><i class="fab fa-instagram"></i> </a> </li>
+                            <li><a href="javascript:void(0)"><i class="fab fa-whatsapp"></i> </a> </li>
+                            <li><a href="javascript:void(0)"><i class="far fa-envelope"></i> </a> </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6">
+                    <div class="heading-title  wow fadeInUp" data-wow-delay="300ms">
+                        <form class="getin_form wow fadeInUp" data-wow-delay="400ms" onsubmit="return false;">
+                            <div class="row px-2">
+                                <div class="col-md-12 col-sm-12" id="result1"></div>
+                                <div class="col-md-12 col-sm-12">
+                                    <div class="form-group">
+                                        <label for="name1" class="d-none"></label>
+                                        <input class="form-control" id="name1" type="text" placeholder="Name:" required  name="userName">
+                                    </div>
+                                </div>
+                                <div class="col-md-12 col-sm-12">
+                                    <div class="form-group">
+                                        <label for="email1" class="d-none"></label>
+                                        <input class="form-control" type="email" id="email1" placeholder="Email:" name="email">
+                                    </div>
+                                </div>
+                                <div class="col-md-12 col-sm-12">
+                                    <div class="form-group">
+                                        <label for="message1" class="d-none"></label>
+                                        <textarea class="form-control" id="message1" placeholder="Message:" required  name="message"></textarea>
+                                    </div>
+                                </div>
+                                <div class="col-md-12 col-sm-12">
+                                    <button type="submit" id="submit_btn1" class="button btnprimary w-100">Send</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3 col-md-3">
+                <div class="widget text-center top60 w-100">
+                    <div class="contact-box">
+                        <span class="icon-contact defaultcolor"><i class="fas fa-mobile-alt"></i></span>
+                        <p class="bottom0"><a href="tel:+14046000396">+14046000396</a></p>
+                        <p class="d-block"><a href="tel:+43720778972">+43720778972</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3">
+                <div class="widget text-center top60 w-100">
+                    <div class="contact-box">
+                        <span class="icon-contact defaultcolor"><i class="fas fa-map-marker-alt"></i></span>
+                        <p class="bottom0">123 Street NYC , USA </p>
+                        <p class="d-block">123 Street New Yolo , Austria </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3">
+                <div class="widget text-center top60 w-100">
+                    <div class="contact-box">
+                        <span class="icon-contact defaultcolor"><i class="far fa-envelope"></i></span>
+                        <p class="bottom0"><a href="mailto:admin@website.com">admin@website.com</a></p>
+                        <p class="d-block"><a href="mailto:email@website.com">email@website.com</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3">
+                <div class="widget text-center top60 w-100">
+                    <div class="contact-box">
+                        <span class="icon-contact defaultcolor"><i class="far fa-clock"></i></span>
+                        <p class="bottom15">UTC−05:00 <span class="d-block">UTC+01:00</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Contact US ends -->
+
+
 <section id="our-testimonial" class="bglight padding_bottom">
     <div class="parallax page-header testimonial-bg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 offset-lg-6 col-md-12 text-center text-lg-right">
                     <div class="heading-title wow fadeInUp padding_testi" data-wow-delay="300ms">
-                        <span class="whitecolor">Mọi người nói về</span>
+                        <span class="whitecolor">Đối tác nói về</span>
                         <h2 class="whitecolor font-normal">Ryn Ryn</h2>
                     </div>
                 </div>
@@ -199,49 +325,7 @@
     </div>
 </section>
 <!--Testimonials Ends-->
-<!-- Contact US -->
-<section id="stayconnect" class="bglight position-relative">
-    <div class="container">
-        <div class="contactus-wrapp">
-            <div class="row">
-                <div class="col-md-12 col-sm-12">
-                    <div class="heading-title wow fadeInUp text-center text-md-left" data-wow-delay="300ms">
-                        <h3 class="darkcolor bottom20">Tìm hiểu thêm thông tin?</h3>
-                    </div>
-                </div>
-                <div class="col-md-12 col-sm-12">
-                    <form class="getin_form wow fadeInUp" data-wow-delay="400ms" onsubmit="return false;">
-                        <div class="row">
-                            <div class="col-md-12 col-sm-12" id="result"></div>
-                            <div class="col-md-3 col-sm-6">
-                                <div class="form-group">
-                                    <label for="userName" class="d-none"></label>
-                                    <input class="form-control" type="text" placeholder="Họ tên" required id="userName" name="userName">
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6">
-                                <div class="form-group">
-                                    <label for="companyName" class="d-none"></label>
-                                    <input class="form-control" type="tel" placeholder="Số điện thoại"  id="companyName" name="companyName">
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6">
-                                <div class="form-group">
-                                    <label for="email" class="d-none"></label>
-                                    <input class="form-control" type="email" placeholder="Email" required id="email" name="email">
-                                </div>
-                            </div>
-                            <div class="col-md-3 col-sm-6">
-                                <button type="submit" class="button btnprimary w-100" id="submit_btn">Đăng ký</button>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Contact US ends -->
+
 <!--Site Footer Here-->
 <?php include 'container/footer-s.php';?>
 <!--Footer ends-->
