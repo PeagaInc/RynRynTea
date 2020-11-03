@@ -242,6 +242,15 @@
                        <div class="col-md-12 col-sm-12">
                         <div class="input-group  bottom35">
                             <select class="custom-select " required id="registerPrice">
+                              <option selected>Loại mặt bằng ?</option>
+                              <option value="1">Nhà</option>
+                              <option value="2">Thuê</option>
+                            </select>
+                          </div>
+                        </div>
+                       <div class="col-md-12 col-sm-12">
+                        <div class="input-group  bottom35">
+                            <select class="custom-select " required id="registerPrice">
                               <option selected>Mô hình quan tâm?</option>
                               <option value="1">Cabin</option>
                               <option value="2">Kiosk</option>
