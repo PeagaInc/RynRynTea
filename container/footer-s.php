@@ -18,8 +18,8 @@
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="footer_panel padding_bottom_half bottom20 pl-0 pl-lg-5">
                     <h3 class="whitecolor bottom25">Liên hệ </h3>
-                    <h4 class ="whitecolor">Công ty TNHH Ollin Việt Nam</h4>
                     <ul class="latest_news whitecolor">
+                        <li> <a href="#.">Công ty TNHH Ollin Việt Nam</a> </li>
                         <li> <a href="#."><i class="far fa-building"></i>    VPĐD: 16 Quốc Hương, Thảo Điền, Quận 2, TP.HCM</a> </li>
                         <li> <a href="#."><i class="fas fa-industry"></i>    Xưởng sản xuất: Đường Xuân Hiệp 26, Xuân Hiệp, Xuân Lộc, Đồng Nai </a> </li>
                     </ul>
