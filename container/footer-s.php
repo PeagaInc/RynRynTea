@@ -18,10 +18,10 @@
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="footer_panel padding_bottom_half bottom20 pl-0 pl-lg-5">
                     <h3 class="whitecolor bottom25">Liên hệ </h3>
-                    <p class ="whitecolor">Công ty TNHH Ollin Việt Nam</p>
+                    <h4 class ="whitecolor">Công ty TNHH Ollin Việt Nam</h4>
                     <ul class="latest_news whitecolor">
                         <li> <a href="#."><i class="far fa-building"></i>    VPĐD: 16 Quốc Hương, Thảo Điền, Quận 2, TP.HCM</a> </li>
-                        <li> <a href="#."><i class="fas fa-industry"></i>    Xưởng sản xuất: Đường xuân hiệp 26, Xuận Hiệp, Đồng Nai </a> </li>
+                        <li> <a href="#."><i class="fas fa-industry"></i>    Xưởng sản xuất: Đường Xuân Hiệp 26, Xuân Hiệp, Xuân Lộc, Đồng Nai </a> </li>
                     </ul>
                     <div class="d-table w-100 address-item whitecolor bottom25">
                         <span class="d-table-cell align-middle"><i class="fas fa-mobile-alt"></i></span>
@@ -61,14 +61,14 @@
             <div class="hotline-phone-ring-circle"></div>
             <div class="hotline-phone-ring-circle-fill"></div>
             <div class="hotline-phone-ring-img-circle">
-            <a href="tel:0933886846" class="pps-btn-img">
+            <a href="tel:1900292922" class="pps-btn-img">
                 <img src="images/call-now.png" alt="Gọi điện thoại" width="50">
             </a>
             </div>
         </div>
         <div class="hotline-bar">
-            <a href="tel:0933886846">
-                <span class="text-hotline">0933.886.846</span>
+            <a href="tel:1900292922">
+                <span class="text-hotline">1900.292.922</span>
             </a>
         </div>
     </div>
