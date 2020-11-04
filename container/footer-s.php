@@ -26,7 +26,7 @@
                     <div class="d-table w-100 address-item whitecolor bottom25">
                         <span class="d-table-cell align-middle"><i class="fas fa-mobile-alt"></i></span>
                         <p class="d-table-cell align-middle bottom0">
-                            <a href="tel:0933886846">0933.886.846</a> <a class="d-block" href="mailto:franchise@rynryn.com">franchise@rynryn.com</a>
+                            <a href="tel:0933886846">1900 292922</a> <a class="d-block" href="mailto:franchise@rynryn.com">franchise@rynryn.com</a>
                         </p>
                     </div>
                     
@@ -68,7 +68,7 @@
         </div>
         <div class="hotline-bar">
             <a href="tel:1900292922">
-                <span class="text-hotline">1900.292.922</span>
+                <span class="text-hotline">1900 292922</span>
             </a>
         </div>
     </div>
