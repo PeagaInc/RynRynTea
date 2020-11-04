@@ -4006,11 +4006,11 @@ iframe {
 .overlay {
     -webkit-background-size: 100% 100%;
     background-size: 100% 100%;
-    background-image: -webkit-linear-gradient(to right, #23ced5aa 0%, #5192e1aa 100%);
-    background-image: -moz-linear-gradient(to right, #23ced5aa 0%, #5192e1aa 100%);
-    background-image: -ms-linear-gradient(to right, #23ced5aa 0%, #5192e1aa 100%);
-    background-image: -o-linear-gradient(to right, #23ced5aa 0%, #5192e1aa 100%);
-    background-image: linear-gradient(to right, #23ced5aa 0%, #5192e1aa 100%);
+    background-image: -webkit-linear-gradient(to right, #cbd7d8aa 0%, #fafcffaa 100%);
+    background-image: -moz-linear-gradient(to right, #cbd7d8aa 0%, #fafcffaa 100%);
+    background-image: -ms-linear-gradient(to right, #cbd7d8aa 0%, #fafcffaa 100%);
+    background-image: -o-linear-gradient(to right, #cbd7d8aa 0%, #fafcffaa 100%);
+    background-image: linear-gradient(to right, #cbd7d8aa 0%, #fafcffaa 100%);
     position: absolute;
     opacity: 0;
     visibility: hidden;
@@ -5200,7 +5200,7 @@ ul.rounded li::before{
 
 .shopping-box .price-product {
     font-family: 'Open Sans', sans-serif;
-    background-image: -webkit-gradient(linear, left top, right top, from(#5192e1), color-stop(51%, #23ced5), to(#5192e1));
+    background-image: -webkit-gradient(linear, left top, right top, from(#FF9800), color-stop(51%, #EEa73D), to(#FF9800));
     background-clip: border-box;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@colorPrimary', endColorstr='@colorSecondary', GradientType=1);
     -webkit-background-clip: text;

@@ -280,7 +280,7 @@
    <div class="container">
       <div class="row">
          <div class="col-md-12 text-center wow fadeIn" data-wow-delay="300ms">
-            <h2 class="heading bottom30 darkcolor font-light2">Our <span class="font-normal">Shop</span>
+            <h2 class="heading bottom30 darkcolor font-light2">Sản Phẩm 
                <span class="divider-center"></span>
             </h2>
             <div class="col-md-8 offset-md-2 heading_space">
@@ -305,7 +305,67 @@
          <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/shop1.jpg" alt="shop">
+                  <img src="images/shop2.jpg" alt="shop">
+                  <div class="overlay danger center-block">
+                     <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
+                  </div>
+               </div>
+               <div class="shop-content text-center">
+                  <h4 class="darkcolor"><a href="shop-detail.html">Red Shoe</a></h4>
+                  <p>We offer the most complete in the country</p>
+                  <h4 class="price-product">$230.00</h4>
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
+            <div class="shopping-box bottom30">
+               <div class="image">
+                  <img src="images/shop4.jpg" alt="shop">
+                  <div class="overlay danger center-block">
+                     <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
+                  </div>
+               </div>
+               <div class="shop-content text-center">
+                  <h4 class="darkcolor"><a href="shop-detail.html">Red Shoe</a></h4>
+                  <p>We offer the most complete in the country</p>
+                  <h4 class="price-product">$230.00</h4>
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
+            <div class="shopping-box bottom30">
+               <div class="image">
+                  <img src="images/shop4.jpg" alt="shop">
+                  <div class="overlay danger center-block">
+                     <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
+                  </div>
+               </div>
+               <div class="shop-content text-center">
+                  <h4 class="darkcolor"><a href="shop-detail.html">Red Shoe</a></h4>
+                  <p>We offer the most complete in the country</p>
+                  <h4 class="price-product">$230.00</h4>
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
+            <div class="shopping-box bottom30">
+               <div class="image">
+                  <img src="images/shop5.jpg" alt="shop">
+                  <div class="overlay danger center-block">
+                     <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
+                  </div>
+               </div>
+               <div class="shop-content text-center">
+                  <h4 class="darkcolor"><a href="shop-detail.html">Red Shoe</a></h4>
+                  <p>We offer the most complete in the country</p>
+                  <h4 class="price-product">$230.00</h4>
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
+            <div class="shopping-box bottom30">
+               <div class="image">
+                  <img src="images/shop6.jpg" alt="shop">
                   <div class="overlay danger center-block">
                      <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
                   </div>
@@ -335,7 +395,7 @@
          <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/shop1.jpg" alt="shop">
+                  <img src="images/shop2.jpg" alt="shop">
                   <div class="overlay danger center-block">
                      <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
                   </div>
@@ -350,7 +410,7 @@
          <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/shop1.jpg" alt="shop">
+                  <img src="images/shop5.jpg" alt="shop">
                   <div class="overlay danger center-block">
                      <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
                   </div>
@@ -365,7 +425,7 @@
          <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/shop1.jpg" alt="shop">
+                  <img src="images/shop4.jpg" alt="shop">
                   <div class="overlay danger center-block">
                      <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
                   </div>
@@ -380,7 +440,7 @@
          <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/shop1.jpg" alt="shop">
+                  <img src="images/shop5.jpg" alt="shop">
                   <div class="overlay danger center-block">
                      <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
                   </div>
@@ -395,7 +455,7 @@
          <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/shop1.jpg" alt="shop">
+                  <img src="images/shop6.jpg" alt="shop">
                   <div class="overlay danger center-block">
                      <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
                   </div>
@@ -407,67 +467,7 @@
                </div>
             </div>
          </div>
-         <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
-            <div class="shopping-box bottom30">
-               <div class="image">
-                  <img src="images/shop1.jpg" alt="shop">
-                  <div class="overlay danger center-block">
-                     <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
-                  </div>
-               </div>
-               <div class="shop-content text-center">
-                  <h4 class="darkcolor"><a href="shop-detail.html">Red Shoe</a></h4>
-                  <p>We offer the most complete in the country</p>
-                  <h4 class="price-product">$230.00</h4>
-               </div>
-            </div>
-         </div>
-         <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
-            <div class="shopping-box bottom30">
-               <div class="image">
-                  <img src="images/shop1.jpg" alt="shop">
-                  <div class="overlay danger center-block">
-                     <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
-                  </div>
-               </div>
-               <div class="shop-content text-center">
-                  <h4 class="darkcolor"><a href="shop-detail.html">Red Shoe</a></h4>
-                  <p>We offer the most complete in the country</p>
-                  <h4 class="price-product">$230.00</h4>
-               </div>
-            </div>
-         </div>
-         <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
-            <div class="shopping-box bottom30">
-               <div class="image">
-                  <img src="images/shop1.jpg" alt="shop">
-                  <div class="overlay danger center-block">
-                     <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
-                  </div>
-               </div>
-               <div class="shop-content text-center">
-                  <h4 class="darkcolor"><a href="shop-detail.html">Red Shoe</a></h4>
-                  <p>We offer the most complete in the country</p>
-                  <h4 class="price-product">$230.00</h4>
-               </div>
-            </div>
-         </div>
-         <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
-            <div class="shopping-box bottom30">
-               <div class="image">
-                  <img src="images/shop1.jpg" alt="shop">
-                  <div class="overlay danger center-block">
-                     <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
-                  </div>
-               </div>
-               <div class="shop-content text-center">
-                  <h4 class="darkcolor"><a href="shop-detail.html">Red Shoe</a></h4>
-                  <p>We offer the most complete in the country</p>
-                  <h4 class="price-product">$230.00</h4>
-               </div>
-            </div>
-         </div>
-         <div class="col-lg-12 col-md-12">
+         <!-- <div class="col-lg-12 col-md-12">
             <ul class="pagination justify-content-center top20 wow fadeInUp" data-wow-delay="400ms">
                <li class="page-item"><a class="page-link disabled" href="#."><i class="fa fa-angle-left"></i></a></li>
                <li class="page-item active"><a class="page-link" href="#.">1</a></li>
@@ -475,7 +475,7 @@
                <li class="page-item"><a class="page-link" href="#.">3</a></li>
                <li class="page-item"><a class="page-link" href="#."><i class="fa fa-angle-right"></i></a></li>
             </ul>
-         </div>
+         </div> -->
       </div>
    </div>
 </section>
