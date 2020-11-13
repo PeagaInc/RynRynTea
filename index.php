@@ -166,9 +166,9 @@
                             </div>
                     </div>
                 </div>
-                <a data-fancybox="video" href="https://youtu.be/DBEIfYc2C3A" class="video-play-button position-absolute">
+                <!-- <a data-fancybox="video" href="https://youtu.be/DBEIfYc2C3A" class="video-play-button position-absolute">
                     <i class="fas fa-play"></i>
-                </a>
+                </a> -->
             </div>
             <div class="col-md-6 col-sm-12 p-0 col-video video-bg">
                 <div class="image split-blog-scale transition-3">
@@ -179,31 +179,39 @@
     </div>
 </section>
 <!--video part section end-->
-<!-- Phone starts -->
-<section class="absolute-img-wrap bglight padding-counter-s">
+
+
+<!--video part section-->
+<section class="bglight" id="about-us">
     <h2 class="d-none">heading</h2>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-6 col-md-12 absolute-img right-img">
-                <div class="d-lg-inline-block">
-                    <div class="image"><img alt="SEO" src="images/nhuong-quyen.jpg"></div>
+    <div class="container-fluid bg-white">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-12 p-0 col-video video-bg">
+                <div class="image split-blog-scale transition-3">
+                    <img alt="stats" src="images/nhuong-quyen.jpg" class="video-img-setting ">
                 </div>
             </div>
-            <div class="col-lg-6 col-md-12 text-lg-right text-md-center md-mb-5 text-cen">
-                <div class="heading-title mb-4 mb-2rem text-lg-right wow fadeIn" data-wow-delay="300ms">
-                    <h5 class="text-custom-h5"> Kinh doanh cùng trà Ryn Ryn </h5>
-                    <div class="heading-title mb-4">
-                        <h2 class="darkcolor font-normal bottom30">Nhượng quyền</h2>
+            <div class="col-md-6 col-sm-12 p-0 ">
+                <div class="row mx-0">
+                    <div class="col-md-10 offset-md-1 offset-sm-0 col-sm-12">
+                        <div class="video-content-setting center-block text-center text-sm-left">
+                            <div class="heading-title mb-4">
+                                <div class="heading-title mb-4">
+                                    <h5 class="text-custom-h5 text-cen" > Kinh doanh cùng trà Ryn Ryn </h5>
+                                    <h2 class="darkcolor font-normal bottom30">Nhượng quyền</h2>
+                                </div>
+                            </div>
+                            <p class="darkcolor text-jus">Nếu bạn không biết bắt đầu cho một quán trà và trà sữa như thế nào, hãy liên hệ ngay cho Ryn Ryn nhé!
+                            </p>
+                            <a href="nhuong-quyen" class="button btnthirdary mb-sm-0 mb-4 ">Gói Hợp Tác<meta></a>
+                        </div>
                     </div>
-                    <p class="text-jus">Nếu bạn không biết bắt đầu cho một quán trà và trà sữa như thế nào, hãy liên hệ ngay cho Ryn Ryn nhé!</p>
-                    </div>
-                <a href="nhuong-quyen" class="button btnthirdary mb-sm-0 mb-4 ">Gói Hợp Tác<meta></a>
+                </div>
             </div>
-           
         </div>
     </div>
 </section>
-<!-- Phone ends -->
+<!--video part section end-->
 
 
 <!--Some Feature -->

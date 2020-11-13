@@ -120,7 +120,7 @@
             <div class="col-md-12 col-sm-12 text-center padding-s">
                 <div class="heading-title darkcolor wow fadeInUp" data-wow-delay="300ms">
                     <h2 class="font-normal bottom40">CÁC GÓI ĐẦU TƯ</h2>
-                    <span class="darkcolor text-jus-cen">Xuyên suốt quá trình kinh doanh của các nhà đầu tư, Ryn Ryn sẽ luôn hỗ trợ và đáp ứng kịp thời về chế độ, không chỉ giúp cửa hàng phát triển mà còn góp phần phủ rộng thương hiệu ra thị trường.</span>
+                    <span class="darkcolor text-jus-cen">Xuyên suốt quá trình hợp tác, Ryn Ryn luôn đồng hành và hỗ trợ tối đa cho đối tác. </span>
                 </div>
             </div>
         </div>

@@ -90,7 +90,7 @@
                 <li data-index="rs-02" data-transition="fade" data-slotamount="default" data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="2000" data-fsmasterspeed="1500" data-param1="02">
                     <!-- MAIN IMAGE -->
                     <div class="overlay overlay-dark opacity-6"></div>
-                    <img src="images/bg-portfolio-2.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                    <img src="images/bg-portfolio-1.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                     <!-- LAYER NR. 1 -->
                     <div class="tp-caption tp-resizeme"
                          data-x="['left','left','center','center']" data-hoffset="['0','0','0','0']"
@@ -136,7 +136,7 @@
                 <li data-index="rs-03" data-transition="fade" data-slotamount="default" data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="2000" data-fsmasterspeed="1500" data-param1="03">
                     <!-- MAIN IMAGE -->
                     <div class="overlay overlay-dark opacity-6"></div>
-                    <img src="images/bg-portfolio-3.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                    <img src="images/bg-portfolio-1.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                     <!-- LAYER NR. 1 -->
                     <div class="tp-caption tp-resizeme"
                          data-x="['right','right','center','center']" data-hoffset="['0','0','0','0']"
@@ -182,7 +182,7 @@
                 <li data-index="rs-04" data-transition="fade" data-slotamount="default" data-easein="Power100.easeIn" data-easeout="Power100.easeOut" data-masterspeed="2000" data-fsmasterspeed="1500" data-param1="04">
                     <!-- MAIN IMAGE -->
                     <div class="overlay overlay-dark opacity-6"></div>
-                    <img src="images/bg-portfolio-4.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                    <img src="images/bg-portfolio-1.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                     <!-- LAYER NR. 1 -->
                     <div class="tp-caption tp-resizeme"
                          data-x="['right','right','center','center']" data-hoffset="['0','0','0','0']"
@@ -228,7 +228,7 @@
                 <li data-index="rs-05" data-transition="fade" data-slotamount="default" data-easein="Power100.easeIn" data-easeout="Power100.easeOut" data-masterspeed="2000" data-fsmasterspeed="1500" data-param1="05">
                     <!-- MAIN IMAGE -->
                     <div class="overlay overlay-dark opacity-6"></div>
-                    <img src="images/bg-portfolio-5.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                    <img src="images/bg-portfolio-1.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                     <!-- LAYER NR. 1 -->
                     <div class="tp-caption tp-resizeme"
                          data-x="['left','left','center','center']" data-hoffset="['0','0','0','0']"
