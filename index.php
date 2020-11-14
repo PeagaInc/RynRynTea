@@ -185,7 +185,7 @@
 <section class="bglight" id="about-us">
     <h2 class="d-none">heading</h2>
     <div class="container-fluid bg-white">
-        <div class="row align-items-center">
+        <div class="row row-reverse align-items-center">
             <div class="col-md-6 col-sm-12 p-0 col-video video-bg">
                 <div class="image split-blog-scale transition-3">
                     <img alt="stats" src="images/nhuong-quyen.jpg" class="video-img-setting ">
@@ -214,6 +214,8 @@
 <!--video part section end-->
 
 
+
+
 <!--Some Feature -->
 <section id="story" class="single-feature padding-counter-s bgmilktea" >
     <div class="container">
@@ -226,60 +228,12 @@
                 <a href="gioi-thieu" class="button btnthirdary mb-sm-0 mb-4 ">Tất cả sản phẩm <meta></a>
             </div>
             <div class="col-lg-5 offset-lg-1 col-md-5 col-sm-5 wow fadeInRight" data-wow-delay="300ms">
-                <div class="image"><img alt="SEO" src="images/awesome-feature.jpg"></div>
+                <div class="image"><img alt="SEO" src="images/bg-portfolio-1.jpg"></div>
             </div>
         </div>
     </div>
 </section>
 <!--Some Feature -->
-<!-- Counters -->
-<!-- <section id="bg-counters" class="padding-s bg-counters parallax">
-    <div class="container">
-        <div class="row align-items-center text-center">
-            <div class="col-lg-4 col-md-4 col-sm-4 bottom10">
-                <div class="counters whitecolor  top10 bottom10">
-                    <span class="count_nums font-light" data-to="2020" data-speed="2500"> </span>
-                </div>
-                <h3 class="font-light whitecolor top20">Chúng tôi bắt đầu</h3>
-            </div>
-            <div class="col-lg-4 col-md-4 col-sm-4">
-                <p class="whitecolor top20 bottom20 font-light title text-jus-cen ">Được thành lập từ năm 2020, đến nay Ryn Ryn đã trở thành thương hiệu trà sữa được yêu thích nhất và sở hữu hệ thống cửa hàng nhiều nhất thị trường Việt Nam với hơn 300 cửa hàng đang hoạt động, trong đó các cửa hàng nhượng quyền chiếm tỉ trọng 70%, và con số này vẫn không ngừng phát triển. </p>
-            </div>
-            <div class="col-lg-4 col-md-4 col-sm-4 bottom10">
-                <div class="counters whitecolor top10 bottom10">
-                    <span class="count_nums font-light" data-to="300" data-speed="2500"> </span>
-                </div>
-                <h3 class="font-light whitecolor top20">Cửa hàng</h3>
-            </div>
-        </div>
-    </div>
-</section> -->
-<!-- Counters ends-->
-
-
-<!-- Partners-->
-<!-- <section id="our-partners" class="padding-phone bglight">
-    <div class="container">
-        <div class="row">
-            <h2 class="d-none">Partners Carousel</h2>
-            <div class="col-md-12 col-sm-12">
-                <div id="partners-slider" class="owl-carousel">
-                    <div class="item">
-                        <div class="logo-item"> <img alt="" src="images/logo/RynRyn.jpg"></div>
-                    </div>
-                    <div class="item">
-                        <div class="logo-item"><img alt="" src="images/logo/Cui.jpg"></div>
-                    </div>
-                    <div class="item">
-                        <div class="logo-item"><img alt="" src="images/logo/Ollin.jpg"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section> -->
-<!-- Partners ends-->
-<!-- Testimonials -->
 <section id="our-testimonial" class="bglight padding_bottom">
     <div class="parallax page-header testimonial-bg">
         <div class="container">

@@ -492,3 +492,6 @@
   width: 50% !important;
 }
 
+.row-reverse{
+  flex-wrap: wrap-reverse !important;
+}
