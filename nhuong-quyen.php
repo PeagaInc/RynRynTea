@@ -128,28 +128,28 @@
             <div class="item">
                 <div class="col-md-12">
                     <div class="pricing-item wow fadeInUp animated" data-wow-delay="300ms">
-                        <img src="images/nhuong-quyen/cabin.JPG"/>
+                        <img src="images/nhuong-quyen/cabin.jpg"/>
                     </div>
                 </div>
             </div>
             <div class="item">
                 <div class="col-md-12">
                     <div class="pricing-item wow fadeInUp animated" data-wow-delay="300ms">
-                        <img src="images/nhuong-quyen/kiosk.JPG"/>
+                        <img src="images/nhuong-quyen/kiosk.jpg"/>
                     </div>
                 </div>
             </div>
             <div class="item">
                 <div class="col-md-12">
                     <div class="pricing-item wow fadeInUp animated" data-wow-delay="300ms">
-                        <img src="images/nhuong-quyen/store.JPG"/>
+                        <img src="images/nhuong-quyen/store.jpg"/>
                     </div>
                 </div>
             </div>
             <div class="item">
                 <div class="col-md-12">
                     <div class="pricing-item wow fadeInUp animated" data-wow-delay="300ms">
-                        <img src="images/nhuong-quyen/flagship.JPG"/>
+                        <img src="images/nhuong-quyen/flagship.jpg"/>
                     </div>
                 </div>
             </div>
@@ -163,12 +163,12 @@
         <div class="row">
             <div class="col-md-12 col-sm-12 text-center">
                 <div class="heading-title wow fadeInUp" data-wow-delay="300ms">
-                    <h2 class="font-normal">QUY TRÌNH HỢP TÁC </h2>
+                    <h2 class="darkcolor font-normal bottom30">QUY TRÌNH HỢP TÁC </h2>
                 </div>
             </div>
         </div>
         <div class="row">
-            <img class="process-img" src="images/nhuong-quyen/process.JPG"/>
+            <img class="process-img" src="images/nhuong-quyen/process.jpg"/>
         </div>
     </div>
 </section>
