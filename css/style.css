@@ -6086,7 +6086,7 @@ ul.count_down.white li p:nth-child(2) {
 
 .pricing-item {
     position: relative;
-    padding: 2.5rem 1rem;
+    padding: 0rem 0rem;
     margin-bottom: 10px;
     margin-top: 10px;
     -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .12);
@@ -6679,7 +6679,7 @@ ul.latest_news li a:focus+span.defaultcolor {
         margin: 10px auto;
     }
     .video-content-setting {
-        padding: 5rem 4rem;
+        padding: 5rem 1rem;
     }
     #particles-text-morph {
         width: 100% !important;

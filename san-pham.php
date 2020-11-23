@@ -290,7 +290,7 @@
          <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/shop1.jpg" alt="shop">
+                  <img src="images/products/shop1.jpg" alt="shop">
                   <div class="overlay danger center-block">
                      <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
                   </div>
@@ -305,7 +305,7 @@
          <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/shop2.jpg" alt="shop">
+                  <img src="images/products/shop2.jpg" alt="shop">
                   <div class="overlay danger center-block">
                      <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
                   </div>
@@ -320,7 +320,7 @@
          <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/shop4.jpg" alt="shop">
+                  <img src="images/products/shop3.jpg" alt="shop">
                   <div class="overlay danger center-block">
                      <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
                   </div>
@@ -335,7 +335,7 @@
          <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/shop4.jpg" alt="shop">
+                  <img src="images/products/shop4.jpg" alt="shop">
                   <div class="overlay danger center-block">
                      <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
                   </div>
@@ -350,7 +350,7 @@
          <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/shop5.jpg" alt="shop">
+                  <img src="images/products/shop5.jpg" alt="shop">
                   <div class="overlay danger center-block">
                      <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
                   </div>
@@ -365,7 +365,7 @@
          <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/shop6.jpg" alt="shop">
+                  <img src="images/products/shop6.jpg" alt="shop">
                   <div class="overlay danger center-block">
                      <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
                   </div>
@@ -380,7 +380,7 @@
          <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/shop1.jpg" alt="shop">
+                  <img src="images/products/shop4.jpg" alt="shop">
                   <div class="overlay danger center-block">
                      <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
                   </div>
@@ -395,7 +395,7 @@
          <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/shop2.jpg" alt="shop">
+                  <img src="images/products/shop2.jpg" alt="shop">
                   <div class="overlay danger center-block">
                      <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
                   </div>
@@ -410,7 +410,7 @@
          <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/shop5.jpg" alt="shop">
+                  <img src="images/products/shop9.jpg" alt="shop">
                   <div class="overlay danger center-block">
                      <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
                   </div>
@@ -425,7 +425,7 @@
          <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/shop4.jpg" alt="shop">
+                  <img src="images/products/shop10.jpg" alt="shop">
                   <div class="overlay danger center-block">
                      <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
                   </div>
@@ -440,7 +440,7 @@
          <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/shop5.jpg" alt="shop">
+                  <img src="images/products/shop11.jpg" alt="shop">
                   <div class="overlay danger center-block">
                      <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
                   </div>
@@ -455,7 +455,7 @@
          <div class="col-lg-3 col-md-6 col-sm-6 wow fadeIn" data-wow-delay="500ms">
             <div class="shopping-box bottom30">
                <div class="image">
-                  <img src="images/shop6.jpg" alt="shop">
+                  <img src="images/products/shop12.jpg" alt="shop">
                   <div class="overlay danger center-block">
                      <a class="opens" href="shop-cart.html" title="Add To Cart"><i class="fa fa-shopping-cart"></i></a>
                   </div>

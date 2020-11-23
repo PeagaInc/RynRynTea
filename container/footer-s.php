@@ -48,9 +48,11 @@
                 <div class="footer_panel padding_bottom_half bottom20">
                     <h3 class="whitecolor bottom25">Chính sách</h3>
                     <ul class="latest_news whitecolor">
-                        <li> <a href="#.">Aenean tristique justo et... </a> <span class="date">15 March 2019</span> </li>
-                        <li> <a href="#.">Phasellus dapibus dictum augue... </a> <span class="date ">15 March 2019</span> </li>
-                        <li> <a href="#.">Mauris blandit vitae. Praesent non... </a> <span class="date ">15 March 2019</span> </li>
+                        <li> <a href="#.">Giao hàng</a></li>
+                        <li> <a href="#.">Thanh toán </a></li>
+                        <li> <a href="#.">Đổi trả</a></li>
+                        <li> <a href="#.">Cộng tác viên</a></li>
+                        <li> <a href="#.">Bảo mật </a></li>
                     </ul>
                 </div>
             </div>

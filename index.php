@@ -228,7 +228,7 @@
                 <a href="gioi-thieu" class="button btnthirdary mb-sm-0 mb-4 ">Tất cả sản phẩm <meta></a>
             </div>
             <div class="col-lg-5 offset-lg-1 col-md-5 col-sm-5 wow fadeInRight" data-wow-delay="300ms">
-                <div class="image"><img alt="SEO" src="images/bg-portfolio-1.jpg"></div>
+                <div class="image"><img alt="SEO" src="images/index-product.jpg"></div>
             </div>
         </div>
     </div>
@@ -254,13 +254,13 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4 col-md-12 text-center">
                         <div class="testimonial-round d-inline-block">
-                            <img src="images/testimonial-1.jpg" alt="">
+                            <img src="images/customers/1.jpg" alt="">
                         </div>
-                        <h4 class="defaultcolor font-light top15"><a href="#.">John Smith</a></h4>
-                        <p>UPWORK, New York</p>
+                        <h4 class="defaultcolor font-light top15"><a href="#.">Mr. Nguyen Nhat Bang</a></h4>
+                        <p>MOZANIO, TP. Hồ Chí Minh</p>
                     </div>
                     <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
-                        <p class="bottom15 top90">We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we boast a years and years of service.</p>
+                        <p class="bottom15 top90 text-jus">Mozanio đã gặp nhiều đối tác trong thời gian qua, nhưng khi trở thành đối tác của Ryn Ryn, chúng tôi có một góc nhìn khác hơn về tính hoàn thiện, những yêu cầu khắc khe, đòi hỏi sự trau chuốt tỉ mỉ đến từng chi tiết nhỏ, để sản phẩm đạt được chất lượng hoàn hảo. Chúng tối đánh giá cao và trân trọng những điều tốt đẹp họ mong muốn mang đến cho khách hàng của họ.</p>
                         <span class="d-inline-block test-star">
                                 <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
                                 <i class="fas fa-star"></i> <i class="fas fa-star"></i>
@@ -269,62 +269,6 @@
                 </div>
             </div>
             <!--item 2-->
-            <div class="item testi-box">
-                <div class="row align-items-center">
-                    <div class="col-lg-4 col-md-12 text-center">
-                        <div class="testimonial-round d-inline-block">
-                            <img src="images/testimonial-2.jpg" alt="">
-                        </div>
-                        <h4 class="defaultcolor font-light top15"><a href="#.">Hayden Wood</a></h4>
-                        <p>FIVERR, Italy</p>
-                    </div>
-                    <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
-                        <p class="bottom15 top90">Trax’s customer testimonial page is another beauty. Its simple design focuses on videos and standout quotes from customers. This approach is clean, straightforward, text that can be overwhelming and easy to skip.</p>
-                        <span class="d-inline-block test-star">
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i> <i class="far fa-star"></i>
-                                </span>
-                    </div>
-                </div>
-            </div>
-            <!--item 3-->
-            <div class="item testi-box">
-                <div class="row align-items-center">
-                    <div class="col-lg-4 col-md-12 text-center">
-                        <div class="testimonial-round d-inline-block">
-                            <img src="images/testimonial-3.jpg" alt="">
-                        </div>
-                        <h4 class="defaultcolor font-light top15"><a href="#.">Kevin Miller</a></h4>
-                        <p>ENVATO, Australia</p>
-                    </div>
-                    <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
-                        <p class="bottom15 top90">Trax is a company that provides tools to help professional event planning and execution, and their customers are very happy folks! The thing I love about their customer testimonial page provides content formats.</p>
-                        <span class="d-inline-block test-star">
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                                </span>
-                    </div>
-                </div>
-            </div>
-            <!--item 4-->
-            <div class="item testi-box">
-                <div class="row align-items-center">
-                    <div class="col-lg-4 col-md-12 text-center">
-                        <div class="testimonial-round d-inline-block">
-                            <img src="images/testimonial-4.jpg" alt="">
-                        </div>
-                        <h4 class="defaultcolor font-light top15"><a href="#.">Alina Johanson</a></h4>
-                        <p>INTEL, Sidney</p>
-                    </div>
-                    <div class="col-lg-6 offset-lg-2 col-md-10 offset-md-1 text-lg-left text-center">
-                        <p class="bottom15 top90">Startup Institute is a career accelerator that allows professionals to learn new skills, take their careers in a different direction, and pursue a career they are passionate about that have completed the program.</p>
-                        <span class="d-inline-block test-star">
-                                <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i> <i class="far fa-star"></i>
-                                </span>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
 </section>

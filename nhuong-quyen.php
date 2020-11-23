@@ -128,48 +128,28 @@
             <div class="item">
                 <div class="col-md-12">
                     <div class="pricing-item wow fadeInUp animated" data-wow-delay="300ms">
-                        <h2 class="font-light darkcolor">Cabin</h2>
-                        <p class="bottom30">The standard version</p>
-                        <div class="pricing-price darkcolor"><span class="pricing-currency">$9.95</span> /<span class="pricing-duration">month</span></div>
-                        <ul class="pricing-list">
-                            <li>Support forum</li>
-                            <li>Free hosting</li>
-                            <li class="price-not">40MB of storage space</li>
-                            <li class="price-not">Social media integration</li>
-                            <li class="price-not">10GB of storage space</li>
-                        </ul>
+                        <img src="images/nhuong-quyen/cabin.JPG"/>
                     </div>
                 </div>
             </div>
             <div class="item">
                 <div class="col-md-12">
-                    <div class="pricing-item wow fadeInUp animated" data-wow-delay="380ms" >
-                        <h2 class="font-light darkcolor">Kiosk</h2>
-                        <p class="bottom30">The standard version</p>
-                        <div class="pricing-price darkcolor"><span class="pricing-currency">$19.95</span> /<span class="pricing-duration">month</span></div>
-                        <ul class="pricing-list">
-                            <li>Support forum</li>
-                            <li>Free hosting</li>
-                            <li>40MB of storage space</li>
-                            <li class="price-not">Social media integration</li>
-                            <li class="price-not">10GB of storage space</li>
-                        </ul>
+                    <div class="pricing-item wow fadeInUp animated" data-wow-delay="300ms">
+                        <img src="images/nhuong-quyen/kiosk.JPG"/>
                     </div>
                 </div>
             </div>
             <div class="item">
                 <div class="col-md-12">
-                    <div class="pricing-item wow fadeInUp animated" data-wow-delay="460ms" >
-                        <h2 class="font-light darkcolor">Store</h2>
-                        <p class="bottom30">The standard version</p>
-                        <div class="pricing-price darkcolor"><span class="pricing-currency">$29.95</span> /<span class="pricing-duration">month</span></div>
-                        <ul class="pricing-list">
-                            <li>Support forum</li>
-                            <li>Free hosting</li>
-                            <li>40MB of storage space</li>
-                            <li>Social media integration</li>
-                            <li class="price-not">10GB of storage space</li>
-                        </ul>
+                    <div class="pricing-item wow fadeInUp animated" data-wow-delay="300ms">
+                        <img src="images/nhuong-quyen/store.JPG"/>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="col-md-12">
+                    <div class="pricing-item wow fadeInUp animated" data-wow-delay="300ms">
+                        <img src="images/nhuong-quyen/flagship.JPG"/>
                     </div>
                 </div>
             </div>
@@ -178,8 +158,24 @@
 </section>
 <!--Pricing ends-->
 
+<section id="work-process" class="padding-s bg-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-sm-12 text-center">
+                <div class="heading-title wow fadeInUp" data-wow-delay="300ms">
+                    <h2 class="font-normal">QUY TRÌNH HỢP TÁC </h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <img class="process-img" src="images/nhuong-quyen/process.JPG"/>
+        </div>
+    </div>
+</section>
+<!--Pricing ends-->
+
 <!-- Work Process -->
-<section id="bg-counters" class="padding bg-counters parallax">
+<!-- <section id="bg-counters" class="padding bg-counters parallax">
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 text-center">
@@ -208,7 +204,9 @@
             </ul>
         </div>
     </div>
-</section>
+</section> -->
+
+
 <!-- Work Process ends-->
 <!--video part section-->
 <section id="story" class="single-feature padding-counter-s bgwhite" >
@@ -230,7 +228,7 @@
                 </ul>
             </div>
             <div class="col-lg-5 offset-lg-1 col-md-5 col-sm-5 wow fadeInRight" data-wow-delay="300ms">
-                <div class="image"><img alt="SEO" src="images/awesome-feature.jpg"></div>
+                <div class="image"><img alt="SEO" src="images/products/awesome-feature.jpg"></div>
             </div>
         </div>
     </div>
