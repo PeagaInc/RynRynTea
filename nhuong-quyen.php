@@ -128,28 +128,28 @@
             <div class="item">
                 <div class="col-md-12">
                     <div class="pricing-item wow fadeInUp animated" data-wow-delay="300ms">
-                        <img src="images/nhuong-quyen/cabin.jpg"/>
+                        <img src="images/nhuong-quyen/cabin.png"/>
                     </div>
                 </div>
             </div>
             <div class="item">
                 <div class="col-md-12">
                     <div class="pricing-item wow fadeInUp animated" data-wow-delay="300ms">
-                        <img src="images/nhuong-quyen/kiosk.jpg"/>
+                        <img src="images/nhuong-quyen/kiosk.png"/>
                     </div>
                 </div>
             </div>
             <div class="item">
                 <div class="col-md-12">
                     <div class="pricing-item wow fadeInUp animated" data-wow-delay="300ms">
-                        <img src="images/nhuong-quyen/store.jpg"/>
+                        <img src="images/nhuong-quyen/store.png"/>
                     </div>
                 </div>
             </div>
             <div class="item">
                 <div class="col-md-12">
                     <div class="pricing-item wow fadeInUp animated" data-wow-delay="300ms">
-                        <img src="images/nhuong-quyen/flagship.jpg"/>
+                        <img src="images/nhuong-quyen/flagship.png"/>
                     </div>
                 </div>
             </div>
@@ -158,7 +158,7 @@
 </section>
 <!--Pricing ends-->
 
-<section id="work-process" class="padding-s bg-white">
+<!-- <section id="work-process" class="padding-s bg-white">
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 text-center">
@@ -171,11 +171,10 @@
             <img class="process-img" src="images/nhuong-quyen/process.jpg"/>
         </div>
     </div>
-</section>
+</section> -->
 <!--Pricing ends-->
 
-<!-- Work Process -->
-<!-- <section id="bg-counters" class="padding bg-counters parallax">
+<section id="bg-counters" class="padding bg-counters parallax">
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12 text-center">
@@ -185,30 +184,29 @@
             </div>
         </div>
         <div class="row">
-            <ul class="process-wrapp">
+            <ul class="process-wrapp width-100">
                 <li class="whitecolor wow fadeIn" data-wow-delay="300ms">
-                    <span class="pro-step bottom20">01</span>
-                    <p class="fontbold bottom25">Concept</p>
-                    <p class="mt-n2 mt-sm-0">Quisque tellus risus, adipisci viverra bibendum urna.</p>
+                    <!-- <span class="pro-step bottom20">01</span> -->
+                    <img class="step-step" src="images/nhuong-quyen/step1.png"/>
+                    <h3 class="fontbold bottom25">Infomation</h3>
+                    <h5 class="mt-n2 mt-sm-0">Thông tin và tư vấn</h5>
                 </li>
                 <li class="whitecolor wow fadeIn" data-wow-delay="400ms">
-                    <span class="pro-step bottom20">02</span>
-                    <p class="fontbold bottom25">Plan</p>
-                    <p class="mt-n2 mt-sm-0">Quisque tellus risus, adipisci viverra bibendum urna.</p>
+                    <img class="step-step" src="images/nhuong-quyen/step2.png"/>
+                    <h3 class="fontbold bottom25">Contract</h3>
+                    <h5 class="mt-n2 mt-sm-0">Hợp đồng</h5>
                 </li>
                 <li class="whitecolor wow fadeIn" data-wow-delay="500ms">
-                    <span class="pro-step bottom20">03</span>
-                    <p class="fontbold bottom25">Design</p>
-                    <p class="mt-n2 mt-sm-0">Quisque tellus risus, adipisci viverra bibendum urna.</p>
+                    <img class="step-step" src="images/nhuong-quyen/step3.png"/>
+                    <h3 class="fontbold bottom25">Design</h3>
+                    <h5 class="mt-n2 mt-sm-0">Triển khai và bàn giao</h5>
                 </li>
             </ul>
         </div>
     </div>
-</section> -->
+</section>
 
-
-<!-- Work Process ends-->
-<!--video part section-->
+<!-- video part section -->
 <section id="story" class="single-feature padding-counter-s bgwhite" >
     <div class="container">
         <div class="row d-flex align-items-center">

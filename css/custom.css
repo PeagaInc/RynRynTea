@@ -499,3 +499,9 @@
   max-width: 100%;
   padding: 30px;
 }
+.width-100{
+  width: 100%;
+}
+.step-step{
+  max-width: 120px;
+}

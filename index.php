@@ -225,7 +225,7 @@
                     <h2 class="darkcolor font-normal bottom30">Sản phẩm</h2>
                 </div>
                 <p class="bottom35 text-jus">Sau 5 năm phát triển, đội ngũ Ryn Ryn đã hoàn thiện quy trình vận hành, sản phẩm được yêu mến và ủng hộ mạnh mẽ từ khách hàng. Điều đáng tự hào nhất là Ryn Ryn đã xây dựng được đội ngũ nhân sự nòng cốt đầy tài năng và trách nhiệm, sẵn sàng hỗ trợ quý đối tác trong suốt quá trình hợp tác. </p>
-                <a href="gioi-thieu" class="button btnthirdary mb-sm-0 mb-4 ">Tất cả sản phẩm <meta></a>
+                <a href="san-pham" class="button btnthirdary mb-sm-0 mb-4 ">Tất cả sản phẩm <meta></a>
             </div>
             <div class="col-lg-5 offset-lg-1 col-md-5 col-sm-5 wow fadeInRight" data-wow-delay="300ms">
                 <div class="image"><img alt="SEO" src="images/index-product.jpg"></div>

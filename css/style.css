@@ -6587,6 +6587,7 @@ ul.latest_news li a:focus+span.defaultcolor {
     }
     .process-wrapp li {
         padding: 60px 15px 0 15px;
+        width: 100%;
     }
 }
 
@@ -6664,6 +6665,7 @@ ul.latest_news li a:focus+span.defaultcolor {
     }
     .process-wrapp li {
         padding: 50px 15px 0 15px;
+        width: 100%;;
     }
     .forget-buttons {
         display: flex;
@@ -6726,6 +6728,7 @@ ul.latest_news li a:focus+span.defaultcolor {
     }
     .process-wrapp li {
         padding: 35px 15px 0 15px;
+        width: 100%;
     }
     .page-header .page-titles {
         transform: translateY(20px);
@@ -6735,6 +6738,9 @@ ul.latest_news li a:focus+span.defaultcolor {
     }
     .sidemenu_btn {
         margin-right: 0;
+    }
+    .process-wrapp li {
+        width: 100%;
     }
 }
 
