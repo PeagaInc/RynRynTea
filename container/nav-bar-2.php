@@ -17,9 +17,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="nhuong-quyen">NHƯỢNG QUYỀN</a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a class="nav-link" href="ve-chung-toi">VỀ CHÚNG TÔI</a>
-                    </li>
+                    </li> -->
                     <li class="nav-item">
                         <a class="nav-link" href="#">TUYỂN DỤNG</a>
                     </li>
@@ -47,9 +47,10 @@
                     <li class="nav-item">
                         <a class="nav-link" href="nhuong-quyen">NHƯỢNG QUYỀN</a>
                     </li>
-                    <li class="nav-item">
+                    <!-- Khách hàng yêu cầu Disable -->
+                    <!-- <li class="nav-item">
                         <a class="nav-link" href="ve-chung-toi">VỀ CHÚNG TÔI</a>
-                    </li>
+                    </li> -->
                     <li class="nav-item">
                         <a class="nav-link" href="#">TUYỂN DỤNG</a>
                     </li>

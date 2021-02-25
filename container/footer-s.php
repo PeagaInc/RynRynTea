@@ -39,7 +39,7 @@
                         <li><a  href="index">TRANG CHỦ</a></li>
                         <li><a  href="san-pham">SẢN PHẨM</a></li>
                         <li><a  href="nhuong-quyen">NHƯỢNG QUYỀN</a></li>
-                        <li><a  href="ve-chung-toi">VỀ CHÚNG TÔI</a></li>
+                        <!-- <li><a  href="ve-chung-toi">VỀ CHÚNG TÔI</a></li> -->
                         <li><a  href="#">TUYỂN DỤNG</a></li>
                     </ul>
                 </div>
