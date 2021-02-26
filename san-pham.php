@@ -46,7 +46,7 @@
                     <div class="overlay overlay-dark opacity-7"></div>
                     <img src="images/bg-portfolio-1.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                     <!-- LAYER NR. 1 -->
-                    <div class="tp-caption tp-resizeme"
+                    <!-- <div class="tp-caption tp-resizeme"
                          data-x="['right','right','center','center']" data-hoffset="['0','0','0','0']"
                          data-y="['middle','middle','middle','middle']" data-voffset="['-90','-90','-90','-90']"
                          data-width="none" data-height="none" data-type="text"
@@ -54,19 +54,19 @@
                          data-responsive_offset="on" data-start="1000"
                          data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
                         <h1 class="text-capitalize font-xlight whitecolor text-center">We're Design Studio</h1>
-                    </div>
+                    </div> -->
                     <!-- LAYER NR. 2 -->
-                    <div class="tp-caption tp-resizeme"
+                    <!-- <div class="tp-caption tp-resizeme"
                          data-x="['right','right','center','center']" data-hoffset="['0','0','0','0']"
                          data-y="['middle','middle','middle','middle']" data-voffset="['-30','-30','-30','-30']"
                          data-width="none" data-height="none" data-type="text"
                          data-textAlign="['center','center','center','center']"
                          data-responsive_offset="on" data-start="1000"
                          data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h1 class="text-capitalize font-bold whitecolor text-center">Believes In</h1>
-                    </div>
+                        <h1 class="text-capitalize font-bold whitecolor text-center"></h1>
+                    </div> -->
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption tp-resizeme"
+                    <!-- <div class="tp-caption tp-resizeme"
                          data-x="['right','right','center','center']" data-hoffset="['0','0','0','0']"
                          data-y="['middle','middle','middle','middle']" data-voffset="['30','30','30','30']"
                          data-width="none" data-height="none" data-type="text"
@@ -74,9 +74,9 @@
                          data-responsive_offset="on" data-start="1500"
                          data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
                         <h1 class="text-capitalize font-xlight whitecolor text-center">An Innovation</h1>
-                    </div>
+                    </div> -->
                     <!-- LAYER NR. 4 -->
-                    <div class="tp-caption tp-resizeme"
+                    <!-- <div class="tp-caption tp-resizeme"
                          data-x="['right','right','center','center']" data-hoffset="['0','0','0','0']"
                          data-y="['middle','middle','middle','middle']" data-voffset="['80','80','80','80']"
                          data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
@@ -84,7 +84,7 @@
                          data-responsive_offset="on" data-start="2000"
                          data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
                         <h4 class="whitecolor font-xlight text-center">The Best Multipurpose Parallax Template in Market</h4>
-                    </div>
+                    </div> -->
                 </li>
                 <!-- SLIDE 2 -->
                 <li data-index="rs-02" data-transition="fade" data-slotamount="default" data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="2000" data-fsmasterspeed="1500" data-param1="02">
@@ -92,7 +92,7 @@
                     <div class="overlay overlay-dark opacity-6"></div>
                     <img src="images/product/menu-1.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                     <!-- LAYER NR. 1 -->
-                    <div class="tp-caption tp-resizeme"
+                    <!-- <div class="tp-caption tp-resizeme"
                          data-x="['left','left','center','center']" data-hoffset="['0','0','0','0']"
                          data-y="['middle','middle','middle','middle']" data-voffset="['-90','-90','-90','-90']"
                          data-width="none" data-height="none" data-type="text"
@@ -100,19 +100,28 @@
                          data-responsive_offset="on" data-start="1000"
                          data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
                         <h1 class="text-capitalize font-xlight whitecolor text-center">The Creativity</h1>
-                    </div>
+                    </div> -->
                     <!-- LAYER NR. 2 -->
-                    <div class="tp-caption tp-resizeme"
+                    <!-- <div class="tp-caption tp-resizeme"
                          data-x="['left','left','center','center']" data-hoffset="['0','0','0','0']"
                          data-y="['middle','middle','middle','middle']" data-voffset="['-30','-30','-30','-30']"
                          data-width="none" data-height="none" data-type="text"
                          data-textAlign="['center','center','center','center']"
                          data-responsive_offset="on" data-start="1000"
                          data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h1 class="text-capitalize font-bold whitecolor text-center">Finds In Our Works</h1>
+                        <h1 class="text-capitalize font-bold whitecolor text-center">Trà sữa</h1>
+                    </div> -->
+                    <div class="tp-caption tp-resizeme"
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['-70','-70','-50','-20']"
+                         data-width="none" data-height="none" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="1000"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":1000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":500,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h1 class="text-capitalize font-bold whitecolor text-center">TRÀ SỮA</h1>
                     </div>
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption tp-resizeme"
+                    <!-- <div class="tp-caption tp-resizeme"
                          data-x="['left','left','center','center']" data-hoffset="['0','0','0','0']"
                          data-y="['middle','middle','middle','middle']" data-voffset="['30','30','30','30']"
                          data-width="none" data-height="none" data-type="text"
@@ -120,9 +129,9 @@
                          data-responsive_offset="on" data-start="1500"
                          data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
                         <h1 class="text-capitalize font-xlight whitecolor text-center">Let's Buy</h1>
-                    </div>
+                    </div> -->
                     <!-- LAYER NR. 4 -->
-                    <div class="tp-caption tp-resizeme"
+                    <!-- <div class="tp-caption tp-resizeme"
                          data-x="['left','left','center','center']" data-hoffset="['0','0','0','0']"
                          data-y="['middle','middle','middle','middle']" data-voffset="['80','80','80','80']"
                          data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
@@ -130,7 +139,7 @@
                          data-responsive_offset="on" data-start="2000"
                          data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
                         <h4 class="whitecolor font-xlight text-center">The Best Multipurpose Multi Page Parallax Template</h4>
-                    </div>
+                    </div> -->
                 </li>
                 <!-- SLIDE 3 -->
                 <li data-index="rs-03" data-transition="fade" data-slotamount="default" data-easein="Power3.easeInOut" data-easeout="Power3.easeInOut" data-masterspeed="2000" data-fsmasterspeed="1500" data-param1="03">
@@ -138,7 +147,7 @@
                     <div class="overlay overlay-dark opacity-6"></div>
                     <img src="images/product/menu-2.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                     <!-- LAYER NR. 1 -->
-                    <div class="tp-caption tp-resizeme"
+                    <!-- <div class="tp-caption tp-resizeme"
                          data-x="['right','right','center','center']" data-hoffset="['0','0','0','0']"
                          data-y="['middle','middle','middle','middle']" data-voffset="['-90','-90','-90','-90']"
                          data-width="none" data-height="none" data-type="text"
@@ -146,19 +155,28 @@
                          data-responsive_offset="on" data-start="1000"
                          data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
                         <h1 class="text-capitalize font-xlight whitecolor text-center">The Ultimate</h1>
-                    </div>
+                    </div> -->
                     <!-- LAYER NR. 2 -->
-                    <div class="tp-caption tp-resizeme"
+                    <!-- <div class="tp-caption tp-resizeme"
                          data-x="['right','right','center','center']" data-hoffset="['0','0','0','0']"
                          data-y="['middle','middle','middle','middle']" data-voffset="['-30','-30','-30','-30']"
                          data-width="none" data-height="none" data-type="text"
                          data-textAlign="['center','center','center','center']"
                          data-responsive_offset="on" data-start="1000"
                          data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h1 class="text-capitalize font-bold whitecolor text-center">Creative Business</h1>
+                        <h1 class="text-capitalize font-bold whitecolor text-center">TRÀ TRÁI CÂY</h1>
+                    </div> -->
+                    <div class="tp-caption tp-resizeme"
+                        data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                         data-y="['middle','middle','middle','middle']" data-voffset="['-70','-70','-50','-20']"
+                         data-width="none" data-height="none" data-type="text"
+                         data-textAlign="['center','center','center','center']"
+                         data-responsive_offset="on" data-start="1000"
+                         data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":1000,"to":"o:1;","delay":500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
+                        <h1 class="text-capitalize font-bold whitecolor text-center">TRÀ TRÁI CÂY</h1>
                     </div>
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption tp-resizeme"
+                    <!-- <div class="tp-caption tp-resizeme"
                          data-x="['right','right','center','center']" data-hoffset="['0','0','0','0']"
                          data-y="['middle','middle','middle','middle']" data-voffset="['30','30','30','30']"
                          data-width="none" data-height="none" data-type="text"
@@ -166,9 +184,9 @@
                          data-responsive_offset="on" data-start="1500"
                          data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":2000,"to":"o:1;","delay":1500,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
                         <h1 class="text-capitalize font-xlight whitecolor text-center">In Market</h1>
-                    </div>
+                    </div> -->
                     <!-- LAYER NR. 4 -->
-                    <div class="tp-caption tp-resizeme"
+                    <!-- <div class="tp-caption tp-resizeme"
                          data-x="['right','right','center','center']" data-hoffset="['0','0','0','0']"
                          data-y="['middle','middle','middle','middle']" data-voffset="['80','80','80','80']"
                          data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
@@ -176,7 +194,7 @@
                          data-responsive_offset="on" data-start="2000"
                          data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
                         <h4 class="whitecolor font-xlight text-center">The Best Multipurpose Parallax Template in Market</h4>
-                    </div>
+                    </div> -->
                 </li>
                 
             </ul>

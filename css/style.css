@@ -1160,7 +1160,7 @@ section,
     content: url("../images/leftarrow.png");
 }
 
-#rev_slider_8_1 .tp-rightarrow .hvr-pulse:before {
+#   _8_1 .tp-rightarrow .hvr-pulse:before {
     content: url("../images/rightarrow.png");
 }
 
