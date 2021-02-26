@@ -251,6 +251,19 @@
   .full-text {
     display: none !important;
   }
+  .small-text{
+    font-size: 22px  !important;    
+  }
+  .large-text{
+    display: none !important; 
+     
+  }
+}
+
+@media(min-width: 769px) {
+  .small-text{
+    display: none !important;
+  }
 }
 
 .hotline-phone-ring-wrap {

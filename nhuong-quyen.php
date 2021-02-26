@@ -72,7 +72,8 @@
                          data-textAlign="['center','center','center','center']"
                          data-responsive_offset="on" data-start="1000"
                          data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":1000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":500,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h1 class="text-capitalize font-bold whitecolor text-center">MÔ HÌNH XE BUS VỈA HÈ</h1>
+                        <h1 class="large-text text-capitalize font-bold whitecolor text-center">MÔ HÌNH XE BUS VỈA HÈ</h1>
+                        <h1 class="small-text text-capitalize font-bold whitecolor text-center">MÔ HÌNH XE BUS VỈA HÈ</h1>
                     </div>
                     <!-- LAYER NR. 3 -->
                     <!-- <div class="tp-caption tp-resizeme"
@@ -127,7 +128,8 @@
                          data-textAlign="['center','center','center','center']"
                          data-responsive_offset="on" data-start="1000"
                          data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":1000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":500,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h1 class="text-capitalize font-bold whitecolor text-center">MÔ HÌNH XE BUS VỈA HÈ</h1>
+                        <h1 class="large-text text-capitalize font-bold whitecolor text-center">MÔ HÌNH XE BUS VỈA HÈ</h1>
+                        <h1 class="small-text text-capitalize font-bold whitecolor text-center">MÔ HÌNH XE BUS VỈA HÈ</h1>
                     </div>
                     <!-- LAYER NR. 3 -->
                     <!-- <div class="tp-caption tp-resizeme"
@@ -182,7 +184,8 @@
                          data-textAlign="['center','center','center','center']"
                          data-responsive_offset="on" data-start="1000"
                          data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":1000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":500,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h1 class="text-capitalize font-bold whitecolor text-center">MÔ HÌNH XE BUS VỈA HÈ</h1>
+                        <h1 class="large-text text-capitalize font-bold whitecolor text-center">MÔ HÌNH XE BUS VỈA HÈ</h1>
+                        <h1 class="small-text text-capitalize font-bold whitecolor text-center">MÔ HÌNH XE BUS VỈA HÈ</h1>
                     </div>
                     <!-- LAYER NR. 3 -->
                     <!-- <div class="tp-caption tp-resizeme"
@@ -236,7 +239,8 @@
                          data-textAlign="['center','center','center','center']"
                          data-responsive_offset="on" data-start="1000"
                          data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","speed":1000,"to":"o:1;","delay":2000,"ease":"Power4.easeInOut"},{"delay":"wait","speed":500,"to":"y:[100%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"}]'>
-                        <h1 class="text-capitalize font-bold whitecolor text-center">MÔ HÌNH XE BUS VỈA HÈ</h1>
+                        <h1 class="large-text text-capitalize font-bold whitecolor text-center">MÔ HÌNH XE BUS VỈA HÈ</h1>
+                        <h1 class="small-text text-capitalize font-bold whitecolor text-center">MÔ HÌNH XE BUS VỈA HÈ</h1>
                     </div>
                     <!-- LAYER NR. 3 -->
                     <!-- <div class="tp-caption tp-resizeme"
